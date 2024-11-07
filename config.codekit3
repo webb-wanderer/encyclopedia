@@ -7230,14 +7230,6 @@
       "oAP" : "\/witness\/perpetrator\/bock-richard\/238\/index.html",
       "oF" : 0
     },
-    "\/witness\/perpetrator\/bock-richard\/index-PreviewTemp-A78C884A-D3B0-4701-B15D-24B808B7201F.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/witness\/perpetrator\/bock-richard\/index-PreviewTemp-A78C884A-D3B0-4701-B15D-24B808B7201F.html",
-      "oF" : 0
-    },
     "\/witness\/perpetrator\/bock-richard\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -11545,12 +11537,12 @@
       "oAP" : "\/wp-content\/uploads\/AuschwitzBombingOf.mp3",
       "oF" : 0
     },
-    "\/wp-content\/uploads\/AuschwitzCremaI1942-scaled.jpg" : {
+    "\/wp-content\/uploads\/AuschwitzCremaI1942.jpg" : {
       "ft" : 16384,
       "iS" : 353638,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/AuschwitzCremaI1942-scaled.jpg",
+      "oAP" : "\/wp-content\/uploads\/AuschwitzCremaI1942.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -12999,12 +12991,12 @@
       "oAP" : "\/wp-content\/uploads\/Crematoria.mp3",
       "oF" : 0
     },
-    "\/wp-content\/uploads\/CrematoriumIVPlan-scaled.jpg" : {
+    "\/wp-content\/uploads\/CrematoriumIVPlan.jpg" : {
       "ft" : 16384,
       "iS" : 228340,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/CrematoriumIVPlan-scaled.jpg",
+      "oAP" : "\/wp-content\/uploads\/CrematoriumIVPlan.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -15138,6 +15130,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/wp-content\/uploads\/HolocaustFilmStats.png" : {
+      "ft" : 32768,
+      "iS" : 38559,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/uploads\/HolocaustFilmStats.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
