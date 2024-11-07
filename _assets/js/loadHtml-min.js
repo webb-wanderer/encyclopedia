@@ -1,0 +1,1 @@
+function loadHtml(e,t){fetch(t).then((e=>e.text())).then((t=>document.querySelector(e).innerHTML=t))}

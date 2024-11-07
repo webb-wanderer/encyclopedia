@@ -1,0 +1,169 @@
+@charset "UTF-8";
+
+body
+{
+	color: black;
+	font-family: Georgia, serif;
+}
+
+h1, h2, h3, h4, h5, h6, .breadcrumb, .lead, .navigation, .panel-heading { font-family: 'Trebuchet MS', sans-serif; }
+h4 { font-weight: bold; }
+caption { text-align: center; }
+
+h5
+{
+	font-size: 17px;
+	font-weight: 700;
+}
+
+h6
+{
+	font-size: 16px;
+	font-weight: 700;
+}
+
+article p, article li, article dl
+{
+	font-size: 16px;
+	line-height: 1.5;
+}
+
+cite { font-style: italic; }
+dt { margin-top: 1em; }
+dd { margin-left: 1em; }
+
+figure, iframe, object
+{
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+form { padding-bottom: 1em; }
+q:before { content: "\201c"; }
+q:after { content: "\201d"; }
+q q:before { content: "\2018"; }
+q q:after { content: "\2019"; }
+
+sub, sup, .footnote
+{
+	font-size: smaller;
+	vertical-align: baseline;
+	position: relative;
+}
+
+sup, .footnote { bottom: 0.33em; }
+sub { bottom: -0.25em; }
+.breadcrumb { margin-top: 1em; }
+.embed-responsive { margin-bottom: 1em; }
+
+.footer
+{
+	border-color: green;
+	border-width: 1px 0 0 0;
+	border-style: solid none none none;
+	padding-top: 1em;
+}
+
+.header
+{
+	border-bottom: green;
+	border-style: none none solid none;
+	border-width: 0 0 1px 0;
+	text-align: center;
+}
+
+.indent
+{
+	padding: 1em 2em 1em 2em;
+	text-align: center;
+}
+
+.linker
+{
+	text-align: center;
+	font-weight: bold;
+	font-size: .9em;
+	padding-bottom: 1em;
+}
+
+.navigation a
+{
+	color: gray;
+	background-color: white;
+	font-size: 100%;
+	text-decoration: none;
+	margin: 0;
+	padding: 1px 5px 1px 10px;
+	border-left: 1px solid green;
+	display: block;
+}
+
+.navigation h4
+{
+	color: maroon;
+	font-weight: bold;
+	font-size: 100%;
+	background-color: transparent;
+	margin: 0;
+	padding: 1em 5px 0 2px;
+	border-bottom: 1px solid green;
+	border-left: 1px solid green;
+}
+
+.navigation a:hover
+{
+	color: blue;
+	background-color: #ff9;
+	padding-left: 7px;
+	border-left: 4px solid maroon;
+}
+
+.navigation a#comment
+{
+	border-style: solid;
+	border-width: 1px 1px 1px 4px;
+	border-color: rgb(60%,48%,40%);
+	background-color: #ffeae5;
+	color: black;
+	padding-left: 7px;
+}
+
+.pdf, #pdf, .scribd_iframe_embed
+{
+	height: 600px;
+	width: 100%;
+}
+
+.pressac { padding-left: 1em; }
+.pull-left { margin-right: 1em; }
+.pull-right { margin-left: 1em; }
+
+#redvols
+{
+	color: red;
+	font-style: italic;
+	font-weight: bold;
+}
+
+#redvols a
+{
+	color: red;
+	text-decoration: none;
+}
+
+/* back to top */
+#top-link-block.affix-top
+{
+	position: absolute;
+	/* allows it to "slide" up into view */
+	bottom: -82px;
+	right: 1em;
+}
+
+#top-link-block.affix
+{
+	position: fixed;
+	/* keeps it on the bottom once in view */
+	bottom: 60px;
+	right: 1em;
+}
