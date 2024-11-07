@@ -6182,6 +6182,14 @@
       "oAP" : "\/search.html",
       "oF" : 0
     },
+    "\/sitemap.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/sitemap.html",
+      "oF" : 0
+    },
     "\/sitemap.txt" : {
       "cB" : 0,
       "ft" : 8192,
