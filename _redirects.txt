@@ -1,0 +1,1 @@
+http://encyclohhpedia.netlify.app/* https://encyclopedia.historiography-project.com/:splat 301!
