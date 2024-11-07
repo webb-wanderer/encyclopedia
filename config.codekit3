@@ -12727,6 +12727,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/wp-content\/uploads\/CensorshipTypeWriterExecution.png" : {
+      "ft" : 32768,
+      "iS" : 19218,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/uploads\/CensorshipTypeWriterExecution.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/wp-content\/uploads\/ChamaidesHeinrich.mp3" : {
       "cB" : 0,
       "ft" : 8192,
