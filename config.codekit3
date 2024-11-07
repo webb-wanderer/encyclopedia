@@ -13936,19 +13936,6 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/wp-content\/uploads\/FlossenbuergShower.jpg" : {
-      "ft" : 16384,
-      "iS" : 529994,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/FlossenbuergShower.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/wp-content\/uploads\/Flossenburg.mp3" : {
       "cB" : 0,
       "ft" : 8192,
@@ -18346,6 +18333,19 @@
       "oA" : 0,
       "oAP" : "\/wp-content\/uploads\/RosinArnost.mp3",
       "oF" : 0
+    },
+    "\/wp-content\/uploads\/RozettSpectorCover.jpg" : {
+      "ft" : 16384,
+      "iS" : 41111,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/uploads\/RozettSpectorCover.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/wp-content\/uploads\/Rumbula.mp3" : {
       "cB" : 0,
