@@ -230,12 +230,12 @@
       "oAP" : "\/_downloads.html",
       "oF" : 0
     },
-    "\/_redirects.txt" : {
+    "\/_redirects" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/_redirects.txt",
+      "oAP" : "\/_redirects",
       "oF" : 0
     },
     "\/404.html" : {
