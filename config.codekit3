@@ -13960,6 +13960,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/wp-content\/uploads\/FlossenbuergShower.jpg" : {
+      "ft" : 16384,
+      "iS" : 564908,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/uploads\/FlossenbuergShower.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/wp-content\/uploads\/Flossenburg.mp3" : {
       "cB" : 0,
       "ft" : 8192,
