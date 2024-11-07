@@ -230,6 +230,14 @@
       "oAP" : "\/_downloads.html",
       "oF" : 0
     },
+    "\/404.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/404.html",
+      "oF" : 0
+    },
     "\/about-us\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -6156,6 +6164,22 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/result\/survivors\/index.html",
+      "oF" : 0
+    },
+    "\/robots.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/robots.txt",
+      "oF" : 0
+    },
+    "\/sitemap.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/sitemap.txt",
       "oF" : 0
     },
     "\/tag\/a\/index.html" : {
