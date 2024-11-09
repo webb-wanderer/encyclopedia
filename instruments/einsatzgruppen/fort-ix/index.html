@@ -12,7 +12,7 @@
 <header class="header"><a href="https://www.historiography-project.com/index.php" title="The Holocaust Historiography Project"><img src="/_assets/img/hhlogo2.png" alt="The Holocaust Historiography Project"></a></header><main class="container-fluid"><div class="row"><article class="col-md-9">
 <!-- end bbinclude -->
 <!-- #bbinclude "header.incl" -->
-<h1>Holocaust Encyclopedia</h1><p class="lead">uncensored and unconstrained</p><div id="masthead"></div>
+<h1>Holocaust Encyclopedia</h1><p class="lead">uncensored and unconstrained</p><div id="masthead"></div><nav id="breadcrumbs"></nav>
 <!-- end bbinclude -->
 			<h2>
 				Fort IX
@@ -24,10 +24,10 @@
 				The city of Kaunas, Lithuania, has nine 19th-century fortresses surrounding the entire city. Some of them were used as NKVD prisons after the Soviet Union&rsquo;s invasion of the <a href="/location/country/baltic-countries/index.html">Baltic states</a> in 1940. During the German occupation of the area, these prisons served to detain and presumably kill Jews from the Kaunas Ghetto and deported from Germany.
 			</p>
 			<p>
-				While the reports by the <a href="/tool/einsatzgruppen/index.html"><i>Einsatzgruppen</i></a> mention the execution of 10,562 plus <q>thousands</q> more at Kaunas, Fort IX is not explicitly mentioned in them. The <a href="/document/jager-report/index.html">Jäger Report</a> of early December 1941, however, tallies 3,420 Jews executed at Fort IV, 3,238 Jews at Fort VII, 16,013 at Fort IX, and 534 Jews killed at an unspecified fort. Some 5,000 of the Jews executed at that fort are said to have been German Jews sent to Kaunas allegedly for <q><a href="/plan-order/resettlement/index.html">resettlement</a>,</q> but who were instead all killed on arrival, if we are to believe the orthodox narrative. The other victims are all said to have been Jews from the local ghetto.
+				While the reports by the <a href="/instruments/tool/einsatzgruppen/index.html"><i>Einsatzgruppen</i></a> mention the execution of 10,562 plus <q>thousands</q> more at Kaunas, Fort IX is not explicitly mentioned in them. The <a href="/document/jager-report/index.html">Jäger Report</a> of early December 1941, however, tallies 3,420 Jews executed at Fort IV, 3,238 Jews at Fort VII, 16,013 at Fort IX, and 534 Jews killed at an unspecified fort. Some 5,000 of the Jews executed at that fort are said to have been German Jews sent to Kaunas allegedly for <q><a href="/plan-order/resettlement/index.html">resettlement</a>,</q> but who were instead all killed on arrival, if we are to believe the orthodox narrative. The other victims are all said to have been Jews from the local ghetto.
 			</p>
 			<p>
-				The <a href="/document/jager-report/index.html">Jäger Report</a> has several problematic features, among them that its data are not corroborated by the <a href="/tool/einsatzgruppen/index.html"><i>Einsatzgruppen</i></a>&rsquo;s Event Reports. Witness testimonies on the alleged exhumation and burning of corpses from the claimed <a href="/location/other-crime-scene/mass-graves/index.html">mass graves</a> of this execution site are highly problematic. They make a string of claims that are technically impossible. This is particularly true for the testimony of <a href="/witness/victim/faitelson-alex/index.html">Alex Faitelson</a> (see this entry for more details).
+				The <a href="/document/jager-report/index.html">Jäger Report</a> has several problematic features, among them that its data are not corroborated by the <a href="/instruments/tool/einsatzgruppen/index.html"><i>Einsatzgruppen</i></a>&rsquo;s Event Reports. Witness testimonies on the alleged exhumation and burning of corpses from the claimed <a href="/location/other-crime-scene/mass-graves/index.html">mass graves</a> of this execution site are highly problematic. They make a string of claims that are technically impossible. This is particularly true for the testimony of <a href="/witness/victim/faitelson-alex/index.html">Alex Faitelson</a> (see this entry for more details).
 			</p>
 			<p>
 				German wartime documents confirm that during the night from 25 to 26 December 1943, 63 Jews escaped from Fort IX. On 26 December 1943, eleven of them signed a declaration written in the classical style of Soviet propaganda. In it, they claimed that their group of initially 72 prisoners, shackled with steel chains, had been forced to exhume and burn some 12,000 bodies from 4½ mass graves between 1 November and 25 December 1943. Some 5,000 of them were German Jews, while 7,000 were from Kaunas. How they could know this is unknown. The signatories estimated that 9½ more mass grave had not yet been processed when they fled. Hence, a total of some 40,000 victims were presumably buried in all graves taken together &mdash; not the 16,013 listed in the <a href="/document/jager-report/index.html">Jäger Report</a>.
@@ -76,10 +76,12 @@
 <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
-<script src="/_assets/js/loadHtml.js"></script><script>
-	loadHtml("#masthead", "/_assets/includes/masthead.htm");
-	loadHtml("#aside", "/_assets/includes/aside.htm");
-	loadHtml("#nav-hhp", "/_assets/includes/nav.htm");</script>
+
+<script>
+	$( "#masthead" ).load( "/_assets/includes/masthead.htm" );
+//	$( "#breadcrumbs" ).load( "nav.htm" );
+	$( "#aside" ).load( "/_assets/includes/aside.htm" );
+	$( "#nav-hhp" ).load( "/_assets/includes/nav.htm" );</script>
 <script src="/_assets/bootstrap3_player/bootstrap3_player.js" type="360cc5a5ec7adab840b8d2c3-text/javascript"></script>
 
 <!-- end bbinclude -->

@@ -12,7 +12,7 @@
 <header class="header"><a href="https://www.historiography-project.com/index.php" title="The Holocaust Historiography Project"><img src="/_assets/img/hhlogo2.png" alt="The Holocaust Historiography Project"></a></header><main class="container-fluid"><div class="row"><article class="col-md-9">
 <!-- end bbinclude -->
 <!-- #bbinclude "header.incl" -->
-<h1>Holocaust Encyclopedia</h1><p class="lead">uncensored and unconstrained</p><div id="masthead"></div>
+<h1>Holocaust Encyclopedia</h1><p class="lead">uncensored and unconstrained</p><div id="masthead"></div><nav id="breadcrumbs"></nav>
 <!-- end bbinclude -->
 			<h2>
 				Excavations, of German Mass Graves
@@ -28,7 +28,7 @@
 				<li>Excavations by groups inimical to the Third Reich with the aim to expose National-Socialist mass atrocities. These were carried out already during the war by the Soviets, as they reconquered their territory. In subsequent years, Polish and other judicial authorities, forensic investigators and historical researchers continued this work well into the 2000s.</li>
 			</ol>
 			<p>
-				The reports of Soviet commissions claiming to have excavated German mass graves on Soviet territory are discussed in the entry on <a href="/aktion-1005/index.html"><i>Aktion</i> 1005</a>. Polish, Soviet, Israeli, Serbian and British forensic research into mass graves at the various claimed extermination camps are discussed in the respective entries for these camps (<a href="/camp/pure-extermination-camp/belzec/index.html">Belzec</a>, <a href="/camp/pure-extermination-camp/chelmno/index.html">Chełmno</a>, <a href="/camp/maly-trostenets/index.html">Maly Trostenets</a>, <a href="/location/camps/semlin/index.html">Semlin</a>, <a href="/location/camps/sobibor/index.html">Sobibór</a>, <a href="/redirect/wesolowski-jerzy-tabeau-jerzy/index.html">Treblinka</a>). No systematic forensic research on possible (former) mass graves at <a href="/camp/mixed-purpose-camp/auschwitz/index.html">Auschwitz</a> seems to have been conducted, or at least their results have not been made publicly accessible. Latter-day forensic examination of <a href="/tool/einsatzgruppen/index.html"><i>Einsatzgruppen</i></a> mass graves are discussed in the section <q>Forensic Findings</q> of the <a href="/tool/einsatzgruppen/index.html#Forensic"><i>Einsatzgruppen</i></a> entry.
+				The reports of Soviet commissions claiming to have excavated German mass graves on Soviet territory are discussed in the entry on <a href="/aktion-1005/index.html"><i>Aktion</i> 1005</a>. Polish, Soviet, Israeli, Serbian and British forensic research into mass graves at the various claimed extermination camps are discussed in the respective entries for these camps (<a href="/camp/pure-extermination-camp/belzec/index.html">Belzec</a>, <a href="/camp/pure-extermination-camp/chelmno/index.html">Chełmno</a>, <a href="/camp/maly-trostenets/index.html">Maly Trostenets</a>, <a href="/location/camps/semlin/index.html">Semlin</a>, <a href="/location/camps/sobibor/index.html">Sobibór</a>, <a href="/redirect/wesolowski-jerzy-tabeau-jerzy/index.html">Treblinka</a>). No systematic forensic research on possible (former) mass graves at <a href="/camp/mixed-purpose-camp/auschwitz/index.html">Auschwitz</a> seems to have been conducted, or at least their results have not been made publicly accessible. Latter-day forensic examination of <a href="/instruments/tool/einsatzgruppen/index.html"><i>Einsatzgruppen</i></a> mass graves are discussed in the section <q>Forensic Findings</q> of the <a href="/instrument/tool/einsatzgruppen/index.html#Forensic"><i>Einsatzgruppen</i></a> entry.
 			</p>
 			<nav class="post-navigation">
 				<h3>
@@ -56,10 +56,12 @@
 <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
-<script src="/_assets/js/loadHtml.js"></script><script>
-	loadHtml("#masthead", "/_assets/includes/masthead.htm");
-	loadHtml("#aside", "/_assets/includes/aside.htm");
-	loadHtml("#nav-hhp", "/_assets/includes/nav.htm");</script>
+
+<script>
+	$( "#masthead" ).load( "/_assets/includes/masthead.htm" );
+//	$( "#breadcrumbs" ).load( "nav.htm" );
+	$( "#aside" ).load( "/_assets/includes/aside.htm" );
+	$( "#nav-hhp" ).load( "/_assets/includes/nav.htm" );</script>
 <script src="/_assets/bootstrap3_player/bootstrap3_player.js" type="360cc5a5ec7adab840b8d2c3-text/javascript"></script>
 
 <!-- end bbinclude -->

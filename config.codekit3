@@ -238,6 +238,30 @@
       "oAP" : "\/404.html",
       "oF" : 0
     },
+    "\/a\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/a\/index.html",
+      "oF" : 0
+    },
+    "\/a\/nav.htm" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/a\/nav.htm",
+      "oF" : 0
+    },
+    "\/about-us\/index-PreviewTemp-BB8FF247-B9F3-41FC-A5DB-56E0A7CE8820.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/about-us\/index-PreviewTemp-BB8FF247-B9F3-41FC-A5DB-56E0A7CE8820.html",
+      "oF" : 0
+    },
     "\/about-us\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -526,6 +550,14 @@
       "oAP" : "\/category\/historical-person\/propagandist\/index.html",
       "oF" : 0
     },
+    "\/category\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/category\/index.html",
+      "oF" : 0
+    },
     "\/category\/instruments\/camp\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -756,6 +788,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/category\/manipulation\/index.html",
+      "oF" : 0
+    },
+    "\/category\/nav.htm" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/category\/nav.htm",
       "oF" : 0
     },
     "\/category\/object\/index.html" : {
@@ -3238,6 +3278,14 @@
       "oAP" : "\/manipulation\/propaganda\/index.html",
       "oF" : 0
     },
+    "\/nav.htm" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/nav.htm",
+      "oF" : 0
+    },
     "\/object\/gold-teeth\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3388,14 +3436,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/plan-order\/wartime-leader\/kaltenbrunner-ernst\/index.html",
-      "oF" : 0
-    },
-    "\/preface\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/preface\/index.html",
       "oF" : 0
     },
     "\/redirect\/annihilation-extirpation\/index.html" : {
@@ -4046,20 +4086,12 @@
       "oAP" : "\/robots.txt",
       "oF" : 0
     },
-    "\/search.html" : {
+    "\/search\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/search.html",
-      "oF" : 0
-    },
-    "\/sitemap.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/sitemap.html",
+      "oAP" : "\/search\/index.html",
       "oF" : 0
     },
     "\/sitemap.txt" : {
@@ -4068,6 +4100,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/sitemap.txt",
+      "oF" : 0
+    },
+    "\/sitemap\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/sitemap\/index.html",
       "oF" : 0
     },
     "\/tag\/a\/index.html" : {
@@ -4508,6 +4548,46 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/toxin-chemical\/zyklon-b\/index.html",
+      "oF" : 0
+    },
+    "\/u\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/u\/index.html",
+      "oF" : 0
+    },
+    "\/u\/nav.htm" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/u\/nav.htm",
+      "oF" : 0
+    },
+    "\/u\/uhlenbrock-kurt\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/u\/uhlenbrock-kurt\/index.html",
+      "oF" : 0
+    },
+    "\/u\/ukraine\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/u\/ukraine\/index.html",
+      "oF" : 0
+    },
+    "\/u\/uthgenannt-otto\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/u\/uthgenannt-otto\/index.html",
       "oF" : 0
     },
     "\/victim-groups\/gypsies\/index.html" : {

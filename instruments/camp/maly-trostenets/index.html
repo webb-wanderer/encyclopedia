@@ -12,7 +12,7 @@
 <header class="header"><a href="https://www.historiography-project.com/index.php" title="The Holocaust Historiography Project"><img src="/_assets/img/hhlogo2.png" alt="The Holocaust Historiography Project"></a></header><main class="container-fluid"><div class="row"><article class="col-md-9">
 <!-- end bbinclude -->
 <!-- #bbinclude "header.incl" -->
-<h1>Holocaust Encyclopedia</h1><p class="lead">uncensored and unconstrained</p><div id="masthead"></div>
+<h1>Holocaust Encyclopedia</h1><p class="lead">uncensored and unconstrained</p><div id="masthead"></div><nav id="breadcrumbs"></nav>
 <!-- end bbinclude -->
 			<h2>
 				Maly Trostenets
@@ -48,7 +48,7 @@
 				This entire scenario becomes even more absurd when considering that the Jews deported from Vienna and Theresienstadt travelled huge distances to reach Minsk, passing by places such as <a href="/pure-extermination-camp/treblinka/index.html">Treblinka</a>, <a href="/location/camps/sobibor/index.html">Sobibór</a> and/or <a href="/mixed-purpose-camp/auschwitz/index.html">Auschwitz</a> along the way without stopping to get <q>processed</q> there. If the intention had been to murder them, and if these camps located along the way had indeed been <a href="/pure-extermination-camp/aktion-reinhardt-camps/index.html">extermination camps</a>, then the journey of these Jews would have been much shorter. Sending them to Minsk made sense only if the intention was not to kill them but to keep them alive, for whatever purpose.
 			</p>
 			<p>
-				In the larger orthodox picture of the Holocaust, the events said to have transpired at Maly Trostenets can be seen as part of the mass murders by shooting or gas vans that were presumably perpetrated by the <a href="/tool/einsatzgruppen/index.html"><i>Einsatzgruppen</i></a> and associated units. Because this alleged mass-murder site had some rudimentary features giving it a temporary presence, such as a provisional railway station, an assembly square and several barracks, orthodox historians tend to call it an extermination or death camp. This sets it apart from mere execution sites such as <a href="/location/other-crime-scene/babi-yar/index.html">Babi Yar</a>. In several respects, Maly Trostenets resembled the <a href="/pure-extermination-camp/chelmno/index.html">Chełmno Camp</a>.
+				In the larger orthodox picture of the Holocaust, the events said to have transpired at Maly Trostenets can be seen as part of the mass murders by shooting or gas vans that were presumably perpetrated by the <a href="/instruments/tool/einsatzgruppen/index.html"><i>Einsatzgruppen</i></a> and associated units. Because this alleged mass-murder site had some rudimentary features giving it a temporary presence, such as a provisional railway station, an assembly square and several barracks, orthodox historians tend to call it an extermination or death camp. This sets it apart from mere execution sites such as <a href="/location/other-crime-scene/babi-yar/index.html">Babi Yar</a>. In several respects, Maly Trostenets resembled the <a href="/pure-extermination-camp/chelmno/index.html">Chełmno Camp</a>.
 			</p>
 			<p>
 				Witnesses, Soviet <q>experts</q> and orthodox historians have mentioned death-toll figures ranging from 40,000 up to 546,000, thus repeating the pattern found elsewhere of basing these claims more on wild guesses than thorough research.
@@ -149,10 +149,12 @@
 <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
-<script src="/_assets/js/loadHtml.js"></script><script>
-	loadHtml("#masthead", "/_assets/includes/masthead.htm");
-	loadHtml("#aside", "/_assets/includes/aside.htm");
-	loadHtml("#nav-hhp", "/_assets/includes/nav.htm");</script>
+
+<script>
+	$( "#masthead" ).load( "/_assets/includes/masthead.htm" );
+//	$( "#breadcrumbs" ).load( "nav.htm" );
+	$( "#aside" ).load( "/_assets/includes/aside.htm" );
+	$( "#nav-hhp" ).load( "/_assets/includes/nav.htm" );</script>
 <script src="/_assets/bootstrap3_player/bootstrap3_player.js" type="360cc5a5ec7adab840b8d2c3-text/javascript"></script>
 
 <!-- end bbinclude -->

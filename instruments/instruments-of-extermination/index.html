@@ -12,7 +12,7 @@
 <header class="header"><a href="https://www.historiography-project.com/index.php" title="The Holocaust Historiography Project"><img src="/_assets/img/hhlogo2.png" alt="The Holocaust Historiography Project"></a></header><main class="container-fluid"><div class="row"><article class="col-md-9">
 <!-- end bbinclude -->
 <!-- #bbinclude "header.incl" -->
-<h1>Holocaust Encyclopedia</h1><p class="lead">uncensored and unconstrained</p><div id="masthead"></div>
+<h1>Holocaust Encyclopedia</h1><p class="lead">uncensored and unconstrained</p><div id="masthead"></div><nav id="breadcrumbs"></nav>
 <!-- end bbinclude -->
 			<h2>
 				Instruments, of Extermination
@@ -33,7 +33,7 @@
 				<span style="text-decoration: underline;">b. Camps.</span> <a href="/camp/concentration-camps/index.html">Concentration camps</a> and labor or PoW camps are not a unique feature of the Holocaust. Therefore, they are not included in this work, unless it is claimed that measures or facilities were put in place to accomplish a planned mass extermination. Such claims were made by many witnesses for numerous camps. Most of them were accepted by orthodox historians as true, while a few were rejected as erroneous or fraudulent. For a list of these camps, see the entry on <a href="/camp/extermination-camps/index.html">extermination camps</a>.
 			</p>
 			<p>
-				<span style="text-decoration: underline;">c. <i>Einsatzgruppen</i>.</span> These German military units operated in eastern occupied territories with numerous tasks. The orthodoxy insists that their main task was to round up and murder Jews. The main methods to accomplish this were mostly mass executions by shootings, with <a href="/tool/gas-vans/index.html">gas vans</a> used as a secondary murder weapon. When German armed forces started retreating from the Soviet Union, special units within the framework of the so-called <a href="/einsatzgruppen/aktion-1005/index.html"><i>Aktion</i> 1005</a> are said to have roamed the temporarily German-occupied territories in order to empty <a href="/location/other-crime-scene/mass-graves/index.html">mass graves</a> containing <a href="/tool/einsatzgruppen/index.html"><i>Einsatzgruppen</i></a> victims, and to burn all bodies.
+				<span style="text-decoration: underline;">c. <i>Einsatzgruppen</i>.</span> These German military units operated in eastern occupied territories with numerous tasks. The orthodoxy insists that their main task was to round up and murder Jews. The main methods to accomplish this were mostly mass executions by shootings, with <a href="/tool/gas-vans/index.html">gas vans</a> used as a secondary murder weapon. When German armed forces started retreating from the Soviet Union, special units within the framework of the so-called <a href="/einsatzgruppen/aktion-1005/index.html"><i>Aktion</i> 1005</a> are said to have roamed the temporarily German-occupied territories in order to empty <a href="/location/other-crime-scene/mass-graves/index.html">mass graves</a> containing <a href="/instruments/tool/einsatzgruppen/index.html"><i>Einsatzgruppen</i></a> victims, and to burn all bodies.
 			</p>
 			<h4>
 				2. <a id="Physical"></a>Physical Instruments, Tools
@@ -76,10 +76,12 @@
 <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
-<script src="/_assets/js/loadHtml.js"></script><script>
-	loadHtml("#masthead", "/_assets/includes/masthead.htm");
-	loadHtml("#aside", "/_assets/includes/aside.htm");
-	loadHtml("#nav-hhp", "/_assets/includes/nav.htm");</script>
+
+<script>
+	$( "#masthead" ).load( "/_assets/includes/masthead.htm" );
+//	$( "#breadcrumbs" ).load( "nav.htm" );
+	$( "#aside" ).load( "/_assets/includes/aside.htm" );
+	$( "#nav-hhp" ).load( "/_assets/includes/nav.htm" );</script>
 <script src="/_assets/bootstrap3_player/bootstrap3_player.js" type="360cc5a5ec7adab840b8d2c3-text/javascript"></script>
 
 <!-- end bbinclude -->
