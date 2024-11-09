@@ -1,0 +1,33 @@
+.search-form
+{
+	max-width: 500px;
+	margin: 20px auto;
+}
+
+.search-wrapper
+{
+	display: flex;
+	column-gap: 10px;
+}
+
+input[type="text"]
+{
+	flex: 1;
+	border: 2px solid #ddd;
+	border-radius: 4px;
+	font-size: 16px;
+	padding: 8px 12px;
+}
+
+button
+{
+	background-color: #4285f4;
+	color: #FFF;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	font-size: 16px;
+	padding: 8px 20px;
+}
+
+button:hover { background-color: #357abd; }
