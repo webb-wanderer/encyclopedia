@@ -3224,6 +3224,14 @@
       "oAP" : "\/location\/other-locations\/madagascar\/index.html",
       "oF" : 0
     },
+    "\/location\/other-locations\/shanghai\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/location\/other-locations\/shanghai\/index.html",
+      "oF" : 0
+    },
     "\/location\/other-locations\/zentralsauna-auschwitz-birkenau\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -6896,6 +6904,19 @@
       "oAP" : "\/witness\/witnesses\/index.html",
       "oF" : 0
     },
+    "\/wp-content\/uploads\/268_4Arrows.jpg" : {
+      "ft" : 16384,
+      "iS" : 290411,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/uploads\/268_4Arrows.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/wp-content\/uploads\/268_21.jpg" : {
       "ft" : 16384,
       "iS" : 134217,
@@ -6909,6 +6930,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/wp-content\/uploads\/268_34.jpg" : {
+      "ft" : 16384,
+      "iS" : 69255,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/uploads\/268_34.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/wp-content\/uploads\/268_121.jpg" : {
+      "ft" : 16384,
+      "iS" : 20328,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/uploads\/268_121.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/wp-content\/uploads\/268_148.jpg" : {
       "ft" : 16384,
       "iS" : 200425,
@@ -6918,6 +6965,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/wp-content\/uploads\/268_166.jpg" : {
+      "ft" : 16384,
+      "iS" : 204859,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/uploads\/268_166.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7156,6 +7216,45 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/wp-content\/uploads\/AuschwitzKI-1942.jpg" : {
+      "ft" : 16384,
+      "iS" : 87547,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/uploads\/AuschwitzKI-1942.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/wp-content\/uploads\/AuschwitzKI-1944.png" : {
+      "ft" : 32768,
+      "iS" : 177756,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/uploads\/AuschwitzKI-1944.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/wp-content\/uploads\/AuschwitzKI-1947.png" : {
+      "ft" : 32768,
+      "iS" : 33993,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/uploads\/AuschwitzKI-1947.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/wp-content\/uploads\/AuschwitzKI-ThinWalls.jpg" : {
       "ft" : 16384,
       "iS" : 130542,
@@ -7176,6 +7275,19 @@
       "oA" : 0,
       "oAP" : "\/wp-content\/uploads\/AuschwitzMainCamp.mp3",
       "oF" : 0
+    },
+    "\/wp-content\/uploads\/AuschwitzMainCamp.png" : {
+      "ft" : 32768,
+      "iS" : 17099,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/uploads\/AuschwitzMainCamp.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
     },
     "\/wp-content\/uploads\/AuschwitzMainCampAir.jpg" : {
       "ft" : 16384,
@@ -7497,6 +7609,32 @@
       "oA" : 0,
       "oAP" : "\/wp-content\/uploads\/Belzec.mp3",
       "oF" : 0
+    },
+    "\/wp-content\/uploads\/BelzecGarage.jpg" : {
+      "ft" : 16384,
+      "iS" : 13708,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/uploads\/BelzecGarage.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/wp-content\/uploads\/BelzecMap.png" : {
+      "ft" : 32768,
+      "iS" : 67554,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/uploads\/BelzecMap.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
     },
     "\/wp-content\/uploads\/BelzecTrial.mp3" : {
       "cB" : 0,
@@ -8724,6 +8862,19 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/wp-content\/uploads\/DachauIronHopper-scaled.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/wp-content\/uploads\/DachauIronHopper.jpg" : {
+      "ft" : 16384,
+      "iS" : 1315459,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/uploads\/DachauIronHopper.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -15148,6 +15299,19 @@
       "oA" : 0,
       "oAP" : "\/wp-content\/uploads\/Treblinka.mp3",
       "oF" : 0
+    },
+    "\/wp-content\/uploads\/TreblinkaAirPhoto1944MapOverlay.jpg" : {
+      "ft" : 16384,
+      "iS" : 38176,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/wp-content\/uploads\/TreblinkaAirPhoto1944MapOverlay.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/wp-content\/uploads\/TreblinkaSturdyColls.jpg" : {
       "ft" : 16384,
