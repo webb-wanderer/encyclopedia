@@ -21,14 +21,16 @@
 			<p>
 				Sorry for the inconvenience, but that file is not on this site at that location. Here is a listing of the files that are available.
 			</p>
-			<form action="https://www.google.com/search" method="get" class="search-form">
+<!-- #bbinclude "he-search.incl" -->
+<form action="https://www.google.com/search" method="get" class="search-form">
 <!-- Hidden input to restrict search to specific domain -->
-				<input type="hidden" name="sitesearch" value="encyclopedia.historiography-project.com">
-				<div class="search-wrapper">
-					<input type="text" name="q" placeholder="Search the Holocaust Encyclopedia ..." required="">
-					<button type="submit">Search</button>
-				</div>
-			</form>
+	<input type="hidden" name="sitesearch" value="encyclopedia.historiography-project.com">
+	<div class="search-wrapper">
+		<input type="text" name="q" placeholder="Search the Holocaust Encyclopedia ..." required="">
+		<button type="submit">Search</button>
+	</div>
+</form>
+<!-- end bbinclude -->
 			<ul>
 				<li><a href="/tag/a/index.html">A</a></li>
 				<li><a href="/about-us/index.html">About Us</a></li>
