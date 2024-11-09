@@ -1819,14 +1819,6 @@
       "oAP" : "\/historical-person\/politician\/turner-harald\/index.html",
       "oF" : 0
     },
-    "\/historical-person\/politician\/uhlenbrock-kurt\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/uhlenbrock-kurt\/index.html",
-      "oF" : 0
-    },
     "\/historical-person\/politician\/van-roden-edward-l\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3051,14 +3043,6 @@
       "oAP" : "\/location\/country\/soviet-union\/index.html",
       "oF" : 0
     },
-    "\/location\/country\/ukraine\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/location\/country\/ukraine\/index.html",
-      "oF" : 0
-    },
     "\/location\/country\/yugoslavia\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -4105,14 +4089,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/witness\/false-witness\/marco-enric\/index.html",
-      "oF" : 0
-    },
-    "\/witness\/false-witness\/uthgenannt-otto\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/witness\/false-witness\/uthgenannt-otto\/index.html",
       "oF" : 0
     },
     "\/witness\/false-witness\/wael-monique-de\/index.html" : {

@@ -194,7 +194,6 @@ https://encyclopedia.historiography-project.com/historical-person/politician/sta
 https://encyclopedia.historiography-project.com/historical-person/politician/streicher-julius/index.html
 https://encyclopedia.historiography-project.com/historical-person/politician/thilo-heinz/index.html
 https://encyclopedia.historiography-project.com/historical-person/politician/turner-harald/index.html
-https://encyclopedia.historiography-project.com/historical-person/politician/uhlenbrock-kurt/index.html
 https://encyclopedia.historiography-project.com/historical-person/politician/van-roden-edward-l/index.html
 https://encyclopedia.historiography-project.com/historical-person/politician/veil-simone/index.html
 https://encyclopedia.historiography-project.com/historical-person/politician/voss-peter/index.html
@@ -348,7 +347,7 @@ https://encyclopedia.historiography-project.com/location/country/poland/index.ht
 https://encyclopedia.historiography-project.com/location/country/romania/index.html
 https://encyclopedia.historiography-project.com/location/country/slovakia/index.html
 https://encyclopedia.historiography-project.com/location/country/soviet-union/index.html
-https://encyclopedia.historiography-project.com/location/country/ukraine/index.html
+https://encyclopedia.historiography-project.com/u/ukraine/index.html
 https://encyclopedia.historiography-project.com/location/country/yugoslavia/index.html
 https://encyclopedia.historiography-project.com/location/ghettos/theresienstadt/index.html
 https://encyclopedia.historiography-project.com/location/museum-memorial/auschwitz-museum/index.html
@@ -476,7 +475,6 @@ https://encyclopedia.historiography-project.com/witness/false-witness/hirt-josep
 https://encyclopedia.historiography-project.com/witness/false-witness/holstein-bernard/index.html
 https://encyclopedia.historiography-project.com/witness/false-witness/kosinski-jerzy/index.html
 https://encyclopedia.historiography-project.com/witness/false-witness/marco-enric/index.html
-https://encyclopedia.historiography-project.com/witness/false-witness/uthgenannt-otto/index.html
 https://encyclopedia.historiography-project.com/witness/false-witness/wael-monique-de/index.html
 https://encyclopedia.historiography-project.com/witness/false-witness/watt-donald/index.html
 https://encyclopedia.historiography-project.com/witness/perpetrator/adametz-gerhard/index.html
