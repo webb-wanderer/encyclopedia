@@ -6,9 +6,11 @@ http://encyclohhpedia.netlify.app/* https://encyclopedia.historiography-project.
 /absurdities/absurd-claims/* /a/absurd-claims/:splat 301!
 /country/yugoslavia/* /y/yugoslavia/:splat 301!
 /document/air-photos/* /a/air-photos/:splat 301!
+/event/aktion-reinhardt/* /a/aktion-reinhardt/:splat 301!
 /historical-person/politician/quakernack-walter/* /q/quakernack-walter/:splat 301!
 /historical-person/politician/uhlenbrock-kurt/* /u/uhlenbrock-kurt/:splat 301!
 /instruments/camp/phantom-camp/wolzek/* /w/wolzek/:splat 301!
+/instruments/einsatzgruppen/aktion-1005/* /a/aktion-1005/:splat 301!
 /legal/institution/yad-vashem/* /y/yad-vashem/:splat 301!
 /location/country/ukraine/* /u/ukraine/:splat 301!
 /tag/a/* /a/:splat 301!
