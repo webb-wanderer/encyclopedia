@@ -435,12 +435,52 @@
       "oAP" : "\/absurdities\/trawniki\/index.html",
       "oF" : 0
     },
+    "\/b\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/b\/index.html",
+      "oF" : 0
+    },
+    "\/b\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/b\/page\/2\/index.html",
+      "oF" : 0
+    },
+    "\/b\/page\/3\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/b\/page\/3\/index.html",
+      "oF" : 0
+    },
     "\/bibliography\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/bibliography\/index.html",
+      "oF" : 0
+    },
+    "\/c\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/index.html",
+      "oF" : 0
+    },
+    "\/c\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/page\/2\/index.html",
       "oF" : 0
     },
     "\/category\/absurdities\/index.html" : {
@@ -1291,6 +1331,14 @@
       "oAP" : "\/contact-us\/index.html",
       "oF" : 0
     },
+    "\/d\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/d\/index.html",
+      "oF" : 0
+    },
     "\/document\/air-photos\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1419,6 +1467,14 @@
       "oAP" : "\/download-our-encyclopedia-free-of-charge\/index.html",
       "oF" : 0
     },
+    "\/e\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/e\/index.html",
+      "oF" : 0
+    },
     "\/event\/aktion-reinhardt\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1521,6 +1577,54 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/event\/wannsee-conference\/index.html",
+      "oF" : 0
+    },
+    "\/f\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/f\/index.html",
+      "oF" : 0
+    },
+    "\/f\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/f\/page\/2\/index.html",
+      "oF" : 0
+    },
+    "\/g\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/g\/index.html",
+      "oF" : 0
+    },
+    "\/g\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/g\/page\/2\/index.html",
+      "oF" : 0
+    },
+    "\/h\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/h\/index.html",
+      "oF" : 0
+    },
+    "\/h\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/h\/page\/2\/index.html",
       "oF" : 0
     },
     "\/historical-person\/berg-isai-davidovich\/index.html" : {
@@ -2187,6 +2291,14 @@
       "oAP" : "\/how-to-use-this-site\/page\/28\/index.html",
       "oF" : 0
     },
+    "\/i\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/i\/index.html",
+      "oF" : 0
+    },
     "\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2585,6 +2697,46 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/introduction\/index.html",
+      "oF" : 0
+    },
+    "\/j\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/j\/index.html",
+      "oF" : 0
+    },
+    "\/k\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/k\/index.html",
+      "oF" : 0
+    },
+    "\/k\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/k\/page\/2\/index.html",
+      "oF" : 0
+    },
+    "\/l\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/l\/index.html",
+      "oF" : 0
+    },
+    "\/l\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/l\/page\/2\/index.html",
       "oF" : 0
     },
     "\/legal\/company\/buna\/index.html" : {
@@ -3195,6 +3347,22 @@
       "oAP" : "\/location\/other-locations\/zentralsauna-auschwitz-birkenau\/index.html",
       "oF" : 0
     },
+    "\/m\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/m\/index.html",
+      "oF" : 0
+    },
+    "\/m\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/m\/page\/2\/index.html",
+      "oF" : 0
+    },
     "\/manipulation\/cremation-propaganda\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3209,6 +3377,22 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/manipulation\/propaganda\/index.html",
+      "oF" : 0
+    },
+    "\/n\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/n\/index.html",
+      "oF" : 0
+    },
+    "\/o\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/o\/index.html",
       "oF" : 0
     },
     "\/object\/gold-teeth\/index.html" : {
@@ -3265,6 +3449,22 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/object\/wedding-rings\/index.html",
+      "oF" : 0
+    },
+    "\/p\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/p\/index.html",
+      "oF" : 0
+    },
+    "\/p\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/p\/page\/2\/index.html",
       "oF" : 0
     },
     "\/plan-order\/emigration\/index.html" : {
@@ -3363,6 +3563,30 @@
       "oAP" : "\/plan-order\/wartime-leader\/kaltenbrunner-ernst\/index.html",
       "oF" : 0
     },
+    "\/q\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/q\/index.html",
+      "oF" : 0
+    },
+    "\/r\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/r\/index.html",
+      "oF" : 0
+    },
+    "\/r\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/r\/page\/2\/index.html",
+      "oF" : 0
+    },
     "\/result\/refeeding-syndrome\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3395,6 +3619,30 @@
       "oAP" : "\/robots.txt",
       "oF" : 0
     },
+    "\/s\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/s\/index.html",
+      "oF" : 0
+    },
+    "\/s\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/s\/page\/2\/index.html",
+      "oF" : 0
+    },
+    "\/s\/page\/3\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/s\/page\/3\/index.html",
+      "oF" : 0
+    },
     "\/search\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3419,316 +3667,12 @@
       "oAP" : "\/sitemap\/index.html",
       "oF" : 0
     },
-    "\/tag\/a\/index.html" : {
+    "\/t\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/tag\/a\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/b\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/b\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/b\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/b\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/b\/page\/3\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/b\/page\/3\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/c\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/c\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/c\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/c\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/d\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/d\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/e\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/e\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/f\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/f\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/f\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/f\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/g\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/g\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/g\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/g\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/h\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/h\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/h\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/h\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/i\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/i\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/j\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/j\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/k\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/k\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/k\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/k\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/l\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/l\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/l\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/l\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/m\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/m\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/m\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/m\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/n\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/n\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/o\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/o\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/p\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/p\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/p\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/p\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/q\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/q\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/r\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/r\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/r\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/r\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/s\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/s\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/s\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/s\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/s\/page\/3\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/s\/page\/3\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/t\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/t\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/u\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/u\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/v\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/v\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/w\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/w\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/w\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/w\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/y\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/y\/index.html",
-      "oF" : 0
-    },
-    "\/tag\/z\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/tag\/z\/index.html",
+      "oAP" : "\/t\/index.html",
       "oF" : 0
     },
     "\/technology\/bone-mill\/index.html" : {
@@ -3891,6 +3835,14 @@
       "oAP" : "\/u\/uthgenannt-otto\/index.html",
       "oF" : 0
     },
+    "\/v\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/v\/index.html",
+      "oF" : 0
+    },
     "\/victim-groups\/gypsies\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3913,6 +3865,22 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/victim-groups\/jehovas-witnesses\/index.html",
+      "oF" : 0
+    },
+    "\/w\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/w\/index.html",
+      "oF" : 0
+    },
+    "\/w\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/w\/page\/2\/index.html",
       "oF" : 0
     },
     "\/witness\/barton-russell\/index.html" : {
@@ -15694,6 +15662,22 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-content\/uploads\/ZyklonBIntroductionDevices.mp3",
+      "oF" : 0
+    },
+    "\/y\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/y\/index.html",
+      "oF" : 0
+    },
+    "\/z\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/z\/index.html",
       "oF" : 0
     }
   },
