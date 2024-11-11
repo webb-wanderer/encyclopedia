@@ -267,6 +267,14 @@
       "oAP" : "\/a\/air-photos\/index.html",
       "oF" : 0
     },
+    "\/a\/aktion-1005\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/a\/aktion-1005\/index.html",
+      "oF" : 0
+    },
     "\/a\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2529,14 +2537,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/instruments\/camp\/pure-extermination-camp\/treblinka\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/einsatzgruppen\/aktion-1005\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/einsatzgruppen\/aktion-1005\/index.html",
       "oF" : 0
     },
     "\/instruments\/einsatzgruppen\/excavations-of-german-mass-graves\/index.html" : {
