@@ -243,6 +243,14 @@
       "oAP" : "\/404.html",
       "oF" : 0
     },
+    "\/a\/absurd-claims\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/a\/absurd-claims\/index.html",
+      "oF" : 0
+    },
     "\/a\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -257,22 +265,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/about-us\/index.html",
-      "oF" : 0
-    },
-    "\/absurdities\/absurd-claims\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/absurdities\/absurd-claims\/index.html",
-      "oF" : 0
-    },
-    "\/absurdities\/buchenwald\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/absurdities\/buchenwald\/index.html",
       "oF" : 0
     },
     "\/absurdities\/cliches-about-the-holocaust\/index.html" : {
@@ -433,6 +425,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/absurdities\/trawniki\/index.html",
+      "oF" : 0
+    },
+    "\/b\/buchenwald\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/b\/buchenwald\/index.html",
       "oF" : 0
     },
     "\/b\/index.html" : {
@@ -2483,14 +2483,6 @@
       "oAP" : "\/instruments\/camp\/phantom-camp\/nordhausen\/index.html",
       "oF" : 0
     },
-    "\/instruments\/camp\/phantom-camp\/wolzek\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/camp\/phantom-camp\/wolzek\/index.html",
-      "oF" : 0
-    },
     "\/instruments\/camp\/phantom-extermination-camps\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3865,6 +3857,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/w\/page\/2\/index.html",
+      "oF" : 0
+    },
+    "\/w\/wolzek\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/w\/wolzek\/index.html",
       "oF" : 0
     },
     "\/witness\/barton-russell\/index.html" : {
