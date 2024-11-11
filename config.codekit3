@@ -2843,14 +2843,6 @@
       "oAP" : "\/legal\/institution\/wirtschafts-und-verwaltungs-hauptamt\/index.html",
       "oF" : 0
     },
-    "\/legal\/institution\/yad-vashem\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/legal\/institution\/yad-vashem\/index.html",
-      "oF" : 0
-    },
     "\/legal\/institution\/zentrale-stelle\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3177,14 +3169,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/location\/country\/soviet-union\/index.html",
-      "oF" : 0
-    },
-    "\/location\/country\/yugoslavia\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/location\/country\/yugoslavia\/index.html",
       "oF" : 0
     },
     "\/location\/ghettos\/theresienstadt\/index.html" : {
@@ -15670,6 +15654,22 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/y\/index.html",
+      "oF" : 0
+    },
+    "\/y\/yad-vashem\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/y\/yad-vashem\/index.html",
+      "oF" : 0
+    },
+    "\/y\/yugoslavia\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/y\/yugoslavia\/index.html",
       "oF" : 0
     },
     "\/z\/index.html" : {
