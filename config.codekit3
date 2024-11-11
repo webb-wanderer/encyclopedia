@@ -275,6 +275,14 @@
       "oAP" : "\/a\/aktion-1005\/index.html",
       "oF" : 0
     },
+    "\/a\/aktion-reinhardt\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/a\/aktion-reinhardt\/index.html",
+      "oF" : 0
+    },
     "\/a\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1489,14 +1497,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/e\/index.html",
-      "oF" : 0
-    },
-    "\/event\/aktion-reinhardt\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/event\/aktion-reinhardt\/index.html",
       "oF" : 0
     },
     "\/event\/auschwitz-bombing-of-2\/index.html" : {
