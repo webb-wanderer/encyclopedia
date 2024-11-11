@@ -251,14 +251,6 @@
       "oAP" : "\/a\/index.html",
       "oF" : 0
     },
-    "\/a\/nav.htm" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/a\/nav.htm",
-      "oF" : 0
-    },
     "\/about-us\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -785,14 +777,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/category\/manipulation\/index.html",
-      "oF" : 0
-    },
-    "\/category\/nav.htm" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/nav.htm",
       "oF" : 0
     },
     "\/category\/object\/index.html" : {
@@ -3227,14 +3211,6 @@
       "oAP" : "\/manipulation\/propaganda\/index.html",
       "oF" : 0
     },
-    "\/nav.htm" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/nav.htm",
-      "oF" : 0
-    },
     "\/object\/gold-teeth\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3889,14 +3865,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/u\/index.html",
-      "oF" : 0
-    },
-    "\/u\/nav.htm" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/u\/nav.htm",
       "oF" : 0
     },
     "\/u\/uhlenbrock-kurt\/index.html" : {
