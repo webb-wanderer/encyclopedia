@@ -3,9 +3,11 @@ https://encyclohhpedia.netlify.app/* https://encyclopedia.historiography-project
 http://encyclohhpedia.netlify.app/* https://encyclopedia.historiography-project.com/:splat 301!
 
 # relocations
+/absurdities/absurd-claims/* /a/absurd-claims/:splat 301!
 /country/yugoslavia/* /y/yugoslavia/:splat 301!
 /historical-person/politician/quakernack-walter/* /q/quakernack-walter/:splat 301!
 /historical-person/politician/uhlenbrock-kurt/* /u/uhlenbrock-kurt/:splat 301!
+/instruments/camp/phantom-camp/wolzek/* /w/wolzek/:splat 301!
 /legal/institution/yad-vashem/* /y/yad-vashem/:splat 301!
 /location/country/ukraine/* /u/ukraine/:splat 301!
 /tag/a/* /a/:splat 301!
@@ -33,5 +35,4 @@ http://encyclohhpedia.netlify.app/* https://encyclopedia.historiography-project.
 /tag/y/* /y/:splat 301!
 /tag/z/* /z/:splat 301!
 /witness/false-witness/uthgenannt-otto/* /u/uthgenannt-otto/:splat 301!
-/absurdities/absurd-claims/* /a/absurd-claims/:splat 301!
-/instruments/camp/phantom-camp/wolzek/* /w/wolzek/:splat 301!
+/witness/perpetrator/adametz-gerhard/* /a/adametz-gerhard/:splat 301!

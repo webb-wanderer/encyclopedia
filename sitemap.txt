@@ -1,8 +1,8 @@
 https://encyclopedia.historiography-project.com/404.html
+https://encyclopedia.historiography-project.com/a/absurd-claims/index.html
+https://encyclopedia.historiography-project.com/a/adametz-gerhard/index.html
 https://encyclopedia.historiography-project.com/a/index.html
 https://encyclopedia.historiography-project.com/about-us/index.html
-https://encyclopedia.historiography-project.com/a/absurd-claims/index.html
-https://encyclopedia.historiography-project.com/b/buchenwald/index.html
 https://encyclopedia.historiography-project.com/absurdities/cliches-about-the-holocaust/index.html
 https://encyclopedia.historiography-project.com/absurdities/exaggerated-death-tolls/index.html
 https://encyclopedia.historiography-project.com/absurdities/exotic-murder-weapons/index.html
@@ -23,6 +23,7 @@ https://encyclopedia.historiography-project.com/absurdities/soap-from-jewish-cor
 https://encyclopedia.historiography-project.com/absurdities/standing-upright-dead-gassing-victims/index.html
 https://encyclopedia.historiography-project.com/absurdities/towels-soap-toothbrushes-inside-gas-chambers/index.html
 https://encyclopedia.historiography-project.com/absurdities/trawniki/index.html
+https://encyclopedia.historiography-project.com/b/buchenwald/index.html
 https://encyclopedia.historiography-project.com/b/index.html
 https://encyclopedia.historiography-project.com/b/page/2/index.html
 https://encyclopedia.historiography-project.com/b/page/3/index.html
@@ -473,7 +474,6 @@ https://encyclopedia.historiography-project.com/witness/false-witness/kosinski-j
 https://encyclopedia.historiography-project.com/witness/false-witness/marco-enric/index.html
 https://encyclopedia.historiography-project.com/witness/false-witness/wael-monique-de/index.html
 https://encyclopedia.historiography-project.com/witness/false-witness/watt-donald/index.html
-https://encyclopedia.historiography-project.com/witness/perpetrator/adametz-gerhard/index.html
 https://encyclopedia.historiography-project.com/witness/perpetrator/aumeier-hans/index.html
 https://encyclopedia.historiography-project.com/witness/perpetrator/bach-zelewski-erich-von-dem/index.html
 https://encyclopedia.historiography-project.com/witness/perpetrator/becher-kurt/index.html

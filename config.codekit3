@@ -251,6 +251,14 @@
       "oAP" : "\/a\/absurd-claims\/index.html",
       "oF" : 0
     },
+    "\/a\/adametz-gerhard\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/a\/adametz-gerhard\/index.html",
+      "oF" : 0
+    },
     "\/a\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -4025,14 +4033,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/witness\/false-witness\/watt-donald\/index.html",
-      "oF" : 0
-    },
-    "\/witness\/perpetrator\/adametz-gerhard\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/witness\/perpetrator\/adametz-gerhard\/index.html",
       "oF" : 0
     },
     "\/witness\/perpetrator\/aumeier-hans\/index.html" : {
