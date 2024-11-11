@@ -5,6 +5,7 @@ http://encyclohhpedia.netlify.app/* https://encyclopedia.historiography-project.
 # relocations
 /absurdities/absurd-claims/* /a/absurd-claims/:splat 301!
 /country/yugoslavia/* /y/yugoslavia/:splat 301!
+/document/air-photos/* /a/air-photos/:splat 301!
 /historical-person/politician/quakernack-walter/* /q/quakernack-walter/:splat 301!
 /historical-person/politician/uhlenbrock-kurt/* /u/uhlenbrock-kurt/:splat 301!
 /instruments/camp/phantom-camp/wolzek/* /w/wolzek/:splat 301!
