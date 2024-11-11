@@ -259,6 +259,14 @@
       "oAP" : "\/a\/adametz-gerhard\/index.html",
       "oF" : 0
     },
+    "\/a\/air-photos\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/a\/air-photos\/index.html",
+      "oF" : 0
+    },
     "\/a\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1345,14 +1353,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/d\/index.html",
-      "oF" : 0
-    },
-    "\/document\/air-photos\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/document\/air-photos\/index.html",
       "oF" : 0
     },
     "\/document\/auschwitz-album\/index.html" : {
