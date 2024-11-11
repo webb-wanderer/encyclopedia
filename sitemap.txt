@@ -163,7 +163,7 @@ https://encyclopedia.historiography-project.com/event/evacuations-from-german-ca
 https://encyclopedia.historiography-project.com/event/first-gassing-at-auschwitz/index.html
 https://encyclopedia.historiography-project.com/event/himmler-speeches/index.html
 https://encyclopedia.historiography-project.com/event/himmler-visits/index.html
-https://encyclopedia.historiography-project.com/event/holocaust-the/index.html
+https://encyclopedia.historiography-project.com/h/holocaust-the/index.html
 https://encyclopedia.historiography-project.com/event/operation-harvest-festival/index.html
 https://encyclopedia.historiography-project.com/event/torture/index.html
 https://encyclopedia.historiography-project.com/event/wannsee-conference/index.html
@@ -265,7 +265,7 @@ https://encyclopedia.historiography-project.com/instruments/camp/majdanek/index.
 https://encyclopedia.historiography-project.com/instruments/camp/maly-trostenets/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/mauthausen/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/mixed-purpose-camp/auschwitz-main-camp/index.html
-https://encyclopedia.historiography-project.com/instruments/camp/mixed-purpose-camp/auschwitz/index.html
+https://encyclopedia.historiography-project.com/a/auschwitz/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/mixed-purpose-camp/birkenau/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/mixed-purpose-camp/dachau/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/mixed-purpose-camp/family-camp-at-auschwitz/index.html

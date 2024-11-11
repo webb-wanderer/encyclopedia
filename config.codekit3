@@ -283,6 +283,14 @@
       "oAP" : "\/a\/aktion-reinhardt\/index.html",
       "oF" : 0
     },
+    "\/a\/auschwitz\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/a\/auschwitz\/index.html",
+      "oF" : 0
+    },
     "\/a\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1563,14 +1571,6 @@
       "oAP" : "\/event\/himmler-visits\/index.html",
       "oF" : 0
     },
-    "\/event\/holocaust-the\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/event\/holocaust-the\/index.html",
-      "oF" : 0
-    },
     "\/event\/operation-harvest-festival\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1625,6 +1625,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/g\/page\/2\/index.html",
+      "oF" : 0
+    },
+    "\/h\/holocaust-the\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/h\/holocaust-the\/index.html",
       "oF" : 0
     },
     "\/h\/index.html" : {
@@ -2369,14 +2377,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/instruments\/camp\/mixed-purpose-camp\/auschwitz-main-camp\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/camp\/mixed-purpose-camp\/auschwitz\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/camp\/mixed-purpose-camp\/auschwitz\/index.html",
       "oF" : 0
     },
     "\/instruments\/camp\/mixed-purpose-camp\/birkenau\/index.html" : {
