@@ -7,7 +7,7 @@ http://encyclohhpedia.netlify.app/* https://encyclopedia.historiography-project.
 /country/yugoslavia/* /y/yugoslavia/:splat 301!
 /document/air-photos/* /a/air-photos/:splat 301!
 /event/aktion-reinhardt/* /a/aktion-reinhardt/:splat 301!
-/event/holocaust-the/* /event/holocaust-the/:splat 301!
+/event/holocaust-the/* /h/holocaust-the/:splat 301!
 /historical-person/politician/quakernack-walter/* /q/quakernack-walter/:splat 301!
 /historical-person/politician/uhlenbrock-kurt/* /u/uhlenbrock-kurt/:splat 301!
 /instruments/camp/mixed-purpose-camp/auschwitz/* /a/auschwitz/:splat 301!
