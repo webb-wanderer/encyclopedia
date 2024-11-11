@@ -5,6 +5,7 @@ http://encyclohhpedia.netlify.app/* https://encyclopedia.historiography-project.
 # relocations
 /country/yugoslavia/index.html /y/yugoslavia/index.html 301!
 /historical-person/politician/quakernack-walter/index.html /q/quakernack-walter/index.html 301!
+/historical-person/politician/quakernack-walter/ /q/quakernack-walter/index.html 301!
 /historical-person/politician/uhlenbrock-kurt/894/index.html /u/uhlenbrock-kurt/index.html 301!
 /historical-person/politician/uhlenbrock-kurt/index.html /u/uhlenbrock-kurt/index.html 301!
 /legal/institution/yad-vashem/index.html /y/yad-vashem/index.html 301!
