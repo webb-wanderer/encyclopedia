@@ -1,0 +1,10 @@
+@media (min-width: 768px) {
+  .columns {
+    column-count: 2;
+  }
+}
+@media (min-width: 992px) {
+  .columns {
+    column-count: 3;
+  }
+}

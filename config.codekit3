@@ -35,6 +35,21 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/_assets\/css\/columns.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/_assets\/css\/columns.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
     "\/_assets\/css\/custom.scss" : {
       "aP" : 0,
       "bl" : 0,
