@@ -670,6 +670,145 @@
       "oAP" : "\/a\/auschwitz-death-books\/index.html",
       "oF" : 0
     },
+    "\/a\/auschwitz-main-camp\/AuschwitzKI-1942.jpg" : {
+      "ft" : 16384,
+      "iS" : 87547,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/a\/auschwitz-main-camp\/AuschwitzKI-1942.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/a\/auschwitz-main-camp\/AuschwitzKI-1944.png" : {
+      "ft" : 32768,
+      "iS" : 177756,
+      "oA" : 0,
+      "oAP" : "\/a\/auschwitz-main-camp\/AuschwitzKI-1944.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/a\/auschwitz-main-camp\/AuschwitzKI-1947.png" : {
+      "ft" : 32768,
+      "iS" : 33993,
+      "oA" : 0,
+      "oAP" : "\/a\/auschwitz-main-camp\/AuschwitzKI-1947.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/a\/auschwitz-main-camp\/AuschwitzKI-ThinWalls.jpg" : {
+      "ft" : 16384,
+      "iS" : 130542,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/a\/auschwitz-main-camp\/AuschwitzKI-ThinWalls.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/a\/auschwitz-main-camp\/AuschwitzMainCamp.mp3" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/a\/auschwitz-main-camp\/AuschwitzMainCamp.mp3",
+      "oF" : 0
+    },
+    "\/a\/auschwitz-main-camp\/AuschwitzMainCamp.png" : {
+      "ft" : 32768,
+      "iS" : 17099,
+      "oA" : 0,
+      "oAP" : "\/a\/auschwitz-main-camp\/AuschwitzMainCamp.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/a\/auschwitz-main-camp\/AuschwitzMainCampAir.jpg" : {
+      "ft" : 16384,
+      "iS" : 120438,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/a\/auschwitz-main-camp\/AuschwitzMainCampAir.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/a\/auschwitz-main-camp\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/a\/auschwitz-main-camp\/index.html",
+      "oF" : 0
+    },
+    "\/a\/auschwitz-museum\/AuschwitzHairShowcase.jpg" : {
+      "ft" : 16384,
+      "iS" : 96138,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/a\/auschwitz-museum\/AuschwitzHairShowcase.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/a\/auschwitz-museum\/AuschwitzMuseum.mp3" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/a\/auschwitz-museum\/AuschwitzMuseum.mp3",
+      "oF" : 0
+    },
+    "\/a\/auschwitz-museum\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/a\/auschwitz-museum\/index.html",
+      "oF" : 0
+    },
+    "\/a\/auschwitz-trials\/AuschwitzTrials.mp3" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/a\/auschwitz-trials\/AuschwitzTrials.mp3",
+      "oF" : 0
+    },
+    "\/a\/auschwitz-trials\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/a\/auschwitz-trials\/index.html",
+      "oF" : 0
+    },
     "\/a\/auschwitz\/Auschwitz.mp3" : {
       "cB" : 0,
       "ft" : 8192,
@@ -723,6 +862,43 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/a\/auschwitz\/index.html",
+      "oF" : 0
+    },
+    "\/a\/austria\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/a\/austria\/index.html",
+      "oF" : 0
+    },
+    "\/a\/avey-denis\/AveyDenis.jpg" : {
+      "ft" : 16384,
+      "iS" : 273412,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/a\/avey-denis\/AveyDenis.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/a\/avey-denis\/AveyDenis.mp3" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/a\/avey-denis\/AveyDenis.mp3",
+      "oF" : 0
+    },
+    "\/a\/avey-denis\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/a\/avey-denis\/index.html",
       "oF" : 0
     },
     "\/a\/index.html" : {
@@ -2789,14 +2965,6 @@
       "oAP" : "\/instruments\/camp\/mauthausen\/index.html",
       "oF" : 0
     },
-    "\/instruments\/camp\/mixed-purpose-camp\/auschwitz-main-camp\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/camp\/mixed-purpose-camp\/auschwitz-main-camp\/index.html",
-      "oF" : 0
-    },
     "\/instruments\/camp\/mixed-purpose-camp\/birkenau\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3253,14 +3421,6 @@
       "oAP" : "\/legal\/institution\/zentrale-stelle\/index.html",
       "oF" : 0
     },
-    "\/legal\/trial\/auschwitz-trials\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/legal\/trial\/auschwitz-trials\/index.html",
-      "oF" : 0
-    },
     "\/legal\/trial\/belzec-trial\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3429,14 +3589,6 @@
       "oAP" : "\/location\/camps\/transit-camps\/index.html",
       "oF" : 0
     },
-    "\/location\/country\/austria\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/location\/country\/austria\/index.html",
-      "oF" : 0
-    },
     "\/location\/country\/baltic-countries\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3579,14 +3731,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/location\/ghettos\/theresienstadt\/index.html",
-      "oF" : 0
-    },
-    "\/location\/museum-memorial\/auschwitz-museum\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/location\/museum-memorial\/auschwitz-museum\/index.html",
       "oF" : 0
     },
     "\/location\/museum-memorial\/dachau-museum\/index.html" : {
@@ -4392,14 +4536,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/witness\/expert\/schelvis-jules\/index.html",
-      "oF" : 0
-    },
-    "\/witness\/false-witness\/avey-denis\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/witness\/false-witness\/avey-denis\/index.html",
       "oF" : 0
     },
     "\/witness\/false-witness\/bily-henry\/index.html" : {
@@ -6653,142 +6789,6 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
-    },
-    "\/wp-content\/uploads\/AuschwitzHairShowcase.jpg" : {
-      "ft" : 16384,
-      "iS" : 96138,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/AuschwitzHairShowcase.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/wp-content\/uploads\/AuschwitzKI-1942.jpg" : {
-      "ft" : 16384,
-      "iS" : 87547,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/AuschwitzKI-1942.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/wp-content\/uploads\/AuschwitzKI-1944.png" : {
-      "ft" : 32768,
-      "iS" : 177756,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/AuschwitzKI-1944.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/wp-content\/uploads\/AuschwitzKI-1947.png" : {
-      "ft" : 32768,
-      "iS" : 33993,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/AuschwitzKI-1947.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/wp-content\/uploads\/AuschwitzKI-ThinWalls.jpg" : {
-      "ft" : 16384,
-      "iS" : 130542,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/AuschwitzKI-ThinWalls.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/wp-content\/uploads\/AuschwitzMainCamp.mp3" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/AuschwitzMainCamp.mp3",
-      "oF" : 0
-    },
-    "\/wp-content\/uploads\/AuschwitzMainCamp.png" : {
-      "ft" : 32768,
-      "iS" : 17099,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/AuschwitzMainCamp.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/wp-content\/uploads\/AuschwitzMainCampAir.jpg" : {
-      "ft" : 16384,
-      "iS" : 120438,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/AuschwitzMainCampAir.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/wp-content\/uploads\/AuschwitzMuseum.mp3" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/AuschwitzMuseum.mp3",
-      "oF" : 0
-    },
-    "\/wp-content\/uploads\/AuschwitzTrials.mp3" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/AuschwitzTrials.mp3",
-      "oF" : 0
-    },
-    "\/wp-content\/uploads\/AveyDenis.jpg" : {
-      "ft" : 16384,
-      "iS" : 273412,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/AveyDenis.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/wp-content\/uploads\/AveyDenis.mp3" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/AveyDenis.mp3",
-      "oF" : 0
     },
     "\/wp-content\/uploads\/BabiYar.mp3" : {
       "cB" : 0,
