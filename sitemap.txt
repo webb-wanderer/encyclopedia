@@ -1,6 +1,12 @@
 https://encyclopedia.historiography-project.com/404.html
 https://encyclopedia.historiography-project.com/a/absurd-claims/index.html
 https://encyclopedia.historiography-project.com/a/adametz-gerhard/index.html
+https://encyclopedia.historiography-project.com/a/air-photos/index.html
+https://encyclopedia.historiography-project.com/a/aktion-1005/index.html
+https://encyclopedia.historiography-project.com/a/aktion-reinhardt-camps/index.html
+https://encyclopedia.historiography-project.com/a/aktion-reinhardt/index.html
+https://encyclopedia.historiography-project.com/a/amiel-szymon/index.html
+https://encyclopedia.historiography-project.com/a/auschwitz/index.html
 https://encyclopedia.historiography-project.com/a/index.html
 https://encyclopedia.historiography-project.com/about-us/index.html
 https://encyclopedia.historiography-project.com/absurdities/cliches-about-the-holocaust/index.html
@@ -137,8 +143,7 @@ https://encyclopedia.historiography-project.com/concept/special-treatment/index.
 https://encyclopedia.historiography-project.com/concept/typhus/index.html
 https://encyclopedia.historiography-project.com/contact-us/index.html
 https://encyclopedia.historiography-project.com/d/index.html
-https://encyclopedia.historiography-project.com/a/air-photos/index.html
-https://encyclopedia.historiography-project.com/document/auschwitz-album/index.html
+https://encyclopedia.historiography-project.com/a/auschwitz-album/index.html
 https://encyclopedia.historiography-project.com/document/auschwitz-death-books/index.html
 https://encyclopedia.historiography-project.com/document/british-radio-intercepts/index.html
 https://encyclopedia.historiography-project.com/document/commissars-order/index.html
@@ -154,8 +159,7 @@ https://encyclopedia.historiography-project.com/document/wannsee-protocol/index.
 https://encyclopedia.historiography-project.com/document/war-refugee-board-report/index.html
 https://encyclopedia.historiography-project.com/download-our-encyclopedia-free-of-charge/index.html
 https://encyclopedia.historiography-project.com/e/index.html
-https://encyclopedia.historiography-project.com/a/aktion-reinhardt/index.html
-https://encyclopedia.historiography-project.com/event/auschwitz-bombing-of-2/index.html
+https://encyclopedia.historiography-project.com/a/auschwitz-bombing-of/index.html
 https://encyclopedia.historiography-project.com/event/crystal-night/index.html
 https://encyclopedia.historiography-project.com/event/escapes-from-gas-chamber/index.html
 https://encyclopedia.historiography-project.com/event/euthanasia/index.html
@@ -163,7 +167,6 @@ https://encyclopedia.historiography-project.com/event/evacuations-from-german-ca
 https://encyclopedia.historiography-project.com/event/first-gassing-at-auschwitz/index.html
 https://encyclopedia.historiography-project.com/event/himmler-speeches/index.html
 https://encyclopedia.historiography-project.com/event/himmler-visits/index.html
-https://encyclopedia.historiography-project.com/h/holocaust-the/index.html
 https://encyclopedia.historiography-project.com/event/operation-harvest-festival/index.html
 https://encyclopedia.historiography-project.com/event/torture/index.html
 https://encyclopedia.historiography-project.com/event/wannsee-conference/index.html
@@ -171,6 +174,7 @@ https://encyclopedia.historiography-project.com/f/index.html
 https://encyclopedia.historiography-project.com/f/page/2/index.html
 https://encyclopedia.historiography-project.com/g/index.html
 https://encyclopedia.historiography-project.com/g/page/2/index.html
+https://encyclopedia.historiography-project.com/h/holocaust-the/index.html
 https://encyclopedia.historiography-project.com/h/index.html
 https://encyclopedia.historiography-project.com/h/page/2/index.html
 https://encyclopedia.historiography-project.com/historical-person/berg-isai-davidovich/index.html
@@ -265,7 +269,6 @@ https://encyclopedia.historiography-project.com/instruments/camp/majdanek/index.
 https://encyclopedia.historiography-project.com/instruments/camp/maly-trostenets/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/mauthausen/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/mixed-purpose-camp/auschwitz-main-camp/index.html
-https://encyclopedia.historiography-project.com/a/auschwitz/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/mixed-purpose-camp/birkenau/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/mixed-purpose-camp/dachau/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/mixed-purpose-camp/family-camp-at-auschwitz/index.html
@@ -283,11 +286,9 @@ https://encyclopedia.historiography-project.com/instruments/camp/phantom-camp/gr
 https://encyclopedia.historiography-project.com/instruments/camp/phantom-camp/nordhausen/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/phantom-camp/wolzek/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/phantom-extermination-camps/index.html
-https://encyclopedia.historiography-project.com/a/aktion-reinhardt-camps/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/pure-extermination-camp/belzec/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/pure-extermination-camp/chelmno/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/pure-extermination-camp/treblinka/index.html
-https://encyclopedia.historiography-project.com/a/aktion-1005/index.html
 https://encyclopedia.historiography-project.com/instruments/einsatzgruppen/excavations-of-german-mass-graves/index.html
 https://encyclopedia.historiography-project.com/instruments/einsatzgruppen/fort-ix/index.html
 https://encyclopedia.historiography-project.com/instruments/einsatzgruppen/ponary/index.html
@@ -455,7 +456,7 @@ https://encyclopedia.historiography-project.com/victim-groups/jehovas-witnesses/
 https://encyclopedia.historiography-project.com/w/index.html
 https://encyclopedia.historiography-project.com/w/page/2/index.html
 https://encyclopedia.historiography-project.com/witness/barton-russell/index.html
-https://encyclopedia.historiography-project.com/witness/bystander/auerbach-rachel/index.html
+https://encyclopedia.historiography-project.com/a/auerbach-rachel/index.html
 https://encyclopedia.historiography-project.com/witness/bystander/kozak-stanislaw/index.html
 https://encyclopedia.historiography-project.com/witness/expert/bouard-michel-de/index.html
 https://encyclopedia.historiography-project.com/witness/expert/dawidowski-roman/index.html
@@ -528,7 +529,6 @@ https://encyclopedia.historiography-project.com/witness/perpetrator/widmann-albe
 https://encyclopedia.historiography-project.com/witness/perpetrator/wirths-eduard/index.html
 https://encyclopedia.historiography-project.com/witness/perpetrator/wisliceny-dieter/index.html
 https://encyclopedia.historiography-project.com/witness/perpetrator/wolff-karl/index.html
-https://encyclopedia.historiography-project.com/witness/victim/amiel-szymon/index.html
 https://encyclopedia.historiography-project.com/witness/victim/bacon-yehuda/index.html
 https://encyclopedia.historiography-project.com/witness/victim/bahir-moshe/index.html
 https://encyclopedia.historiography-project.com/witness/victim/bard-nomberg-helena/index.html
