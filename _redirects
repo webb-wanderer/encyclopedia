@@ -48,3 +48,4 @@ http://encyclohhpedia.netlify.app/* https://encyclopedia.historiography-project.
 /document/auschwitz-album/* /a/auschwitz-album/:splat 301!
 /event/auschwitz-bombing-of/index.html /a/auschwitz-bombing-of/:splat 301!
 /document/auschwitz-death-books/* /a/auschwitz-death-books/:splat 301!
+/redirect/van-herwaarden-maria/* /v/van-herwaarden-maria/:splat 301!
