@@ -7,10 +7,16 @@ https://encyclopedia.historiography-project.com/a/aktion-reinhardt-camps/index.h
 https://encyclopedia.historiography-project.com/a/aktion-reinhardt/index.html
 https://encyclopedia.historiography-project.com/a/amiel-szymon/index.html
 https://encyclopedia.historiography-project.com/a/auerbach-rachel/index.html
+https://encyclopedia.historiography-project.com/a/aumeier-hans/index.html
 https://encyclopedia.historiography-project.com/a/auschwitz-album/index.html
 https://encyclopedia.historiography-project.com/a/auschwitz-bombing-of/index.html
+https://encyclopedia.historiography-project.com/a/auschwitz-death-books/index.html
+https://encyclopedia.historiography-project.com/a/auschwitz-main-camp/index.html
 https://encyclopedia.historiography-project.com/a/auschwitz-museum/index.html
+https://encyclopedia.historiography-project.com/a/auschwitz-trials/index.html
 https://encyclopedia.historiography-project.com/a/auschwitz/index.html
+https://encyclopedia.historiography-project.com/a/austria/index.html
+https://encyclopedia.historiography-project.com/a/avey-denis/index.html
 https://encyclopedia.historiography-project.com/a/index.html
 https://encyclopedia.historiography-project.com/about-us/index.html
 https://encyclopedia.historiography-project.com/absurdities/cliches-about-the-holocaust/index.html
@@ -147,7 +153,6 @@ https://encyclopedia.historiography-project.com/concept/special-treatment/index.
 https://encyclopedia.historiography-project.com/concept/typhus/index.html
 https://encyclopedia.historiography-project.com/contact-us/index.html
 https://encyclopedia.historiography-project.com/d/index.html
-https://encyclopedia.historiography-project.com/document/auschwitz-death-books/index.html
 https://encyclopedia.historiography-project.com/document/british-radio-intercepts/index.html
 https://encyclopedia.historiography-project.com/document/commissars-order/index.html
 https://encyclopedia.historiography-project.com/document/corpse-photos/index.html
@@ -270,7 +275,6 @@ https://encyclopedia.historiography-project.com/instruments/camp/extermination-c
 https://encyclopedia.historiography-project.com/instruments/camp/majdanek/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/maly-trostenets/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/mauthausen/index.html
-https://encyclopedia.historiography-project.com/instruments/camp/mixed-purpose-camp/auschwitz-main-camp/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/mixed-purpose-camp/birkenau/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/mixed-purpose-camp/dachau/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/mixed-purpose-camp/family-camp-at-auschwitz/index.html
@@ -330,7 +334,6 @@ https://encyclopedia.historiography-project.com/legal/institution/reichssicherhe
 https://encyclopedia.historiography-project.com/legal/institution/wirtschafts-und-verwaltungs-hauptamt/index.html
 https://encyclopedia.historiography-project.com/legal/institution/yad-vashem/index.html
 https://encyclopedia.historiography-project.com/legal/institution/zentrale-stelle/index.html
-https://encyclopedia.historiography-project.com/a/trial/auschwitz-trials/index.html
 https://encyclopedia.historiography-project.com/legal/trial/belzec-trial/index.html
 https://encyclopedia.historiography-project.com/legal/trial/bergen-belsen-trial/index.html
 https://encyclopedia.historiography-project.com/legal/trial/dachau-trials/index.html
@@ -352,7 +355,6 @@ https://encyclopedia.historiography-project.com/location/camps/semlin/index.html
 https://encyclopedia.historiography-project.com/location/camps/sobibor/index.html
 https://encyclopedia.historiography-project.com/location/camps/stutthof/index.html
 https://encyclopedia.historiography-project.com/location/camps/transit-camps/index.html
-https://encyclopedia.historiography-project.com/a/austria/index.html
 https://encyclopedia.historiography-project.com/location/country/baltic-countries/index.html
 https://encyclopedia.historiography-project.com/location/country/belgium/index.html
 https://encyclopedia.historiography-project.com/location/country/bulgaria/index.html
@@ -463,7 +465,6 @@ https://encyclopedia.historiography-project.com/witness/expert/dawidowski-roman/
 https://encyclopedia.historiography-project.com/witness/expert/dlugoborski-waclaw/index.html
 https://encyclopedia.historiography-project.com/witness/expert/larson-charles/index.html
 https://encyclopedia.historiography-project.com/witness/expert/schelvis-jules/index.html
-https://encyclopedia.historiography-project.com/a/avey-denis/index.html
 https://encyclopedia.historiography-project.com/witness/false-witness/bily-henry/index.html
 https://encyclopedia.historiography-project.com/witness/false-witness/corry-joe/index.html
 https://encyclopedia.historiography-project.com/witness/false-witness/doessekker-bruno/index.html
@@ -475,7 +476,6 @@ https://encyclopedia.historiography-project.com/witness/false-witness/kosinski-j
 https://encyclopedia.historiography-project.com/witness/false-witness/marco-enric/index.html
 https://encyclopedia.historiography-project.com/witness/false-witness/wael-monique-de/index.html
 https://encyclopedia.historiography-project.com/witness/false-witness/watt-donald/index.html
-https://encyclopedia.historiography-project.com/witness/perpetrator/aumeier-hans/index.html
 https://encyclopedia.historiography-project.com/witness/perpetrator/bach-zelewski-erich-von-dem/index.html
 https://encyclopedia.historiography-project.com/witness/perpetrator/becher-kurt/index.html
 https://encyclopedia.historiography-project.com/witness/perpetrator/becker-august/index.html
