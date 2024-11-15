@@ -4,7 +4,6 @@ http://encyclohhpedia.netlify.app/* https://encyclopedia.historiography-project.
 
 # relocations
 /absurdities/absurd-claims/* /a/absurd-claims/:splat 301!
-/plan-order/* /plans-orders/:splat 301!
 /category/* /categories/:splat 301!
 /concept/* /concepts/:splat 301!
 /country/yugoslavia/* /y/yugoslavia/:splat 301!
@@ -31,8 +30,10 @@ http://encyclohhpedia.netlify.app/* https://encyclopedia.historiography-project.
 /location/country/ukraine/* /u/ukraine/:splat 301!
 /location/museum-memorial/auschwitz-museum/* /a/auschwitz-museum/:splat 301!
 /object/* /object/:splat 301!
+/plan-order/* /plans-orders/:splat 301!
 /redirect/farmhouses-makeshift-gas-chambers-at-birkenau-bunkers/* /concept/bunkers/:splat 301!
 /redirect/van-herwaarden-maria/* /v/van-herwaarden-maria/:splat 301!
+/result/* /results/:splat 301!
 /tag/a/* /a/:splat 301!
 /tag/b/* /b/:splat 301!
 /tag/c/* /c/:splat 301!
@@ -57,6 +58,8 @@ http://encyclohhpedia.netlify.app/* https://encyclopedia.historiography-project.
 /tag/w/* /w/:splat 301!
 /tag/y/* /y/:splat 301!
 /tag/z/* /z/:splat 301!
+/technology/* /technologies/:splat 301!
+/toxin-chemical/* /toxins-chemicals/:splat 301!
 /witness/bystander/auerbach-rachel/* /a/auerbach-rachel/:splat 301!
 /witness/false-witness/avey-denis/* /a/avey-denis/:splat 301!
 /witness/false-witness/uthgenannt-otto/* /u/uthgenannt-otto/:splat 301!
