@@ -1261,22 +1261,6 @@
       "oAP" : "\/categories\/instruments\/tool\/index.html",
       "oF" : 0
     },
-    "\/categories\/instruments\/tossme.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/instruments\/tossme.html",
-      "oF" : 0
-    },
-    "\/categories\/legal.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/legal.html",
-      "oF" : 0
-    },
     "\/categories\/legal\/company\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1307,14 +1291,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/categories\/legal\/law\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/legal\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/legal\/page\/2\/index.html",
       "oF" : 0
     },
     "\/categories\/legal\/trial\/index.html" : {
