@@ -1149,12 +1149,44 @@
       "oAP" : "\/categories\/absurdities.html",
       "oF" : 0
     },
+    "\/categories\/absurdities\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/absurdities\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/concept\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/concept\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/concept\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/concept\/page\/2\/index.html",
+      "oF" : 0
+    },
     "\/categories\/concepts.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/categories\/concepts.html",
+      "oF" : 0
+    },
+    "\/categories\/document\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/document\/index.html",
       "oF" : 0
     },
     "\/categories\/documents.html" : {
@@ -1165,12 +1197,76 @@
       "oAP" : "\/categories\/documents.html",
       "oF" : 0
     },
+    "\/categories\/event\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/event\/index.html",
+      "oF" : 0
+    },
     "\/categories\/events.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/categories\/events.html",
+      "oF" : 0
+    },
+    "\/categories\/historical-person\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/historical-person\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/historical-person\/legal-professional\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/historical-person\/legal-professional\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/historical-person\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/historical-person\/page\/2\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/historical-person\/page\/3\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/historical-person\/page\/3\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/historical-person\/politician\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/historical-person\/politician\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/historical-person\/politician\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/historical-person\/politician\/page\/2\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/historical-person\/propagandist\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/historical-person\/propagandist\/index.html",
       "oF" : 0
     },
     "\/categories\/index.html" : {
@@ -1189,12 +1285,236 @@
       "oAP" : "\/categories\/instruments.html",
       "oF" : 0
     },
+    "\/categories\/instruments\/camp\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/instruments\/camp\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/instruments\/camp\/mixed-purpose-camp\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/instruments\/camp\/mixed-purpose-camp\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/instruments\/camp\/other-camp\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/instruments\/camp\/other-camp\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/instruments\/camp\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/instruments\/camp\/page\/2\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/instruments\/camp\/phantom-camp\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/instruments\/camp\/phantom-camp\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/instruments\/camp\/pure-extermination-camp\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/instruments\/camp\/pure-extermination-camp\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/instruments\/einsatzgruppen\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/instruments\/einsatzgruppen\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/instruments\/ghetto\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/instruments\/ghetto\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/instruments\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/instruments\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/instruments\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/instruments\/page\/2\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/instruments\/page\/3\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/instruments\/page\/3\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/instruments\/tool\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/instruments\/tool\/index.html",
+      "oF" : 0
+    },
     "\/categories\/legal.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/categories\/legal.html",
+      "oF" : 0
+    },
+    "\/categories\/legal\/company\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/legal\/company\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/legal\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/legal\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/legal\/institution\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/legal\/institution\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/legal\/law\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/legal\/law\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/legal\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/legal\/page\/2\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/legal\/trial\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/legal\/trial\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/location\/camps\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/location\/camps\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/location\/camps\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/location\/camps\/page\/2\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/location\/country\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/location\/country\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/location\/ghettos\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/location\/ghettos\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/location\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/location\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/location\/museum-memorial\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/location\/museum-memorial\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/location\/other-crime-scene\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/location\/other-crime-scene\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/location\/other-locations\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/location\/other-locations\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/location\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/location\/page\/2\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/location\/page\/3\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/location\/page\/3\/index.html",
       "oF" : 0
     },
     "\/categories\/locations.html" : {
@@ -1213,12 +1533,236 @@
       "oAP" : "\/categories\/manipulation.html",
       "oF" : 0
     },
+    "\/categories\/object\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/object\/index.html",
+      "oF" : 0
+    },
     "\/categories\/objects.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/categories\/objects.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/2\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/3\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/3\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/4\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/4\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/5\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/5\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/6\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/6\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/7\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/7\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/8\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/8\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/9\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/9\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/10\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/10\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/11\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/11\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/12\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/12\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/13\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/13\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/14\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/14\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/15\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/15\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/16\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/16\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/17\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/17\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/18\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/18\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/19\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/19\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/20\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/20\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/21\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/21\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/22\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/22\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/23\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/23\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/24\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/24\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/25\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/25\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/26\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/26\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/27\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/27\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/page\/28\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/page\/28\/index.html",
       "oF" : 0
     },
     "\/categories\/persons.html" : {
@@ -1229,12 +1773,36 @@
       "oAP" : "\/categories\/persons.html",
       "oF" : 0
     },
+    "\/categories\/plan-order\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/plan-order\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/plan-order\/wartime-leader\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/plan-order\/wartime-leader\/index.html",
+      "oF" : 0
+    },
     "\/categories\/plans-orders.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/categories\/plans-orders.html",
+      "oF" : 0
+    },
+    "\/categories\/result\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/result\/index.html",
       "oF" : 0
     },
     "\/categories\/results.html" : {
@@ -1253,6 +1821,22 @@
       "oAP" : "\/categories\/technologies.html",
       "oF" : 0
     },
+    "\/categories\/technology\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/technology\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/toxin-chemical\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/toxin-chemical\/index.html",
+      "oF" : 0
+    },
     "\/categories\/toxins-chemicals.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1267,6 +1851,246 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/categories\/victim-groups.html",
+      "oF" : 0
+    },
+    "\/categories\/victim-groups\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/victim-groups\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/bystander\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/bystander\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/expert\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/expert\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/false-witness\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/false-witness\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/page\/2\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/page\/3\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/page\/3\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/page\/4\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/page\/4\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/page\/5\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/page\/5\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/page\/6\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/page\/6\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/page\/7\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/page\/7\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/page\/8\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/page\/8\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/page\/9\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/page\/9\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/page\/10\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/page\/10\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/page\/11\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/page\/11\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/page\/12\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/page\/12\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/page\/13\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/page\/13\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/perpetrator\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/perpetrator\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/perpetrator\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/perpetrator\/page\/2\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/perpetrator\/page\/3\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/perpetrator\/page\/3\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/victim\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/victim\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/victim\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/victim\/page\/2\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/victim\/page\/3\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/victim\/page\/3\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/victim\/page\/4\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/victim\/page\/4\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/victim\/page\/5\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/victim\/page\/5\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/victim\/page\/6\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/victim\/page\/6\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/victim\/page\/7\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/victim\/page\/7\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/victim\/page\/8\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/victim\/page\/8\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/victim\/page\/9\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/victim\/page\/9\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/witness\/victim\/page\/10\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/witness\/victim\/page\/10\/index.html",
       "oF" : 0
     },
     "\/categories\/witnesses.html" : {
