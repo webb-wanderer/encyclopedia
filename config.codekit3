@@ -1205,20 +1205,20 @@
       "oAP" : "\/categories\/locations.html",
       "oF" : 0
     },
-    "\/categories\/manipulation\/index.html" : {
+    "\/categories\/manipulation.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/categories\/manipulation\/index.html",
+      "oAP" : "\/categories\/manipulation.html",
       "oF" : 0
     },
-    "\/categories\/object\/index.html" : {
+    "\/categories\/objects.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/categories\/object\/index.html",
+      "oAP" : "\/categories\/objects.html",
       "oF" : 0
     },
     "\/categories\/persons.html" : {
@@ -1229,20 +1229,12 @@
       "oAP" : "\/categories\/persons.html",
       "oF" : 0
     },
-    "\/categories\/plan-order\/index.html" : {
+    "\/categories\/plans-orders.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/categories\/plan-order\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/plan-order\/wartime-leader\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/plan-order\/wartime-leader\/index.html",
+      "oAP" : "\/categories\/plans-orders.html",
       "oF" : 0
     },
     "\/categories\/result\/index.html" : {
@@ -3747,14 +3739,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/plans-orders\/emigration\/index.html",
-      "oF" : 0
-    },
-    "\/plans-orders\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/plans-orders\/index.html",
       "oF" : 0
     },
     "\/plans-orders\/intentionality\/index.html" : {

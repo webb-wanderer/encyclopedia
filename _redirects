@@ -29,7 +29,7 @@ http://encyclohhpedia.netlify.app/* https://encyclopedia.historiography-project.
 /location/country/austria/* /a/austria/:splat 301!
 /location/country/ukraine/* /u/ukraine/:splat 301!
 /location/museum-memorial/auschwitz-museum/* /a/auschwitz-museum/:splat 301!
-/object/* /object/:splat 301!
+/object/* /objects/:splat 301!
 /plan-order/* /plans-orders/:splat 301!
 /redirect/farmhouses-makeshift-gas-chambers-at-birkenau-bunkers/* /concept/bunkers/:splat 301!
 /redirect/van-herwaarden-maria/* /v/van-herwaarden-maria/:splat 301!
