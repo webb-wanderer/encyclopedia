@@ -1245,260 +1245,36 @@
       "oAP" : "\/categories\/result\/index.html",
       "oF" : 0
     },
-    "\/categories\/technology\/index.html" : {
+    "\/categories\/technologies.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/categories\/technology\/index.html",
+      "oAP" : "\/categories\/technologies.html",
       "oF" : 0
     },
-    "\/categories\/toxin-chemical\/index.html" : {
+    "\/categories\/toxins-chemicals.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/categories\/toxin-chemical\/index.html",
+      "oAP" : "\/categories\/toxins-chemicals.html",
       "oF" : 0
     },
-    "\/categories\/victim-groups\/index.html" : {
+    "\/categories\/victim-groups.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/categories\/victim-groups\/index.html",
+      "oAP" : "\/categories\/victim-groups.html",
       "oF" : 0
     },
-    "\/categories\/witness\/bystander\/index.html" : {
+    "\/categories\/witnesses.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/categories\/witness\/bystander\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/expert\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/expert\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/false-witness\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/false-witness\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/page\/3\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/page\/3\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/page\/4\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/page\/4\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/page\/5\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/page\/5\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/page\/6\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/page\/6\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/page\/7\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/page\/7\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/page\/8\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/page\/8\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/page\/9\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/page\/9\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/page\/10\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/page\/10\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/page\/11\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/page\/11\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/page\/12\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/page\/12\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/page\/13\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/page\/13\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/perpetrator\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/perpetrator\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/perpetrator\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/perpetrator\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/perpetrator\/page\/3\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/perpetrator\/page\/3\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/victim\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/victim\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/victim\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/victim\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/victim\/page\/3\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/victim\/page\/3\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/victim\/page\/4\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/victim\/page\/4\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/victim\/page\/5\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/victim\/page\/5\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/victim\/page\/6\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/victim\/page\/6\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/victim\/page\/7\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/victim\/page\/7\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/victim\/page\/8\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/victim\/page\/8\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/victim\/page\/9\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/victim\/page\/9\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/witness\/victim\/page\/10\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/witness\/victim\/page\/10\/index.html",
+      "oAP" : "\/categories\/witnesses.html",
       "oF" : 0
     },
     "\/change-log\/index.html" : {
@@ -3981,14 +3757,6 @@
       "oAP" : "\/technologies\/gastight-doors\/index.html",
       "oF" : 0
     },
-    "\/technologies\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/technologies\/index.html",
-      "oF" : 0
-    },
     "\/technologies\/lumberjacks\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -4059,14 +3827,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/toxins-chemicals\/hydrogen-cyanide\/index.html",
-      "oF" : 0
-    },
-    "\/toxins-chemicals\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/toxins-chemicals\/index.html",
       "oF" : 0
     },
     "\/toxins-chemicals\/iron-blue\/index.html" : {
@@ -4200,14 +3960,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/victim-groups\/homosexuals\/index.html",
-      "oF" : 0
-    },
-    "\/victim-groups\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/victim-groups\/index.html",
       "oF" : 0
     },
     "\/victim-groups\/jehovas-witnesses\/index.html" : {
@@ -4384,14 +4136,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/witnesses\/false-witness\/watt-donald\/index.html",
-      "oF" : 0
-    },
-    "\/witnesses\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/witnesses\/index.html",
       "oF" : 0
     },
     "\/witnesses\/perpetrator\/bach-zelewski-erich-von-dem\/index.html" : {
