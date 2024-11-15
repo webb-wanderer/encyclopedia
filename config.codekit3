@@ -1381,12 +1381,12 @@
       "oAP" : "\/categories\/locations\/page\/3\/index.html",
       "oF" : 0
     },
-    "\/categories\/manipulation.html" : {
+    "\/categories\/manipulation\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/categories\/manipulation.html",
+      "oAP" : "\/categories\/manipulation\/index.html",
       "oF" : 0
     },
     "\/categories\/objects.html" : {
