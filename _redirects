@@ -60,6 +60,7 @@ http://encyclohhpedia.netlify.app/* https://encyclopedia.historiography-project.
 /tag/z/* /z/:splat 301!
 /technology/* /technologies/:splat 301!
 /toxin-chemical/* /toxins-chemicals/:splat 301!
+/witness/* /witnesses/:splat 301!
 /witness/bystander/auerbach-rachel/* /a/auerbach-rachel/:splat 301!
 /witness/false-witness/avey-denis/* /a/avey-denis/:splat 301!
 /witness/false-witness/uthgenannt-otto/* /u/uthgenannt-otto/:splat 301!
