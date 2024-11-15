@@ -1437,28 +1437,20 @@
       "oAP" : "\/categories\/persons\/propagandist\/index.html",
       "oF" : 0
     },
+    "\/categories\/persons\/wartime-leader\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/persons\/wartime-leader\/index.html",
+      "oF" : 0
+    },
     "\/categories\/plans-orders\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/categories\/plans-orders\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/plans-orders\/tossme.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/plans-orders\/tossme.html",
-      "oF" : 0
-    },
-    "\/categories\/plans-orders\/wartime-leader\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/plans-orders\/wartime-leader\/index.html",
       "oF" : 0
     },
     "\/categories\/results.html" : {
@@ -3357,6 +3349,30 @@
       "oAP" : "\/persons\/ehrenburg-ilya\/index.html",
       "oF" : 0
     },
+    "\/persons\/frank-hans\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/frank-hans\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/glucks-richard\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/glucks-richard\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/goring-hermann\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/goring-hermann\/index.html",
+      "oF" : 0
+    },
     "\/persons\/goth-amon\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3373,12 +3389,44 @@
       "oAP" : "\/persons\/grossman-vasily\/index.html",
       "oF" : 0
     },
+    "\/persons\/heydrich-reinhardt\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/heydrich-reinhardt\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/himmler-heinrich\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/himmler-heinrich\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/hitler-adolf\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/hitler-adolf\/index.html",
+      "oF" : 0
+    },
     "\/persons\/hossler-franz\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/persons\/hossler-franz\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/kaltenbrunner-ernst\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/kaltenbrunner-ernst\/index.html",
       "oF" : 0
     },
     "\/persons\/koch-ilse\/index.html" : {
@@ -3811,62 +3859,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/plans-orders\/resettlement\/index.html",
-      "oF" : 0
-    },
-    "\/plans-orders\/wartime-leader\/frank-hans\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/plans-orders\/wartime-leader\/frank-hans\/index.html",
-      "oF" : 0
-    },
-    "\/plans-orders\/wartime-leader\/glucks-richard\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/plans-orders\/wartime-leader\/glucks-richard\/index.html",
-      "oF" : 0
-    },
-    "\/plans-orders\/wartime-leader\/goring-hermann\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/plans-orders\/wartime-leader\/goring-hermann\/index.html",
-      "oF" : 0
-    },
-    "\/plans-orders\/wartime-leader\/heydrich-reinhardt\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/plans-orders\/wartime-leader\/heydrich-reinhardt\/index.html",
-      "oF" : 0
-    },
-    "\/plans-orders\/wartime-leader\/himmler-heinrich\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/plans-orders\/wartime-leader\/himmler-heinrich\/index.html",
-      "oF" : 0
-    },
-    "\/plans-orders\/wartime-leader\/hitler-adolf\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/plans-orders\/wartime-leader\/hitler-adolf\/index.html",
-      "oF" : 0
-    },
-    "\/plans-orders\/wartime-leader\/kaltenbrunner-ernst\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/plans-orders\/wartime-leader\/kaltenbrunner-ernst\/index.html",
       "oF" : 0
     },
     "\/q\/index.html" : {
