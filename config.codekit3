@@ -1173,76 +1173,12 @@
       "oAP" : "\/categories\/events\/index.html",
       "oF" : 0
     },
-    "\/categories\/historical-person\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/historical-person\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/historical-person\/legal-professional\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/historical-person\/legal-professional\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/historical-person\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/historical-person\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/historical-person\/page\/3\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/historical-person\/page\/3\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/historical-person\/politician\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/historical-person\/politician\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/historical-person\/politician\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/historical-person\/politician\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/historical-person\/propagandist\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/historical-person\/propagandist\/index.html",
-      "oF" : 0
-    },
     "\/categories\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/categories\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/instruments.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/instruments.html",
       "oF" : 0
     },
     "\/categories\/instruments\/camp\/index.html" : {
@@ -1317,28 +1253,20 @@
       "oAP" : "\/categories\/instruments\/index.html",
       "oF" : 0
     },
-    "\/categories\/instruments\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/instruments\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/instruments\/page\/3\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/instruments\/page\/3\/index.html",
-      "oF" : 0
-    },
     "\/categories\/instruments\/tool\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/categories\/instruments\/tool\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/instruments\/tossme.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/instruments\/tossme.html",
       "oF" : 0
     },
     "\/categories\/legal.html" : {
@@ -1515,6 +1443,62 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/categories\/persons.html",
+      "oF" : 0
+    },
+    "\/categories\/persons\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/persons\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/persons\/legal-professional\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/persons\/legal-professional\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/persons\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/persons\/page\/2\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/persons\/page\/3\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/persons\/page\/3\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/persons\/politician\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/persons\/politician\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/persons\/politician\/page\/2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/persons\/politician\/page\/2\/index.html",
+      "oF" : 0
+    },
+    "\/categories\/persons\/propagandist\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/categories\/persons\/propagandist\/index.html",
       "oF" : 0
     },
     "\/categories\/plan-order\/index.html" : {
