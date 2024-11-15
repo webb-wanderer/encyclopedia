@@ -1853,84 +1853,84 @@
       "oAP" : "\/e\/index.html",
       "oF" : 0
     },
-    "\/event\/crystal-night\/index.html" : {
+    "\/events\/crystal-night\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/event\/crystal-night\/index.html",
+      "oAP" : "\/events\/crystal-night\/index.html",
       "oF" : 0
     },
-    "\/event\/escapes-from-gas-chamber\/index.html" : {
+    "\/events\/escapes-from-gas-chamber\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/event\/escapes-from-gas-chamber\/index.html",
+      "oAP" : "\/events\/escapes-from-gas-chamber\/index.html",
       "oF" : 0
     },
-    "\/event\/euthanasia\/index.html" : {
+    "\/events\/euthanasia\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/event\/euthanasia\/index.html",
+      "oAP" : "\/events\/euthanasia\/index.html",
       "oF" : 0
     },
-    "\/event\/evacuations-from-german-camps\/index.html" : {
+    "\/events\/evacuations-from-german-camps\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/event\/evacuations-from-german-camps\/index.html",
+      "oAP" : "\/events\/evacuations-from-german-camps\/index.html",
       "oF" : 0
     },
-    "\/event\/first-gassing-at-auschwitz\/index.html" : {
+    "\/events\/first-gassing-at-auschwitz\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/event\/first-gassing-at-auschwitz\/index.html",
+      "oAP" : "\/events\/first-gassing-at-auschwitz\/index.html",
       "oF" : 0
     },
-    "\/event\/himmler-speeches\/index.html" : {
+    "\/events\/himmler-speeches\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/event\/himmler-speeches\/index.html",
+      "oAP" : "\/events\/himmler-speeches\/index.html",
       "oF" : 0
     },
-    "\/event\/himmler-visits\/index.html" : {
+    "\/events\/himmler-visits\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/event\/himmler-visits\/index.html",
+      "oAP" : "\/events\/himmler-visits\/index.html",
       "oF" : 0
     },
-    "\/event\/operation-harvest-festival\/index.html" : {
+    "\/events\/operation-harvest-festival\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/event\/operation-harvest-festival\/index.html",
+      "oAP" : "\/events\/operation-harvest-festival\/index.html",
       "oF" : 0
     },
-    "\/event\/torture\/index.html" : {
+    "\/events\/torture\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/event\/torture\/index.html",
+      "oAP" : "\/events\/torture\/index.html",
       "oF" : 0
     },
-    "\/event\/wannsee-conference\/index.html" : {
+    "\/events\/wannsee-conference\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/event\/wannsee-conference\/index.html",
+      "oAP" : "\/events\/wannsee-conference\/index.html",
       "oF" : 0
     },
     "\/f\/index.html" : {
@@ -2845,348 +2845,348 @@
       "oAP" : "\/list-of-entries\/index.html",
       "oF" : 0
     },
-    "\/location\/camps\/ohrdruf\/index.html" : {
+    "\/locations\/camps\/ohrdruf\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/camps\/ohrdruf\/index.html",
+      "oAP" : "\/locations\/camps\/ohrdruf\/index.html",
       "oF" : 0
     },
-    "\/location\/camps\/oranienburg\/index.html" : {
+    "\/locations\/camps\/oranienburg\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/camps\/oranienburg\/index.html",
+      "oAP" : "\/locations\/camps\/oranienburg\/index.html",
       "oF" : 0
     },
-    "\/location\/camps\/rajsko\/index.html" : {
+    "\/locations\/camps\/rajsko\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/camps\/rajsko\/index.html",
+      "oAP" : "\/locations\/camps\/rajsko\/index.html",
       "oF" : 0
     },
-    "\/location\/camps\/semlin\/index.html" : {
+    "\/locations\/camps\/semlin\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/camps\/semlin\/index.html",
+      "oAP" : "\/locations\/camps\/semlin\/index.html",
       "oF" : 0
     },
-    "\/location\/camps\/sobibor\/index.html" : {
+    "\/locations\/camps\/sobibor\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/camps\/sobibor\/index.html",
+      "oAP" : "\/locations\/camps\/sobibor\/index.html",
       "oF" : 0
     },
-    "\/location\/camps\/stutthof\/index.html" : {
+    "\/locations\/camps\/stutthof\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/camps\/stutthof\/index.html",
+      "oAP" : "\/locations\/camps\/stutthof\/index.html",
       "oF" : 0
     },
-    "\/location\/camps\/transit-camps\/index.html" : {
+    "\/locations\/camps\/transit-camps\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/camps\/transit-camps\/index.html",
+      "oAP" : "\/locations\/camps\/transit-camps\/index.html",
       "oF" : 0
     },
-    "\/location\/country\/baltic-countries\/index.html" : {
+    "\/locations\/country\/baltic-countries\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/country\/baltic-countries\/index.html",
+      "oAP" : "\/locations\/country\/baltic-countries\/index.html",
       "oF" : 0
     },
-    "\/location\/country\/belgium\/index.html" : {
+    "\/locations\/country\/belgium\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/country\/belgium\/index.html",
+      "oAP" : "\/locations\/country\/belgium\/index.html",
       "oF" : 0
     },
-    "\/location\/country\/bulgaria\/index.html" : {
+    "\/locations\/country\/bulgaria\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/country\/bulgaria\/index.html",
+      "oAP" : "\/locations\/country\/bulgaria\/index.html",
       "oF" : 0
     },
-    "\/location\/country\/czechia\/index.html" : {
+    "\/locations\/country\/czechia\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/country\/czechia\/index.html",
+      "oAP" : "\/locations\/country\/czechia\/index.html",
       "oF" : 0
     },
-    "\/location\/country\/denmark\/index.html" : {
+    "\/locations\/country\/denmark\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/country\/denmark\/index.html",
+      "oAP" : "\/locations\/country\/denmark\/index.html",
       "oF" : 0
     },
-    "\/location\/country\/france\/index.html" : {
+    "\/locations\/country\/france\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/country\/france\/index.html",
+      "oAP" : "\/locations\/country\/france\/index.html",
       "oF" : 0
     },
-    "\/location\/country\/germany\/index.html" : {
+    "\/locations\/country\/germany\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/country\/germany\/index.html",
+      "oAP" : "\/locations\/country\/germany\/index.html",
       "oF" : 0
     },
-    "\/location\/country\/greece\/index.html" : {
+    "\/locations\/country\/greece\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/country\/greece\/index.html",
+      "oAP" : "\/locations\/country\/greece\/index.html",
       "oF" : 0
     },
-    "\/location\/country\/hungary\/index.html" : {
+    "\/locations\/country\/hungary\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/country\/hungary\/index.html",
+      "oAP" : "\/locations\/country\/hungary\/index.html",
       "oF" : 0
     },
-    "\/location\/country\/italy\/index.html" : {
+    "\/locations\/country\/italy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/country\/italy\/index.html",
+      "oAP" : "\/locations\/country\/italy\/index.html",
       "oF" : 0
     },
-    "\/location\/country\/luxembourg\/index.html" : {
+    "\/locations\/country\/luxembourg\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/country\/luxembourg\/index.html",
+      "oAP" : "\/locations\/country\/luxembourg\/index.html",
       "oF" : 0
     },
-    "\/location\/country\/netherlands\/index.html" : {
+    "\/locations\/country\/netherlands\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/country\/netherlands\/index.html",
+      "oAP" : "\/locations\/country\/netherlands\/index.html",
       "oF" : 0
     },
-    "\/location\/country\/norway\/index.html" : {
+    "\/locations\/country\/norway\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/country\/norway\/index.html",
+      "oAP" : "\/locations\/country\/norway\/index.html",
       "oF" : 0
     },
-    "\/location\/country\/poland\/index.html" : {
+    "\/locations\/country\/poland\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/country\/poland\/index.html",
+      "oAP" : "\/locations\/country\/poland\/index.html",
       "oF" : 0
     },
-    "\/location\/country\/romania\/index.html" : {
+    "\/locations\/country\/romania\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/country\/romania\/index.html",
+      "oAP" : "\/locations\/country\/romania\/index.html",
       "oF" : 0
     },
-    "\/location\/country\/slovakia\/index.html" : {
+    "\/locations\/country\/slovakia\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/country\/slovakia\/index.html",
+      "oAP" : "\/locations\/country\/slovakia\/index.html",
       "oF" : 0
     },
-    "\/location\/country\/soviet-union\/index.html" : {
+    "\/locations\/country\/soviet-union\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/country\/soviet-union\/index.html",
+      "oAP" : "\/locations\/country\/soviet-union\/index.html",
       "oF" : 0
     },
-    "\/location\/ghettos\/theresienstadt\/index.html" : {
+    "\/locations\/ghettos\/theresienstadt\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/ghettos\/theresienstadt\/index.html",
+      "oAP" : "\/locations\/ghettos\/theresienstadt\/index.html",
       "oF" : 0
     },
-    "\/location\/museum-memorial\/dachau-museum\/index.html" : {
+    "\/locations\/museum-memorial\/dachau-museum\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/museum-memorial\/dachau-museum\/index.html",
+      "oAP" : "\/locations\/museum-memorial\/dachau-museum\/index.html",
       "oF" : 0
     },
-    "\/location\/museum-memorial\/majdanek-museum\/index.html" : {
+    "\/locations\/museum-memorial\/majdanek-museum\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/museum-memorial\/majdanek-museum\/index.html",
+      "oAP" : "\/locations\/museum-memorial\/majdanek-museum\/index.html",
       "oF" : 0
     },
-    "\/location\/other-crime-scene\/babi-yar\/index.html" : {
+    "\/locations\/other-crime-scene\/babi-yar\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/other-crime-scene\/babi-yar\/index.html",
+      "oAP" : "\/locations\/other-crime-scene\/babi-yar\/index.html",
       "oF" : 0
     },
-    "\/location\/other-crime-scene\/bad-nenndorf\/index.html" : {
+    "\/locations\/other-crime-scene\/bad-nenndorf\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/other-crime-scene\/bad-nenndorf\/index.html",
+      "oAP" : "\/locations\/other-crime-scene\/bad-nenndorf\/index.html",
       "oF" : 0
     },
-    "\/location\/other-crime-scene\/bialystok\/index.html" : {
+    "\/locations\/other-crime-scene\/bialystok\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/other-crime-scene\/bialystok\/index.html",
+      "oAP" : "\/locations\/other-crime-scene\/bialystok\/index.html",
       "oF" : 0
     },
-    "\/location\/other-crime-scene\/bikernieki-rumbula\/index.html" : {
+    "\/locations\/other-crime-scene\/bikernieki-rumbula\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/other-crime-scene\/bikernieki-rumbula\/index.html",
+      "oAP" : "\/locations\/other-crime-scene\/bikernieki-rumbula\/index.html",
       "oF" : 0
     },
-    "\/location\/other-crime-scene\/brest\/index.html" : {
+    "\/locations\/other-crime-scene\/brest\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/other-crime-scene\/brest\/index.html",
+      "oAP" : "\/locations\/other-crime-scene\/brest\/index.html",
       "oF" : 0
     },
-    "\/location\/other-crime-scene\/bronnaya-gora\/index.html" : {
+    "\/locations\/other-crime-scene\/bronnaya-gora\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/other-crime-scene\/bronnaya-gora\/index.html",
+      "oAP" : "\/locations\/other-crime-scene\/bronnaya-gora\/index.html",
       "oF" : 0
     },
-    "\/location\/other-crime-scene\/hartheim\/index.html" : {
+    "\/locations\/other-crime-scene\/hartheim\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/other-crime-scene\/hartheim\/index.html",
+      "oAP" : "\/locations\/other-crime-scene\/hartheim\/index.html",
       "oF" : 0
     },
-    "\/location\/other-crime-scene\/kerch\/index.html" : {
+    "\/locations\/other-crime-scene\/kerch\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/other-crime-scene\/kerch\/index.html",
+      "oAP" : "\/locations\/other-crime-scene\/kerch\/index.html",
       "oF" : 0
     },
-    "\/location\/other-crime-scene\/marijampole\/index.html" : {
+    "\/locations\/other-crime-scene\/marijampole\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/other-crime-scene\/marijampole\/index.html",
+      "oAP" : "\/locations\/other-crime-scene\/marijampole\/index.html",
       "oF" : 0
     },
-    "\/location\/other-crime-scene\/mass-graves\/index.html" : {
+    "\/locations\/other-crime-scene\/mass-graves\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/other-crime-scene\/mass-graves\/index.html",
+      "oAP" : "\/locations\/other-crime-scene\/mass-graves\/index.html",
       "oF" : 0
     },
-    "\/location\/other-crime-scene\/rumbula\/index.html" : {
+    "\/locations\/other-crime-scene\/rumbula\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/other-crime-scene\/rumbula\/index.html",
+      "oAP" : "\/locations\/other-crime-scene\/rumbula\/index.html",
       "oF" : 0
     },
-    "\/location\/other-locations\/birobidzhan\/index.html" : {
+    "\/locations\/other-locations\/birobidzhan\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/other-locations\/birobidzhan\/index.html",
+      "oAP" : "\/locations\/other-locations\/birobidzhan\/index.html",
       "oF" : 0
     },
-    "\/location\/other-locations\/london-cage\/index.html" : {
+    "\/locations\/other-locations\/london-cage\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/other-locations\/london-cage\/index.html",
+      "oAP" : "\/locations\/other-locations\/london-cage\/index.html",
       "oF" : 0
     },
-    "\/location\/other-locations\/madagascar\/index.html" : {
+    "\/locations\/other-locations\/madagascar\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/other-locations\/madagascar\/index.html",
+      "oAP" : "\/locations\/other-locations\/madagascar\/index.html",
       "oF" : 0
     },
-    "\/location\/other-locations\/shanghai\/index.html" : {
+    "\/locations\/other-locations\/shanghai\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/other-locations\/shanghai\/index.html",
+      "oAP" : "\/locations\/other-locations\/shanghai\/index.html",
       "oF" : 0
     },
-    "\/location\/other-locations\/zentralsauna-auschwitz-birkenau\/index.html" : {
+    "\/locations\/other-locations\/zentralsauna-auschwitz-birkenau\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/location\/other-locations\/zentralsauna-auschwitz-birkenau\/index.html",
+      "oAP" : "\/locations\/other-locations\/zentralsauna-auschwitz-birkenau\/index.html",
       "oF" : 0
     },
     "\/m\/index.html" : {

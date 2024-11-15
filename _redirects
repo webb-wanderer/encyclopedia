@@ -7,6 +7,8 @@ http://encyclohhpedia.netlify.app/* https://encyclopedia.historiography-project.
 /category/* /categories/:splat 301!
 /concept/* /concepts/:splat 301!
 /document/* /documents/:splat 301!
+/event/* /events/:splat 301!
+/location/* /locations/:splat 301!
 /country/yugoslavia/* /y/yugoslavia/:splat 301!
 /document/air-photos/* /a/air-photos/:splat 301!
 /document/auschwitz-album/* /a/auschwitz-album/:splat 301!
