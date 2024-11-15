@@ -997,14 +997,6 @@
       "oAP" : "\/absurdities\/geysers-of-blood-from-mass-graves\/index.html",
       "oF" : 0
     },
-    "\/absurdities\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/absurdities\/index.html",
-      "oF" : 0
-    },
     "\/absurdities\/kosow-podlaski\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1149,628 +1141,372 @@
       "oAP" : "\/c\/page\/2\/index.html",
       "oF" : 0
     },
-    "\/category\/absurdities\/index.html" : {
+    "\/categories\/absurdities.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/absurdities\/index.html",
+      "oAP" : "\/categories\/absurdities.html",
       "oF" : 0
     },
-    "\/category\/concept\/index.html" : {
+    "\/categories\/concepts.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/concept\/index.html",
+      "oAP" : "\/categories\/concepts.html",
       "oF" : 0
     },
-    "\/category\/concept\/page\/2\/index.html" : {
+    "\/categories\/documents.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/concept\/page\/2\/index.html",
+      "oAP" : "\/categories\/documents.html",
       "oF" : 0
     },
-    "\/category\/document\/index.html" : {
+    "\/categories\/events.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/document\/index.html",
+      "oAP" : "\/categories\/events.html",
       "oF" : 0
     },
-    "\/category\/event\/index.html" : {
+    "\/categories\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/event\/index.html",
+      "oAP" : "\/categories\/index.html",
       "oF" : 0
     },
-    "\/category\/historical-person\/index.html" : {
+    "\/categories\/instruments.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/historical-person\/index.html",
+      "oAP" : "\/categories\/instruments.html",
       "oF" : 0
     },
-    "\/category\/historical-person\/legal-professional\/index.html" : {
+    "\/categories\/legal.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/historical-person\/legal-professional\/index.html",
+      "oAP" : "\/categories\/legal.html",
       "oF" : 0
     },
-    "\/category\/historical-person\/page\/2\/index.html" : {
+    "\/categories\/locations.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/historical-person\/page\/2\/index.html",
+      "oAP" : "\/categories\/locations.html",
       "oF" : 0
     },
-    "\/category\/historical-person\/page\/3\/index.html" : {
+    "\/categories\/manipulation\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/historical-person\/page\/3\/index.html",
+      "oAP" : "\/categories\/manipulation\/index.html",
       "oF" : 0
     },
-    "\/category\/historical-person\/politician\/index.html" : {
+    "\/categories\/object\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/historical-person\/politician\/index.html",
+      "oAP" : "\/categories\/object\/index.html",
       "oF" : 0
     },
-    "\/category\/historical-person\/politician\/page\/2\/index.html" : {
+    "\/categories\/persons.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/historical-person\/politician\/page\/2\/index.html",
+      "oAP" : "\/categories\/persons.html",
       "oF" : 0
     },
-    "\/category\/historical-person\/propagandist\/index.html" : {
+    "\/categories\/plan-order\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/historical-person\/propagandist\/index.html",
+      "oAP" : "\/categories\/plan-order\/index.html",
       "oF" : 0
     },
-    "\/category\/index.html" : {
+    "\/categories\/plan-order\/wartime-leader\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/index.html",
+      "oAP" : "\/categories\/plan-order\/wartime-leader\/index.html",
       "oF" : 0
     },
-    "\/category\/instruments\/camp\/index.html" : {
+    "\/categories\/result\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/instruments\/camp\/index.html",
+      "oAP" : "\/categories\/result\/index.html",
       "oF" : 0
     },
-    "\/category\/instruments\/camp\/mixed-purpose-camp\/index.html" : {
+    "\/categories\/technology\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/instruments\/camp\/mixed-purpose-camp\/index.html",
+      "oAP" : "\/categories\/technology\/index.html",
       "oF" : 0
     },
-    "\/category\/instruments\/camp\/other-camp\/index.html" : {
+    "\/categories\/toxin-chemical\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/instruments\/camp\/other-camp\/index.html",
+      "oAP" : "\/categories\/toxin-chemical\/index.html",
       "oF" : 0
     },
-    "\/category\/instruments\/camp\/page\/2\/index.html" : {
+    "\/categories\/victim-groups\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/instruments\/camp\/page\/2\/index.html",
+      "oAP" : "\/categories\/victim-groups\/index.html",
       "oF" : 0
     },
-    "\/category\/instruments\/camp\/phantom-camp\/index.html" : {
+    "\/categories\/witness\/bystander\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/instruments\/camp\/phantom-camp\/index.html",
+      "oAP" : "\/categories\/witness\/bystander\/index.html",
       "oF" : 0
     },
-    "\/category\/instruments\/camp\/pure-extermination-camp\/index.html" : {
+    "\/categories\/witness\/expert\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/instruments\/camp\/pure-extermination-camp\/index.html",
+      "oAP" : "\/categories\/witness\/expert\/index.html",
       "oF" : 0
     },
-    "\/category\/instruments\/einsatzgruppen\/index.html" : {
+    "\/categories\/witness\/false-witness\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/instruments\/einsatzgruppen\/index.html",
+      "oAP" : "\/categories\/witness\/false-witness\/index.html",
       "oF" : 0
     },
-    "\/category\/instruments\/ghetto\/index.html" : {
+    "\/categories\/witness\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/instruments\/ghetto\/index.html",
+      "oAP" : "\/categories\/witness\/index.html",
       "oF" : 0
     },
-    "\/category\/instruments\/index.html" : {
+    "\/categories\/witness\/page\/2\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/instruments\/index.html",
+      "oAP" : "\/categories\/witness\/page\/2\/index.html",
       "oF" : 0
     },
-    "\/category\/instruments\/page\/2\/index.html" : {
+    "\/categories\/witness\/page\/3\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/instruments\/page\/2\/index.html",
+      "oAP" : "\/categories\/witness\/page\/3\/index.html",
       "oF" : 0
     },
-    "\/category\/instruments\/page\/3\/index.html" : {
+    "\/categories\/witness\/page\/4\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/instruments\/page\/3\/index.html",
+      "oAP" : "\/categories\/witness\/page\/4\/index.html",
       "oF" : 0
     },
-    "\/category\/instruments\/tool\/index.html" : {
+    "\/categories\/witness\/page\/5\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/instruments\/tool\/index.html",
+      "oAP" : "\/categories\/witness\/page\/5\/index.html",
       "oF" : 0
     },
-    "\/category\/legal\/company\/index.html" : {
+    "\/categories\/witness\/page\/6\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/legal\/company\/index.html",
+      "oAP" : "\/categories\/witness\/page\/6\/index.html",
       "oF" : 0
     },
-    "\/category\/legal\/index.html" : {
+    "\/categories\/witness\/page\/7\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/legal\/index.html",
+      "oAP" : "\/categories\/witness\/page\/7\/index.html",
       "oF" : 0
     },
-    "\/category\/legal\/institution\/index.html" : {
+    "\/categories\/witness\/page\/8\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/legal\/institution\/index.html",
+      "oAP" : "\/categories\/witness\/page\/8\/index.html",
       "oF" : 0
     },
-    "\/category\/legal\/law\/index.html" : {
+    "\/categories\/witness\/page\/9\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/legal\/law\/index.html",
+      "oAP" : "\/categories\/witness\/page\/9\/index.html",
       "oF" : 0
     },
-    "\/category\/legal\/page\/2\/index.html" : {
+    "\/categories\/witness\/page\/10\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/legal\/page\/2\/index.html",
+      "oAP" : "\/categories\/witness\/page\/10\/index.html",
       "oF" : 0
     },
-    "\/category\/legal\/trial\/index.html" : {
+    "\/categories\/witness\/page\/11\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/legal\/trial\/index.html",
+      "oAP" : "\/categories\/witness\/page\/11\/index.html",
       "oF" : 0
     },
-    "\/category\/location\/camps\/index.html" : {
+    "\/categories\/witness\/page\/12\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/location\/camps\/index.html",
+      "oAP" : "\/categories\/witness\/page\/12\/index.html",
       "oF" : 0
     },
-    "\/category\/location\/camps\/page\/2\/index.html" : {
+    "\/categories\/witness\/page\/13\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/location\/camps\/page\/2\/index.html",
+      "oAP" : "\/categories\/witness\/page\/13\/index.html",
       "oF" : 0
     },
-    "\/category\/location\/country\/index.html" : {
+    "\/categories\/witness\/perpetrator\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/location\/country\/index.html",
+      "oAP" : "\/categories\/witness\/perpetrator\/index.html",
       "oF" : 0
     },
-    "\/category\/location\/ghettos\/index.html" : {
+    "\/categories\/witness\/perpetrator\/page\/2\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/location\/ghettos\/index.html",
+      "oAP" : "\/categories\/witness\/perpetrator\/page\/2\/index.html",
       "oF" : 0
     },
-    "\/category\/location\/index.html" : {
+    "\/categories\/witness\/perpetrator\/page\/3\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/location\/index.html",
+      "oAP" : "\/categories\/witness\/perpetrator\/page\/3\/index.html",
       "oF" : 0
     },
-    "\/category\/location\/museum-memorial\/index.html" : {
+    "\/categories\/witness\/victim\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/location\/museum-memorial\/index.html",
+      "oAP" : "\/categories\/witness\/victim\/index.html",
       "oF" : 0
     },
-    "\/category\/location\/other-crime-scene\/index.html" : {
+    "\/categories\/witness\/victim\/page\/2\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/location\/other-crime-scene\/index.html",
+      "oAP" : "\/categories\/witness\/victim\/page\/2\/index.html",
       "oF" : 0
     },
-    "\/category\/location\/other-locations\/index.html" : {
+    "\/categories\/witness\/victim\/page\/3\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/location\/other-locations\/index.html",
+      "oAP" : "\/categories\/witness\/victim\/page\/3\/index.html",
       "oF" : 0
     },
-    "\/category\/location\/page\/2\/index.html" : {
+    "\/categories\/witness\/victim\/page\/4\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/location\/page\/2\/index.html",
+      "oAP" : "\/categories\/witness\/victim\/page\/4\/index.html",
       "oF" : 0
     },
-    "\/category\/location\/page\/3\/index.html" : {
+    "\/categories\/witness\/victim\/page\/5\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/location\/page\/3\/index.html",
+      "oAP" : "\/categories\/witness\/victim\/page\/5\/index.html",
       "oF" : 0
     },
-    "\/category\/manipulation\/index.html" : {
+    "\/categories\/witness\/victim\/page\/6\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/manipulation\/index.html",
+      "oAP" : "\/categories\/witness\/victim\/page\/6\/index.html",
       "oF" : 0
     },
-    "\/category\/object\/index.html" : {
+    "\/categories\/witness\/victim\/page\/7\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/object\/index.html",
+      "oAP" : "\/categories\/witness\/victim\/page\/7\/index.html",
       "oF" : 0
     },
-    "\/category\/plan-order\/index.html" : {
+    "\/categories\/witness\/victim\/page\/8\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/plan-order\/index.html",
+      "oAP" : "\/categories\/witness\/victim\/page\/8\/index.html",
       "oF" : 0
     },
-    "\/category\/plan-order\/wartime-leader\/index.html" : {
+    "\/categories\/witness\/victim\/page\/9\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/plan-order\/wartime-leader\/index.html",
+      "oAP" : "\/categories\/witness\/victim\/page\/9\/index.html",
       "oF" : 0
     },
-    "\/category\/result\/index.html" : {
+    "\/categories\/witness\/victim\/page\/10\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/category\/result\/index.html",
-      "oF" : 0
-    },
-    "\/category\/technology\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/technology\/index.html",
-      "oF" : 0
-    },
-    "\/category\/toxin-chemical\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/toxin-chemical\/index.html",
-      "oF" : 0
-    },
-    "\/category\/victim-groups\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/victim-groups\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/bystander\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/bystander\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/expert\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/expert\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/false-witness\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/false-witness\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/page\/3\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/page\/3\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/page\/4\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/page\/4\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/page\/5\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/page\/5\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/page\/6\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/page\/6\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/page\/7\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/page\/7\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/page\/8\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/page\/8\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/page\/9\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/page\/9\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/page\/10\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/page\/10\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/page\/11\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/page\/11\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/page\/12\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/page\/12\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/page\/13\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/page\/13\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/perpetrator\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/perpetrator\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/perpetrator\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/perpetrator\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/perpetrator\/page\/3\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/perpetrator\/page\/3\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/victim\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/victim\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/victim\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/victim\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/victim\/page\/3\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/victim\/page\/3\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/victim\/page\/4\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/victim\/page\/4\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/victim\/page\/5\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/victim\/page\/5\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/victim\/page\/6\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/victim\/page\/6\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/victim\/page\/7\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/victim\/page\/7\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/victim\/page\/8\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/victim\/page\/8\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/victim\/page\/9\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/victim\/page\/9\/index.html",
-      "oF" : 0
-    },
-    "\/category\/witness\/victim\/page\/10\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/category\/witness\/victim\/page\/10\/index.html",
+      "oAP" : "\/categories\/witness\/victim\/page\/10\/index.html",
       "oF" : 0
     },
     "\/change-log\/index.html" : {
@@ -1781,220 +1517,212 @@
       "oAP" : "\/change-log\/index.html",
       "oF" : 0
     },
-    "\/concept\/bunkers\/index.html" : {
+    "\/concepts\/bunkers\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/bunkers\/index.html",
+      "oAP" : "\/concepts\/bunkers\/index.html",
       "oF" : 0
     },
-    "\/concept\/censorship\/index.html" : {
+    "\/concepts\/censorship\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/censorship\/index.html",
+      "oAP" : "\/concepts\/censorship\/index.html",
       "oF" : 0
     },
-    "\/concept\/code-language\/index.html" : {
+    "\/concepts\/code-language\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/code-language\/index.html",
+      "oAP" : "\/concepts\/code-language\/index.html",
       "oF" : 0
     },
-    "\/concept\/compensation\/index.html" : {
+    "\/concepts\/compensation\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/compensation\/index.html",
+      "oAP" : "\/concepts\/compensation\/index.html",
       "oF" : 0
     },
-    "\/concept\/construction-office\/index.html" : {
+    "\/concepts\/construction-office\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/construction-office\/index.html",
+      "oAP" : "\/concepts\/construction-office\/index.html",
       "oF" : 0
     },
-    "\/concept\/convergence-of-evidence\/index.html" : {
+    "\/concepts\/convergence-of-evidence\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/convergence-of-evidence\/index.html",
+      "oAP" : "\/concepts\/convergence-of-evidence\/index.html",
       "oF" : 0
     },
-    "\/concept\/criminal-traces\/index.html" : {
+    "\/concepts\/criminal-traces\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/criminal-traces\/index.html",
+      "oAP" : "\/concepts\/criminal-traces\/index.html",
       "oF" : 0
     },
-    "\/concept\/demography-jewish\/index.html" : {
+    "\/concepts\/demography-jewish\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/demography-jewish\/index.html",
+      "oAP" : "\/concepts\/demography-jewish\/index.html",
       "oF" : 0
     },
-    "\/concept\/evidence\/index.html" : {
+    "\/concepts\/evidence\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/evidence\/index.html",
+      "oAP" : "\/concepts\/evidence\/index.html",
       "oF" : 0
     },
-    "\/concept\/extirpation\/index.html" : {
+    "\/concepts\/extirpation\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/extirpation\/index.html",
+      "oAP" : "\/concepts\/extirpation\/index.html",
       "oF" : 0
     },
-    "\/concept\/false-memory-syndrome\/index.html" : {
+    "\/concepts\/false-memory-syndrome\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/false-memory-syndrome\/index.html",
+      "oAP" : "\/concepts\/false-memory-syndrome\/index.html",
       "oF" : 0
     },
-    "\/concept\/final-solution\/index.html" : {
+    "\/concepts\/final-solution\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/final-solution\/index.html",
+      "oAP" : "\/concepts\/final-solution\/index.html",
       "oF" : 0
     },
-    "\/concept\/generalplan-ost\/index.html" : {
+    "\/concepts\/generalplan-ost\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/generalplan-ost\/index.html",
+      "oAP" : "\/concepts\/generalplan-ost\/index.html",
       "oF" : 0
     },
-    "\/concept\/genocide\/index.html" : {
+    "\/concepts\/genocide\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/genocide\/index.html",
+      "oAP" : "\/concepts\/genocide\/index.html",
       "oF" : 0
     },
-    "\/concept\/groundwater-level\/index.html" : {
+    "\/concepts\/groundwater-level\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/groundwater-level\/index.html",
+      "oAP" : "\/concepts\/groundwater-level\/index.html",
       "oF" : 0
     },
-    "\/concept\/healthcare\/index.html" : {
+    "\/concepts\/healthcare\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/healthcare\/index.html",
+      "oAP" : "\/concepts\/healthcare\/index.html",
       "oF" : 0
     },
-    "\/concept\/holocaust-indoctrination\/index.html" : {
+    "\/concepts\/holocaust-indoctrination\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/holocaust-indoctrination\/index.html",
+      "oAP" : "\/concepts\/holocaust-indoctrination\/index.html",
       "oF" : 0
     },
-    "\/concept\/holocaust-skepticism-revisionism\/index.html" : {
+    "\/concepts\/holocaust-skepticism-revisionism\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/holocaust-skepticism-revisionism\/index.html",
+      "oAP" : "\/concepts\/holocaust-skepticism-revisionism\/index.html",
       "oF" : 0
     },
-    "\/concept\/index.html" : {
+    "\/concepts\/motives\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/index.html",
+      "oAP" : "\/concepts\/motives\/index.html",
       "oF" : 0
     },
-    "\/concept\/motives\/index.html" : {
+    "\/concepts\/packing-density-inside-gas-chamber\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/motives\/index.html",
+      "oAP" : "\/concepts\/packing-density-inside-gas-chamber\/index.html",
       "oF" : 0
     },
-    "\/concept\/packing-density-inside-gas-chamber\/index.html" : {
+    "\/concepts\/religion-holocaust-as\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/packing-density-inside-gas-chamber\/index.html",
+      "oAP" : "\/concepts\/religion-holocaust-as\/index.html",
       "oF" : 0
     },
-    "\/concept\/religion-holocaust-as\/index.html" : {
+    "\/concepts\/selections\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/religion-holocaust-as\/index.html",
+      "oAP" : "\/concepts\/selections\/index.html",
       "oF" : 0
     },
-    "\/concept\/selections\/index.html" : {
+    "\/concepts\/sonderkommando\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/selections\/index.html",
+      "oAP" : "\/concepts\/sonderkommando\/index.html",
       "oF" : 0
     },
-    "\/concept\/sonderkommando\/index.html" : {
+    "\/concepts\/source-criticism\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/sonderkommando\/index.html",
+      "oAP" : "\/concepts\/source-criticism\/index.html",
       "oF" : 0
     },
-    "\/concept\/source-criticism\/index.html" : {
+    "\/concepts\/special-treatment\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/source-criticism\/index.html",
+      "oAP" : "\/concepts\/special-treatment\/index.html",
       "oF" : 0
     },
-    "\/concept\/special-treatment\/index.html" : {
+    "\/concepts\/typhus\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concept\/special-treatment\/index.html",
-      "oF" : 0
-    },
-    "\/concept\/typhus\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/concept\/typhus\/index.html",
+      "oAP" : "\/concepts\/typhus\/index.html",
       "oF" : 0
     },
     "\/contact-us\/index.html" : {
@@ -2013,108 +1741,100 @@
       "oAP" : "\/d\/index.html",
       "oF" : 0
     },
-    "\/document\/british-radio-intercepts\/index.html" : {
+    "\/documents\/british-radio-intercepts\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/document\/british-radio-intercepts\/index.html",
+      "oAP" : "\/documents\/british-radio-intercepts\/index.html",
       "oF" : 0
     },
-    "\/document\/commissars-order\/index.html" : {
+    "\/documents\/commissars-order\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/document\/commissars-order\/index.html",
+      "oAP" : "\/documents\/commissars-order\/index.html",
       "oF" : 0
     },
-    "\/document\/corpse-photos\/index.html" : {
+    "\/documents\/corpse-photos\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/document\/corpse-photos\/index.html",
+      "oAP" : "\/documents\/corpse-photos\/index.html",
       "oF" : 0
     },
-    "\/document\/hitler-order-final-solution\/index.html" : {
+    "\/documents\/hitler-order-final-solution\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/document\/hitler-order-final-solution\/index.html",
+      "oAP" : "\/documents\/hitler-order-final-solution\/index.html",
       "oF" : 0
     },
-    "\/document\/hofle-hans\/index.html" : {
+    "\/documents\/hofle-hans\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/document\/hofle-hans\/index.html",
+      "oAP" : "\/documents\/hofle-hans\/index.html",
       "oF" : 0
     },
-    "\/document\/index.html" : {
+    "\/documents\/jager-report\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/document\/index.html",
+      "oAP" : "\/documents\/jager-report\/index.html",
       "oF" : 0
     },
-    "\/document\/jager-report\/index.html" : {
+    "\/documents\/polish-underground-reports\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/document\/jager-report\/index.html",
+      "oAP" : "\/documents\/polish-underground-reports\/index.html",
       "oF" : 0
     },
-    "\/document\/polish-underground-reports\/index.html" : {
+    "\/documents\/schindlers-list-movie\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/document\/polish-underground-reports\/index.html",
+      "oAP" : "\/documents\/schindlers-list-movie\/index.html",
       "oF" : 0
     },
-    "\/document\/schindlers-list-movie\/index.html" : {
+    "\/documents\/stahlecker-reports\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/document\/schindlers-list-movie\/index.html",
+      "oAP" : "\/documents\/stahlecker-reports\/index.html",
       "oF" : 0
     },
-    "\/document\/stahlecker-reports\/index.html" : {
+    "\/documents\/szlamek-report\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/document\/stahlecker-reports\/index.html",
+      "oAP" : "\/documents\/szlamek-report\/index.html",
       "oF" : 0
     },
-    "\/document\/szlamek-report\/index.html" : {
+    "\/documents\/wannsee-protocol\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/document\/szlamek-report\/index.html",
+      "oAP" : "\/documents\/wannsee-protocol\/index.html",
       "oF" : 0
     },
-    "\/document\/wannsee-protocol\/index.html" : {
+    "\/documents\/war-refugee-board-report\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/document\/wannsee-protocol\/index.html",
-      "oF" : 0
-    },
-    "\/document\/war-refugee-board-report\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/document\/war-refugee-board-report\/index.html",
+      "oAP" : "\/documents\/war-refugee-board-report\/index.html",
       "oF" : 0
     },
     "\/download-our-encyclopedia-free-of-charge\/index.html" : {
@@ -2187,14 +1907,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/event\/himmler-visits\/index.html",
-      "oF" : 0
-    },
-    "\/event\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/event\/index.html",
       "oF" : 0
     },
     "\/event\/operation-harvest-festival\/index.html" : {
@@ -2275,446 +1987,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/h\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/berg-isai-davidovich\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/berg-isai-davidovich\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/ehrenburg-ilya\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/ehrenburg-ilya\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/goth-amon\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/goth-amon\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/grossman-vasily\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/grossman-vasily\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/hossler-franz\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/hossler-franz\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/koch-ilse\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/koch-ilse\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/legal-professional\/bednarz-wladyslaw\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/legal-professional\/bednarz-wladyslaw\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/legal-professional\/bock-ludwig\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/legal-professional\/bock-ludwig\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/legal-professional\/eitan-dov\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/legal-professional\/eitan-dov\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/legal-professional\/lukaszkiewicz-zdzislaw\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/legal-professional\/lukaszkiewicz-zdzislaw\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/legal-professional\/pinter-stephen-f\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/legal-professional\/pinter-stephen-f\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/legal-professional\/sehn-jan\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/legal-professional\/sehn-jan\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/legal-professional\/sheftel-yoram\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/legal-professional\/sheftel-yoram\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/legal-professional\/simpson-gordon\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/legal-professional\/simpson-gordon\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/legal-professional\/wennerstrum-charles-f\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/legal-professional\/wennerstrum-charles-f\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/politician\/daluege-kurt-2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/daluege-kurt-2\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/politician\/eberl-irmfried\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/eberl-irmfried\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/politician\/florstedt-hermann\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/florstedt-hermann\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/politician\/fritzsch-karl\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/fritzsch-karl\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/politician\/goebbels-joseph\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/goebbels-joseph\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/politician\/kammler-hans\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/kammler-hans\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/politician\/koch-karl-otto\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/koch-karl-otto\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/politician\/korherr-richard\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/korherr-richard\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/politician\/liebehenschel-arthur\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/liebehenschel-arthur\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/politician\/mengele-josef\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/mengele-josef\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/politician\/nebe-arthur\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/nebe-arthur\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/politician\/rascher-sigmund\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/rascher-sigmund\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/politician\/rosenberg-alfred\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/rosenberg-alfred\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/politician\/schwela-siegfried\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/schwela-siegfried\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/politician\/speer-albert\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/speer-albert\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/politician\/stahlecker-walter\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/stahlecker-walter\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/politician\/streicher-julius\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/streicher-julius\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/politician\/thilo-heinz\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/thilo-heinz\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/politician\/turner-harald\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/turner-harald\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/politician\/van-roden-edward-l\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/van-roden-edward-l\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/politician\/veil-simone\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/veil-simone\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/politician\/voss-peter\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/voss-peter\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/politician\/weise-gottfried\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/weise-gottfried\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/politician\/wirth-christian\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/wirth-christian\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/politician\/ziereis-franz\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/politician\/ziereis-franz\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/propagandist\/czech-danuta\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/propagandist\/czech-danuta\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/propagandist\/karski-jan\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/propagandist\/karski-jan\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/propagandist\/langbein-hermann\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/propagandist\/langbein-hermann\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/propagandist\/marsalek-hans\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/propagandist\/marsalek-hans\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/propagandist\/mermelstein-mel\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/propagandist\/mermelstein-mel\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/propagandist\/polevoy-boris\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/propagandist\/polevoy-boris\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/propagandist\/ringelblum-emanuel\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/propagandist\/ringelblum-emanuel\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/propagandist\/silberschein-abraham\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/propagandist\/silberschein-abraham\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/propagandist\/steiner-jean-francois\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/propagandist\/steiner-jean-francois\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/propagandist\/szende-stefan\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/propagandist\/szende-stefan\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/propagandist\/weissmandel-dov\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/propagandist\/weissmandel-dov\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/propagandist\/wiesenthal-simon\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/propagandist\/wiesenthal-simon\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/spanner-rudolf\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/spanner-rudolf\/index.html",
-      "oF" : 0
-    },
-    "\/historical-person\/tesch-bruno\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/historical-person\/tesch-bruno\/index.html",
       "oF" : 0
     },
     "\/how-to-use-this-site\/index.html" : {
@@ -3205,14 +2477,6 @@
       "oAP" : "\/instruments\/ghetto\/warsaw-ghetto\/index.html",
       "oF" : 0
     },
-    "\/instruments\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/index.html",
-      "oF" : 0
-    },
     "\/instruments\/instruments-of-extermination\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3419,14 +2683,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/legal\/company\/topf-sohne-j-a\/index.html",
-      "oF" : 0
-    },
-    "\/legal\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/legal\/index.html",
       "oF" : 0
     },
     "\/legal\/institution\/international-tracing-service-arolsen\/index.html" : {
@@ -3789,14 +3045,6 @@
       "oAP" : "\/location\/ghettos\/theresienstadt\/index.html",
       "oF" : 0
     },
-    "\/location\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/location\/index.html",
-      "oF" : 0
-    },
     "\/location\/museum-memorial\/dachau-museum\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -4059,6 +3307,438 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/p\/page\/2\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/berg-isai-davidovich\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/berg-isai-davidovich\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/ehrenburg-ilya\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/ehrenburg-ilya\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/goth-amon\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/goth-amon\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/grossman-vasily\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/grossman-vasily\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/hossler-franz\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/hossler-franz\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/koch-ilse\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/koch-ilse\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/legal-professional\/bednarz-wladyslaw\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/legal-professional\/bednarz-wladyslaw\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/legal-professional\/bock-ludwig\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/legal-professional\/bock-ludwig\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/legal-professional\/eitan-dov\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/legal-professional\/eitan-dov\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/legal-professional\/lukaszkiewicz-zdzislaw\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/legal-professional\/lukaszkiewicz-zdzislaw\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/legal-professional\/pinter-stephen-f\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/legal-professional\/pinter-stephen-f\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/legal-professional\/sehn-jan\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/legal-professional\/sehn-jan\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/legal-professional\/sheftel-yoram\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/legal-professional\/sheftel-yoram\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/legal-professional\/simpson-gordon\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/legal-professional\/simpson-gordon\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/legal-professional\/wennerstrum-charles-f\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/legal-professional\/wennerstrum-charles-f\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/politician\/daluege-kurt-2\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/politician\/daluege-kurt-2\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/politician\/eberl-irmfried\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/politician\/eberl-irmfried\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/politician\/florstedt-hermann\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/politician\/florstedt-hermann\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/politician\/fritzsch-karl\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/politician\/fritzsch-karl\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/politician\/goebbels-joseph\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/politician\/goebbels-joseph\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/politician\/kammler-hans\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/politician\/kammler-hans\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/politician\/koch-karl-otto\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/politician\/koch-karl-otto\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/politician\/korherr-richard\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/politician\/korherr-richard\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/politician\/liebehenschel-arthur\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/politician\/liebehenschel-arthur\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/politician\/mengele-josef\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/politician\/mengele-josef\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/politician\/nebe-arthur\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/politician\/nebe-arthur\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/politician\/rascher-sigmund\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/politician\/rascher-sigmund\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/politician\/rosenberg-alfred\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/politician\/rosenberg-alfred\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/politician\/schwela-siegfried\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/politician\/schwela-siegfried\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/politician\/speer-albert\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/politician\/speer-albert\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/politician\/stahlecker-walter\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/politician\/stahlecker-walter\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/politician\/streicher-julius\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/politician\/streicher-julius\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/politician\/thilo-heinz\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/politician\/thilo-heinz\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/politician\/turner-harald\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/politician\/turner-harald\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/politician\/van-roden-edward-l\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/politician\/van-roden-edward-l\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/politician\/veil-simone\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/politician\/veil-simone\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/politician\/voss-peter\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/politician\/voss-peter\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/politician\/weise-gottfried\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/politician\/weise-gottfried\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/politician\/wirth-christian\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/politician\/wirth-christian\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/politician\/ziereis-franz\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/politician\/ziereis-franz\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/propagandist\/czech-danuta\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/propagandist\/czech-danuta\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/propagandist\/karski-jan\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/propagandist\/karski-jan\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/propagandist\/langbein-hermann\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/propagandist\/langbein-hermann\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/propagandist\/marsalek-hans\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/propagandist\/marsalek-hans\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/propagandist\/mermelstein-mel\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/propagandist\/mermelstein-mel\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/propagandist\/polevoy-boris\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/propagandist\/polevoy-boris\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/propagandist\/ringelblum-emanuel\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/propagandist\/ringelblum-emanuel\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/propagandist\/silberschein-abraham\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/propagandist\/silberschein-abraham\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/propagandist\/steiner-jean-francois\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/propagandist\/steiner-jean-francois\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/propagandist\/szende-stefan\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/propagandist\/szende-stefan\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/propagandist\/weissmandel-dov\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/propagandist\/weissmandel-dov\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/propagandist\/wiesenthal-simon\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/propagandist\/wiesenthal-simon\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/spanner-rudolf\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/spanner-rudolf\/index.html",
+      "oF" : 0
+    },
+    "\/persons\/tesch-bruno\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/persons\/tesch-bruno\/index.html",
       "oF" : 0
     },
     "\/plan-order\/emigration\/index.html" : {

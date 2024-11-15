@@ -4,6 +4,9 @@ http://encyclohhpedia.netlify.app/* https://encyclopedia.historiography-project.
 
 # relocations
 /absurdities/absurd-claims/* /a/absurd-claims/:splat 301!
+/category/* /categories/:splat 301!
+/concept/* /concepts/:splat 301!
+/document/* /documents/:splat 301!
 /country/yugoslavia/* /y/yugoslavia/:splat 301!
 /document/air-photos/* /a/air-photos/:splat 301!
 /document/auschwitz-album/* /a/auschwitz-album/:splat 301!
