@@ -1397,14 +1397,6 @@
       "oAP" : "\/categories\/objects\/index.html",
       "oF" : 0
     },
-    "\/categories\/persons.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/persons.html",
-      "oF" : 0
-    },
     "\/categories\/persons\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1419,22 +1411,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/categories\/persons\/legal-professional\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/persons\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/persons\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/categories\/persons\/page\/3\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/categories\/persons\/page\/3\/index.html",
       "oF" : 0
     },
     "\/categories\/persons\/politician\/index.html" : {
@@ -1461,28 +1437,28 @@
       "oAP" : "\/categories\/persons\/propagandist\/index.html",
       "oF" : 0
     },
-    "\/categories\/plan-order\/index.html" : {
+    "\/categories\/plans-orders\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/categories\/plan-order\/index.html",
+      "oAP" : "\/categories\/plans-orders\/index.html",
       "oF" : 0
     },
-    "\/categories\/plan-order\/wartime-leader\/index.html" : {
+    "\/categories\/plans-orders\/tossme.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/categories\/plan-order\/wartime-leader\/index.html",
+      "oAP" : "\/categories\/plans-orders\/tossme.html",
       "oF" : 0
     },
-    "\/categories\/plans-orders.html" : {
+    "\/categories\/plans-orders\/wartime-leader\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/categories\/plans-orders.html",
+      "oAP" : "\/categories\/plans-orders\/wartime-leader\/index.html",
       "oF" : 0
     },
     "\/categories\/results.html" : {
