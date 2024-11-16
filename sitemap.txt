@@ -199,7 +199,7 @@ https://encyclopedia.historiography-project.com/instruments/camp/phantom-camp/no
 https://encyclopedia.historiography-project.com/instruments/camp/phantom-extermination-camps/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/pure-extermination-camp/belzec/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/pure-extermination-camp/chelmno/index.html
-https://encyclopedia.historiography-project.com/instruments/camp/pure-extermination-camp/treblinka/index.html
+https://encyclopedia.historiography-project.com/t/treblinka/index.html
 https://encyclopedia.historiography-project.com/instruments/einsatzgruppen/excavations-of-german-mass-graves/index.html
 https://encyclopedia.historiography-project.com/instruments/einsatzgruppen/fort-ix/index.html
 https://encyclopedia.historiography-project.com/instruments/einsatzgruppen/ponary/index.html
@@ -444,7 +444,7 @@ https://encyclopedia.historiography-project.com/witnesses/perpetrator/broad-pery
 https://encyclopedia.historiography-project.com/witnesses/perpetrator/burmeister-walter/index.html
 https://encyclopedia.historiography-project.com/witnesses/perpetrator/christophersen-thies/index.html
 https://encyclopedia.historiography-project.com/witnesses/perpetrator/dejaco-walter/index.html
-https://encyclopedia.historiography-project.com/witnesses/perpetrator/eichmann-adolf/index.html
+https://encyclopedia.historiography-project.com/e/eichmann-adolf/index.html
 https://encyclopedia.historiography-project.com/witnesses/perpetrator/erber-josef/index.html
 https://encyclopedia.historiography-project.com/witnesses/perpetrator/fischer-horst/index.html
 https://encyclopedia.historiography-project.com/witnesses/perpetrator/franke-gricksch-alfred/index.html
@@ -457,7 +457,7 @@ https://encyclopedia.historiography-project.com/witnesses/perpetrator/hahle-joha
 https://encyclopedia.historiography-project.com/witnesses/perpetrator/hassler-johann/index.html
 https://encyclopedia.historiography-project.com/witnesses/perpetrator/hofer-fritz/index.html
 https://encyclopedia.historiography-project.com/witnesses/perpetrator/hofmann-ernst/index.html
-https://encyclopedia.historiography-project.com/witnesses/perpetrator/hoss-rudolf/index.html
+https://encyclopedia.historiography-project.com/h/hoss-rudolf/index.html
 https://encyclopedia.historiography-project.com/witnesses/perpetrator/hottl-wilhelm/index.html
 https://encyclopedia.historiography-project.com/witnesses/perpetrator/israel-bruno/index.html
 https://encyclopedia.historiography-project.com/witnesses/perpetrator/jager-karl/index.html
