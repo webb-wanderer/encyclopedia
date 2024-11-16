@@ -1101,22 +1101,6 @@
       "oAP" : "\/b\/index.html",
       "oF" : 0
     },
-    "\/b\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/b\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/b\/page\/3\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/b\/page\/3\/index.html",
-      "oF" : 0
-    },
     "\/bibliography\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1131,14 +1115,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/c\/index.html",
-      "oF" : 0
-    },
-    "\/c\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/c\/page\/2\/index.html",
       "oF" : 0
     },
     "\/categories\/absurdities\/index.html" : {
@@ -2093,14 +2069,6 @@
       "oAP" : "\/f\/index.html",
       "oF" : 0
     },
-    "\/f\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/f\/page\/2\/index.html",
-      "oF" : 0
-    },
     "\/g\/gypsies\/Gypsies.mp3" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2123,14 +2091,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/g\/index.html",
-      "oF" : 0
-    },
-    "\/g\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/g\/page\/2\/index.html",
       "oF" : 0
     },
     "\/h\/holocaust-the\/index.html" : {
@@ -2163,14 +2123,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/h\/index.html",
-      "oF" : 0
-    },
-    "\/h\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/h\/page\/2\/index.html",
       "oF" : 0
     },
     "\/i\/index.html" : {
@@ -2573,28 +2525,12 @@
       "oAP" : "\/k\/index.html",
       "oF" : 0
     },
-    "\/k\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/k\/page\/2\/index.html",
-      "oF" : 0
-    },
     "\/l\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/l\/index.html",
-      "oF" : 0
-    },
-    "\/l\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/l\/page\/2\/index.html",
       "oF" : 0
     },
     "\/legal\/company\/buna\/index.html" : {
@@ -3181,14 +3117,6 @@
       "oAP" : "\/m\/index.html",
       "oF" : 0
     },
-    "\/m\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/m\/page\/2\/index.html",
-      "oF" : 0
-    },
     "\/manipulation\/cremation-propaganda\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3283,14 +3211,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/p\/index.html",
-      "oF" : 0
-    },
-    "\/p\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/p\/page\/2\/index.html",
       "oF" : 0
     },
     "\/persons\/berg-isai-davidovich\/index.html" : {
@@ -3845,14 +3765,6 @@
       "oAP" : "\/r\/index.html",
       "oF" : 0
     },
-    "\/r\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/r\/page\/2\/index.html",
-      "oF" : 0
-    },
     "\/results\/refeeding-syndrome\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3891,22 +3803,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/s\/index.html",
-      "oF" : 0
-    },
-    "\/s\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/s\/page\/2\/index.html",
-      "oF" : 0
-    },
-    "\/s\/page\/3\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/s\/page\/3\/index.html",
       "oF" : 0
     },
     "\/search\/index.html" : {
@@ -4168,14 +4064,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/w\/index.html",
-      "oF" : 0
-    },
-    "\/w\/page\/2\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/w\/page\/2\/index.html",
       "oF" : 0
     },
     "\/w\/wolzek\/index.html" : {
