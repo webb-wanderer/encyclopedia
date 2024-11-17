@@ -20,6 +20,7 @@ https://encyclopedia.historiography-project.com/a/avey-denis/index.html
 https://encyclopedia.historiography-project.com/a/index.html
 https://encyclopedia.historiography-project.com/about-us/index.html
 https://encyclopedia.historiography-project.com/b/belzec/index.html
+https://encyclopedia.historiography-project.com/b/british-radio-intercepts/index.html
 https://encyclopedia.historiography-project.com/b/buchenwald/index.html
 https://encyclopedia.historiography-project.com/b/bunkers/index.html
 https://encyclopedia.historiography-project.com/b/index.html
@@ -28,9 +29,11 @@ https://encyclopedia.historiography-project.com/c/censorship/index.html
 https://encyclopedia.historiography-project.com/c/chelmno/index.html
 https://encyclopedia.historiography-project.com/c/cliches-about-the-holocaust/index.html
 https://encyclopedia.historiography-project.com/c/code-language/index.html
+https://encyclopedia.historiography-project.com/c/commissars-order/index.html
 https://encyclopedia.historiography-project.com/c/compensation/index.html
 https://encyclopedia.historiography-project.com/c/construction-office/index.html
 https://encyclopedia.historiography-project.com/c/convergence-of-evidence/index.html
+https://encyclopedia.historiography-project.com/c/corpse-photos/index.html
 https://encyclopedia.historiography-project.com/c/criminal-traces/index.html
 https://encyclopedia.historiography-project.com/c/index.html
 https://encyclopedia.historiography-project.com/categories/absurdities/index.html
@@ -76,18 +79,6 @@ https://encyclopedia.historiography-project.com/categories/witnesses/victim/inde
 https://encyclopedia.historiography-project.com/change-log/index.html
 https://encyclopedia.historiography-project.com/d/demography-jewish/index.html
 https://encyclopedia.historiography-project.com/d/index.html
-https://encyclopedia.historiography-project.com/documents/british-radio-intercepts/index.html
-https://encyclopedia.historiography-project.com/documents/commissars-order/index.html
-https://encyclopedia.historiography-project.com/documents/corpse-photos/index.html
-https://encyclopedia.historiography-project.com/documents/hitler-order-final-solution/index.html
-https://encyclopedia.historiography-project.com/documents/hofle-hans/index.html
-https://encyclopedia.historiography-project.com/documents/jager-report/index.html
-https://encyclopedia.historiography-project.com/documents/polish-underground-reports/index.html
-https://encyclopedia.historiography-project.com/documents/schindlers-list-movie/index.html
-https://encyclopedia.historiography-project.com/documents/stahlecker-reports/index.html
-https://encyclopedia.historiography-project.com/documents/szlamek-report/index.html
-https://encyclopedia.historiography-project.com/documents/wannsee-protocol/index.html
-https://encyclopedia.historiography-project.com/documents/war-refugee-board-report/index.html
 https://encyclopedia.historiography-project.com/download-our-encyclopedia-free-of-charge/index.html
 https://encyclopedia.historiography-project.com/e/eichmann-adolf/index.html
 https://encyclopedia.historiography-project.com/e/evidence/index.html
@@ -120,6 +111,8 @@ https://encyclopedia.historiography-project.com/g/groundwater-level/index.html
 https://encyclopedia.historiography-project.com/g/gypsies/index.html
 https://encyclopedia.historiography-project.com/g/index.html
 https://encyclopedia.historiography-project.com/h/healthcare/index.html
+https://encyclopedia.historiography-project.com/h/hitler-order-final-solution/index.html
+https://encyclopedia.historiography-project.com/h/hofle-hans/index.html
 https://encyclopedia.historiography-project.com/h/holocaust-indoctrination/index.html
 https://encyclopedia.historiography-project.com/h/holocaust-skepticism-revisionism/index.html
 https://encyclopedia.historiography-project.com/h/holocaust-the/index.html
@@ -169,6 +162,7 @@ https://encyclopedia.historiography-project.com/instruments/tool/lethal-injectio
 https://encyclopedia.historiography-project.com/instruments/tool/tools-of-mass-murder/index.html
 https://encyclopedia.historiography-project.com/introduction/index.html
 https://encyclopedia.historiography-project.com/j/index.html
+https://encyclopedia.historiography-project.com/j/jager-report/index.html
 https://encyclopedia.historiography-project.com/j/jehovas-witnesses/index.html
 https://encyclopedia.historiography-project.com/k/index.html
 https://encyclopedia.historiography-project.com/k/kosow-podlaski/index.html
@@ -264,6 +258,7 @@ https://encyclopedia.historiography-project.com/objects/wedding-rings/index.html
 https://encyclopedia.historiography-project.com/p/index.html
 https://encyclopedia.historiography-project.com/p/packing-density-inside-gas-chamber/index.html
 https://encyclopedia.historiography-project.com/p/pinsk/index.html
+https://encyclopedia.historiography-project.com/p/polish-underground-reports/index.html
 https://encyclopedia.historiography-project.com/persons/berg-isai-davidovich/index.html
 https://encyclopedia.historiography-project.com/persons/ehrenburg-ilya/index.html
 https://encyclopedia.historiography-project.com/persons/frank-hans/index.html
@@ -338,10 +333,13 @@ https://encyclopedia.historiography-project.com/results/refeeding-syndrome/index
 https://encyclopedia.historiography-project.com/results/six-million/index.html
 https://encyclopedia.historiography-project.com/results/survivors/index.html
 https://encyclopedia.historiography-project.com/s/index.html
+https://encyclopedia.historiography-project.com/s/schindlers-list-movie/index.html
 https://encyclopedia.historiography-project.com/s/selections/index.html
 https://encyclopedia.historiography-project.com/s/sonderkommando/index.html
 https://encyclopedia.historiography-project.com/s/source-criticism/index.html
 https://encyclopedia.historiography-project.com/s/special-treatment/index.html
+https://encyclopedia.historiography-project.com/s/stahlecker-reports/index.html
+https://encyclopedia.historiography-project.com/s/szlamek-report/index.html
 https://encyclopedia.historiography-project.com/search/index.html
 https://encyclopedia.historiography-project.com/sitemap/index.html
 https://encyclopedia.historiography-project.com/t/index.html
@@ -377,6 +375,8 @@ https://encyclopedia.historiography-project.com/u/uthgenannt-otto/index.html
 https://encyclopedia.historiography-project.com/v/index.html
 https://encyclopedia.historiography-project.com/v/van-herwaarden-maria/index.html
 https://encyclopedia.historiography-project.com/w/index.html
+https://encyclopedia.historiography-project.com/w/wannsee-protocol/index.html
+https://encyclopedia.historiography-project.com/w/war-refugee-board-report/index.html
 https://encyclopedia.historiography-project.com/w/wolzek/index.html
 https://encyclopedia.historiography-project.com/witnesses/barton-russell/index.html
 https://encyclopedia.historiography-project.com/witnesses/bystander/kozak-stanislaw/index.html
