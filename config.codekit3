@@ -925,164 +925,20 @@
       "oAP" : "\/about-us\/index.html",
       "oF" : 0
     },
-    "\/absurdities\/cliches-about-the-holocaust\/index.html" : {
+    "\/b\/belzec\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/absurdities\/cliches-about-the-holocaust\/index.html",
+      "oAP" : "\/b\/belzec\/index.html",
       "oF" : 0
     },
-    "\/absurdities\/exaggerated-death-tolls\/index.html" : {
+    "\/b\/british-radio-intercepts\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/absurdities\/exaggerated-death-tolls\/index.html",
-      "oF" : 0
-    },
-    "\/absurdities\/exotic-murder-weapons\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/absurdities\/exotic-murder-weapons\/index.html",
-      "oF" : 0
-    },
-    "\/absurdities\/explosives-as-a-murder-weapon\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/absurdities\/explosives-as-a-murder-weapon\/index.html",
-      "oF" : 0
-    },
-    "\/absurdities\/explosives-to-erase-corpses\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/absurdities\/explosives-to-erase-corpses\/index.html",
-      "oF" : 0
-    },
-    "\/absurdities\/fat-extracted-from-burning-corpses\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/absurdities\/fat-extracted-from-burning-corpses\/index.html",
-      "oF" : 0
-    },
-    "\/absurdities\/flames-out-of-crematory-chimneys\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/absurdities\/flames-out-of-crematory-chimneys\/index.html",
-      "oF" : 0
-    },
-    "\/absurdities\/flossenburg\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/absurdities\/flossenburg\/index.html",
-      "oF" : 0
-    },
-    "\/absurdities\/geysers-of-blood-from-mass-graves\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/absurdities\/geysers-of-blood-from-mass-graves\/index.html",
-      "oF" : 0
-    },
-    "\/absurdities\/kosow-podlaski\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/absurdities\/kosow-podlaski\/index.html",
-      "oF" : 0
-    },
-    "\/absurdities\/lviv\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/absurdities\/lviv\/index.html",
-      "oF" : 0
-    },
-    "\/absurdities\/mogilev\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/absurdities\/mogilev\/index.html",
-      "oF" : 0
-    },
-    "\/absurdities\/pinsk\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/absurdities\/pinsk\/index.html",
-      "oF" : 0
-    },
-    "\/absurdities\/self-immolating-bodies\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/absurdities\/self-immolating-bodies\/index.html",
-      "oF" : 0
-    },
-    "\/absurdities\/showers\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/absurdities\/showers\/index.html",
-      "oF" : 0
-    },
-    "\/absurdities\/shrunken-heads-myth-of\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/absurdities\/shrunken-heads-myth-of\/index.html",
-      "oF" : 0
-    },
-    "\/absurdities\/soap-from-jewish-corpses\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/absurdities\/soap-from-jewish-corpses\/index.html",
-      "oF" : 0
-    },
-    "\/absurdities\/standing-upright-dead-gassing-victims\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/absurdities\/standing-upright-dead-gassing-victims\/index.html",
-      "oF" : 0
-    },
-    "\/absurdities\/towels-soap-toothbrushes-inside-gas-chambers\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/absurdities\/towels-soap-toothbrushes-inside-gas-chambers\/index.html",
-      "oF" : 0
-    },
-    "\/absurdities\/trawniki\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/absurdities\/trawniki\/index.html",
+      "oAP" : "\/b\/british-radio-intercepts\/index.html",
       "oF" : 0
     },
     "\/b\/buchenwald\/index.html" : {
@@ -1091,6 +947,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/b\/buchenwald\/index.html",
+      "oF" : 0
+    },
+    "\/b\/bunkers\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/b\/bunkers\/index.html",
       "oF" : 0
     },
     "\/b\/index.html" : {
@@ -1107,6 +971,126 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/bibliography\/index.html",
+      "oF" : 0
+    },
+    "\/c\/camps\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/camps\/index.html",
+      "oF" : 0
+    },
+    "\/c\/carbon-monoxide\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/carbon-monoxide\/index.html",
+      "oF" : 0
+    },
+    "\/c\/censorship\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/censorship\/index.html",
+      "oF" : 0
+    },
+    "\/c\/chelmno\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/chelmno\/index.html",
+      "oF" : 0
+    },
+    "\/c\/cliches-about-the-holocaust\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/cliches-about-the-holocaust\/index.html",
+      "oF" : 0
+    },
+    "\/c\/code-language\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/code-language\/index.html",
+      "oF" : 0
+    },
+    "\/c\/commissars-order\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/commissars-order\/index.html",
+      "oF" : 0
+    },
+    "\/c\/compensation\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/compensation\/index.html",
+      "oF" : 0
+    },
+    "\/c\/concentration-camps\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/concentration-camps\/index.html",
+      "oF" : 0
+    },
+    "\/c\/construction-office\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/construction-office\/index.html",
+      "oF" : 0
+    },
+    "\/c\/convergence-of-evidence\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/convergence-of-evidence\/index.html",
+      "oF" : 0
+    },
+    "\/c\/corpse-photos\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/corpse-photos\/index.html",
+      "oF" : 0
+    },
+    "\/c\/crematoria\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/crematoria\/index.html",
+      "oF" : 0
+    },
+    "\/c\/criminal-traces\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/criminal-traces\/index.html",
+      "oF" : 0
+    },
+    "\/c\/crystal-night\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/crystal-night\/index.html",
       "oF" : 0
     },
     "\/c\/index.html" : {
@@ -1653,212 +1637,20 @@
       "oAP" : "\/change-log\/index.html",
       "oF" : 0
     },
-    "\/concepts\/bunkers\/index.html" : {
+    "\/d\/demography-jewish\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concepts\/bunkers\/index.html",
+      "oAP" : "\/d\/demography-jewish\/index.html",
       "oF" : 0
     },
-    "\/concepts\/censorship\/index.html" : {
+    "\/d\/diesel-exhaust\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/concepts\/censorship\/index.html",
-      "oF" : 0
-    },
-    "\/concepts\/code-language\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/concepts\/code-language\/index.html",
-      "oF" : 0
-    },
-    "\/concepts\/compensation\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/concepts\/compensation\/index.html",
-      "oF" : 0
-    },
-    "\/concepts\/construction-office\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/concepts\/construction-office\/index.html",
-      "oF" : 0
-    },
-    "\/concepts\/convergence-of-evidence\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/concepts\/convergence-of-evidence\/index.html",
-      "oF" : 0
-    },
-    "\/concepts\/criminal-traces\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/concepts\/criminal-traces\/index.html",
-      "oF" : 0
-    },
-    "\/concepts\/demography-jewish\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/concepts\/demography-jewish\/index.html",
-      "oF" : 0
-    },
-    "\/concepts\/evidence\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/concepts\/evidence\/index.html",
-      "oF" : 0
-    },
-    "\/concepts\/extirpation\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/concepts\/extirpation\/index.html",
-      "oF" : 0
-    },
-    "\/concepts\/false-memory-syndrome\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/concepts\/false-memory-syndrome\/index.html",
-      "oF" : 0
-    },
-    "\/concepts\/final-solution\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/concepts\/final-solution\/index.html",
-      "oF" : 0
-    },
-    "\/concepts\/generalplan-ost\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/concepts\/generalplan-ost\/index.html",
-      "oF" : 0
-    },
-    "\/concepts\/genocide\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/concepts\/genocide\/index.html",
-      "oF" : 0
-    },
-    "\/concepts\/groundwater-level\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/concepts\/groundwater-level\/index.html",
-      "oF" : 0
-    },
-    "\/concepts\/healthcare\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/concepts\/healthcare\/index.html",
-      "oF" : 0
-    },
-    "\/concepts\/holocaust-indoctrination\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/concepts\/holocaust-indoctrination\/index.html",
-      "oF" : 0
-    },
-    "\/concepts\/holocaust-skepticism-revisionism\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/concepts\/holocaust-skepticism-revisionism\/index.html",
-      "oF" : 0
-    },
-    "\/concepts\/motives\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/concepts\/motives\/index.html",
-      "oF" : 0
-    },
-    "\/concepts\/packing-density-inside-gas-chamber\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/concepts\/packing-density-inside-gas-chamber\/index.html",
-      "oF" : 0
-    },
-    "\/concepts\/religion-holocaust-as\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/concepts\/religion-holocaust-as\/index.html",
-      "oF" : 0
-    },
-    "\/concepts\/selections\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/concepts\/selections\/index.html",
-      "oF" : 0
-    },
-    "\/concepts\/sonderkommando\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/concepts\/sonderkommando\/index.html",
-      "oF" : 0
-    },
-    "\/concepts\/source-criticism\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/concepts\/source-criticism\/index.html",
-      "oF" : 0
-    },
-    "\/concepts\/special-treatment\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/concepts\/special-treatment\/index.html",
-      "oF" : 0
-    },
-    "\/concepts\/typhus\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/concepts\/typhus\/index.html",
+      "oAP" : "\/d\/diesel-exhaust\/index.html",
       "oF" : 0
     },
     "\/d\/index.html" : {
@@ -1869,108 +1661,124 @@
       "oAP" : "\/d\/index.html",
       "oF" : 0
     },
-    "\/documents\/british-radio-intercepts\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/documents\/british-radio-intercepts\/index.html",
-      "oF" : 0
-    },
-    "\/documents\/commissars-order\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/documents\/commissars-order\/index.html",
-      "oF" : 0
-    },
-    "\/documents\/corpse-photos\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/documents\/corpse-photos\/index.html",
-      "oF" : 0
-    },
-    "\/documents\/hitler-order-final-solution\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/documents\/hitler-order-final-solution\/index.html",
-      "oF" : 0
-    },
-    "\/documents\/hofle-hans\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/documents\/hofle-hans\/index.html",
-      "oF" : 0
-    },
-    "\/documents\/jager-report\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/documents\/jager-report\/index.html",
-      "oF" : 0
-    },
-    "\/documents\/polish-underground-reports\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/documents\/polish-underground-reports\/index.html",
-      "oF" : 0
-    },
-    "\/documents\/schindlers-list-movie\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/documents\/schindlers-list-movie\/index.html",
-      "oF" : 0
-    },
-    "\/documents\/stahlecker-reports\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/documents\/stahlecker-reports\/index.html",
-      "oF" : 0
-    },
-    "\/documents\/szlamek-report\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/documents\/szlamek-report\/index.html",
-      "oF" : 0
-    },
-    "\/documents\/wannsee-protocol\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/documents\/wannsee-protocol\/index.html",
-      "oF" : 0
-    },
-    "\/documents\/war-refugee-board-report\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/documents\/war-refugee-board-report\/index.html",
-      "oF" : 0
-    },
     "\/download-our-encyclopedia-free-of-charge\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/download-our-encyclopedia-free-of-charge\/index.html",
+      "oF" : 0
+    },
+    "\/e\/eichmann-adolf\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/e\/eichmann-adolf\/index.html",
+      "oF" : 0
+    },
+    "\/e\/einsatzgruppen\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/e\/einsatzgruppen\/index.html",
+      "oF" : 0
+    },
+    "\/e\/escapes-from-gas-chamber\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/e\/escapes-from-gas-chamber\/index.html",
+      "oF" : 0
+    },
+    "\/e\/euthanasia\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/e\/euthanasia\/index.html",
+      "oF" : 0
+    },
+    "\/e\/evacuations-from-german-camps\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/e\/evacuations-from-german-camps\/index.html",
+      "oF" : 0
+    },
+    "\/e\/evidence\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/e\/evidence\/index.html",
+      "oF" : 0
+    },
+    "\/e\/exaggerated-death-tolls\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/e\/exaggerated-death-tolls\/index.html",
+      "oF" : 0
+    },
+    "\/e\/excavations-of-german-mass-graves\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/e\/excavations-of-german-mass-graves\/index.html",
+      "oF" : 0
+    },
+    "\/e\/execution-chambers\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/e\/execution-chambers\/index.html",
+      "oF" : 0
+    },
+    "\/e\/exotic-murder-weapons\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/e\/exotic-murder-weapons\/index.html",
+      "oF" : 0
+    },
+    "\/e\/explosives-as-a-murder-weapon\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/e\/explosives-as-a-murder-weapon\/index.html",
+      "oF" : 0
+    },
+    "\/e\/explosives-to-erase-corpses\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/e\/explosives-to-erase-corpses\/index.html",
+      "oF" : 0
+    },
+    "\/e\/extermination-camps\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/e\/extermination-camps\/index.html",
+      "oF" : 0
+    },
+    "\/e\/extirpation\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/e\/extirpation\/index.html",
       "oF" : 0
     },
     "\/e\/index.html" : {
@@ -1981,84 +1789,60 @@
       "oAP" : "\/e\/index.html",
       "oF" : 0
     },
-    "\/events\/crystal-night\/index.html" : {
+    "\/f\/false-memory-syndrome\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/events\/crystal-night\/index.html",
+      "oAP" : "\/f\/false-memory-syndrome\/index.html",
       "oF" : 0
     },
-    "\/events\/escapes-from-gas-chamber\/index.html" : {
+    "\/f\/fat-extracted-from-burning-corpses\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/events\/escapes-from-gas-chamber\/index.html",
+      "oAP" : "\/f\/fat-extracted-from-burning-corpses\/index.html",
       "oF" : 0
     },
-    "\/events\/euthanasia\/index.html" : {
+    "\/f\/final-solution\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/events\/euthanasia\/index.html",
+      "oAP" : "\/f\/final-solution\/index.html",
       "oF" : 0
     },
-    "\/events\/evacuations-from-german-camps\/index.html" : {
+    "\/f\/first-gassing-of-auschwitz\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/events\/evacuations-from-german-camps\/index.html",
+      "oAP" : "\/f\/first-gassing-of-auschwitz\/index.html",
       "oF" : 0
     },
-    "\/events\/first-gassing-at-auschwitz\/index.html" : {
+    "\/f\/flames-out-of-crematory-chimneys\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/events\/first-gassing-at-auschwitz\/index.html",
+      "oAP" : "\/f\/flames-out-of-crematory-chimneys\/index.html",
       "oF" : 0
     },
-    "\/events\/himmler-speeches\/index.html" : {
+    "\/f\/flossenburg\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/events\/himmler-speeches\/index.html",
+      "oAP" : "\/f\/flossenburg\/index.html",
       "oF" : 0
     },
-    "\/events\/himmler-visits\/index.html" : {
+    "\/f\/fort-ix\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/events\/himmler-visits\/index.html",
-      "oF" : 0
-    },
-    "\/events\/operation-harvest-festival\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/events\/operation-harvest-festival\/index.html",
-      "oF" : 0
-    },
-    "\/events\/torture\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/events\/torture\/index.html",
-      "oF" : 0
-    },
-    "\/events\/wannsee-conference\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/events\/wannsee-conference\/index.html",
+      "oAP" : "\/f\/fort-ix\/index.html",
       "oF" : 0
     },
     "\/f\/index.html" : {
@@ -2067,6 +1851,62 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/f\/index.html",
+      "oF" : 0
+    },
+    "\/g\/gas-chamber\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/g\/gas-chamber\/index.html",
+      "oF" : 0
+    },
+    "\/g\/gas-vans\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/g\/gas-vans\/index.html",
+      "oF" : 0
+    },
+    "\/g\/generalplan-ost\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/g\/generalplan-ost\/index.html",
+      "oF" : 0
+    },
+    "\/g\/genocide\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/g\/genocide\/index.html",
+      "oF" : 0
+    },
+    "\/g\/geysers-of-blood-from-mass-graves\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/g\/geysers-of-blood-from-mass-graves\/index.html",
+      "oF" : 0
+    },
+    "\/g\/ghettos\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/g\/ghettos\/index.html",
+      "oF" : 0
+    },
+    "\/g\/groundwater-level\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/g\/groundwater-level\/index.html",
       "oF" : 0
     },
     "\/g\/gypsies\/Gypsies.mp3" : {
@@ -2093,12 +1933,76 @@
       "oAP" : "\/g\/index.html",
       "oF" : 0
     },
+    "\/h\/healthcare\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/h\/healthcare\/index.html",
+      "oF" : 0
+    },
+    "\/h\/himmler-speeches\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/h\/himmler-speeches\/index.html",
+      "oF" : 0
+    },
+    "\/h\/himmler-visits\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/h\/himmler-visits\/index.html",
+      "oF" : 0
+    },
+    "\/h\/hitler-order-final-solution\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/h\/hitler-order-final-solution\/index.html",
+      "oF" : 0
+    },
+    "\/h\/hofle-hans\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/h\/hofle-hans\/index.html",
+      "oF" : 0
+    },
+    "\/h\/holocaust-indoctrination\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/h\/holocaust-indoctrination\/index.html",
+      "oF" : 0
+    },
+    "\/h\/holocaust-skepticism-revisionism\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/h\/holocaust-skepticism-revisionism\/index.html",
+      "oF" : 0
+    },
     "\/h\/holocaust-the\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/h\/holocaust-the\/index.html",
+      "oF" : 0
+    },
+    "\/h\/homicidal-gas-chambers\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/h\/homicidal-gas-chambers\/index.html",
       "oF" : 0
     },
     "\/h\/homosexuals\/Homosexuals.mp3" : {
@@ -2117,6 +2021,14 @@
       "oAP" : "\/h\/homosexuals\/index.html",
       "oF" : 0
     },
+    "\/h\/hoss-rudolf\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/h\/hoss-rudolf\/index.html",
+      "oF" : 0
+    },
     "\/h\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2133,60 +2045,20 @@
       "oAP" : "\/i\/index.html",
       "oF" : 0
     },
+    "\/i\/instruments-of-extermination\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/i\/instruments-of-extermination\/index.html",
+      "oF" : 0
+    },
     "\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/camp\/camps\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/camp\/camps\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/camp\/concentration-camps\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/camp\/concentration-camps\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/camp\/extermination-camps\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/camp\/extermination-camps\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/camp\/majdanek\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/camp\/majdanek\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/camp\/maly-trostenets\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/camp\/maly-trostenets\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/camp\/mauthausen\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/camp\/mauthausen\/index.html",
       "oF" : 0
     },
     "\/instruments\/camp\/mixed-purpose-camp\/birkenau\/index.html" : {
@@ -2237,30 +2109,6 @@
       "oAP" : "\/instruments\/camp\/mixed-purpose-camp\/sachsenhausen\/index.html",
       "oF" : 0
     },
-    "\/instruments\/camp\/monowitz\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/camp\/monowitz\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/camp\/natzweiler\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/camp\/natzweiler\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/camp\/neuengamme\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/camp\/neuengamme\/index.html",
-      "oF" : 0
-    },
     "\/instruments\/camp\/other-camp\/bergen-belsen\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2309,182 +2157,6 @@
       "oAP" : "\/instruments\/camp\/phantom-camp\/nordhausen\/index.html",
       "oF" : 0
     },
-    "\/instruments\/camp\/phantom-extermination-camps\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/camp\/phantom-extermination-camps\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/camp\/pure-extermination-camp\/belzec\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/camp\/pure-extermination-camp\/belzec\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/camp\/pure-extermination-camp\/chelmno\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/camp\/pure-extermination-camp\/chelmno\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/camp\/pure-extermination-camp\/treblinka\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/camp\/pure-extermination-camp\/treblinka\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/einsatzgruppen\/excavations-of-german-mass-graves\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/einsatzgruppen\/excavations-of-german-mass-graves\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/einsatzgruppen\/fort-ix\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/einsatzgruppen\/fort-ix\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/einsatzgruppen\/ponary\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/einsatzgruppen\/ponary\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/ghetto\/ghettos\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/ghetto\/ghettos\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/ghetto\/lodz-ghetto\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/ghetto\/lodz-ghetto\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/ghetto\/warsaw-ghetto\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/ghetto\/warsaw-ghetto\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/instruments-of-extermination\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/instruments-of-extermination\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/tool\/carbon-monoxide\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/tool\/carbon-monoxide\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/tool\/crematoria\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/tool\/crematoria\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/tool\/diesel-exhaust\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/tool\/diesel-exhaust\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/tool\/einsatzgruppen\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/tool\/einsatzgruppen\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/tool\/execution-chambers\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/tool\/execution-chambers\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/tool\/gas-chamber\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/tool\/gas-chamber\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/tool\/gas-vans\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/tool\/gas-vans\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/tool\/homicidal-gas-chamber\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/tool\/homicidal-gas-chamber\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/tool\/lethal-injections\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/tool\/lethal-injections\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/tool\/open-air-incinerations\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/tool\/open-air-incinerations\/index.html",
-      "oF" : 0
-    },
-    "\/instruments\/tool\/tools-of-mass-murder\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/tool\/tools-of-mass-murder\/index.html",
-      "oF" : 0
-    },
     "\/introduction\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2499,6 +2171,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/j\/index.html",
+      "oF" : 0
+    },
+    "\/j\/jager-report\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/j\/jager-report\/index.html",
       "oF" : 0
     },
     "\/j\/jehovas-witnesses\/index.html" : {
@@ -2525,12 +2205,44 @@
       "oAP" : "\/k\/index.html",
       "oF" : 0
     },
+    "\/k\/kosow-podlaski\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/k\/kosow-podlaski\/index.html",
+      "oF" : 0
+    },
     "\/l\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/l\/index.html",
+      "oF" : 0
+    },
+    "\/l\/lethal-injections\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/l\/lethal-injections\/index.html",
+      "oF" : 0
+    },
+    "\/l\/lodz-ghetto\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/l\/lodz-ghetto\/index.html",
+      "oF" : 0
+    },
+    "\/l\/lviv\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/l\/lviv\/index.html",
       "oF" : 0
     },
     "\/legal\/company\/buna\/index.html" : {
@@ -3117,6 +2829,54 @@
       "oAP" : "\/m\/index.html",
       "oF" : 0
     },
+    "\/m\/majdanek\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/m\/majdanek\/index.html",
+      "oF" : 0
+    },
+    "\/m\/maly-trostenets\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/m\/maly-trostenets\/index.html",
+      "oF" : 0
+    },
+    "\/m\/mauthausen\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/m\/mauthausen\/index.html",
+      "oF" : 0
+    },
+    "\/m\/mogilev\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/m\/mogilev\/index.html",
+      "oF" : 0
+    },
+    "\/m\/monowitz\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/m\/monowitz\/index.html",
+      "oF" : 0
+    },
+    "\/m\/motives\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/m\/motives\/index.html",
+      "oF" : 0
+    },
     "\/manipulation\/cremation-propaganda\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3141,12 +2901,44 @@
       "oAP" : "\/n\/index.html",
       "oF" : 0
     },
+    "\/n\/natzweiler\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/n\/natzweiler\/index.html",
+      "oF" : 0
+    },
+    "\/n\/neuengamme\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/n\/neuengamme\/index.html",
+      "oF" : 0
+    },
     "\/o\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/o\/index.html",
+      "oF" : 0
+    },
+    "\/o\/open-air-incinerations\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/o\/open-air-incinerations\/index.html",
+      "oF" : 0
+    },
+    "\/o\/operation-harvest-festival\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/o\/operation-harvest-festival\/index.html",
       "oF" : 0
     },
     "\/objects\/gold-teeth\/index.html" : {
@@ -3211,6 +3003,46 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/p\/index.html",
+      "oF" : 0
+    },
+    "\/p\/packing-density-inside-gas-chamber\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/p\/packing-density-inside-gas-chamber\/index.html",
+      "oF" : 0
+    },
+    "\/p\/phantom-extermination-camps\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/p\/phantom-extermination-camps\/index.html",
+      "oF" : 0
+    },
+    "\/p\/pinsk\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/p\/pinsk\/index.html",
+      "oF" : 0
+    },
+    "\/p\/polish-underground-reports\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/p\/polish-underground-reports\/index.html",
+      "oF" : 0
+    },
+    "\/p\/ponary\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/p\/ponary\/index.html",
       "oF" : 0
     },
     "\/persons\/berg-isai-davidovich\/index.html" : {
@@ -3765,28 +3597,20 @@
       "oAP" : "\/r\/index.html",
       "oF" : 0
     },
-    "\/results\/refeeding-syndrome\/index.html" : {
+    "\/r\/refeeding-syndrome\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/results\/refeeding-syndrome\/index.html",
+      "oAP" : "\/r\/refeeding-syndrome\/index.html",
       "oF" : 0
     },
-    "\/results\/six-million\/index.html" : {
+    "\/r\/religion-holocaust-as\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/results\/six-million\/index.html",
-      "oF" : 0
-    },
-    "\/results\/survivors\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/results\/survivors\/index.html",
+      "oAP" : "\/r\/religion-holocaust-as\/index.html",
       "oF" : 0
     },
     "\/robots.txt" : {
@@ -3803,6 +3627,118 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/s\/index.html",
+      "oF" : 0
+    },
+    "\/s\/schindlers-list-movie\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/s\/schindlers-list-movie\/index.html",
+      "oF" : 0
+    },
+    "\/s\/selections\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/s\/selections\/index.html",
+      "oF" : 0
+    },
+    "\/s\/self-immolating-bodies\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/s\/self-immolating-bodies\/index.html",
+      "oF" : 0
+    },
+    "\/s\/showers\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/s\/showers\/index.html",
+      "oF" : 0
+    },
+    "\/s\/shrunken-heads-myth-of\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/s\/shrunken-heads-myth-of\/index.html",
+      "oF" : 0
+    },
+    "\/s\/six-million\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/s\/six-million\/index.html",
+      "oF" : 0
+    },
+    "\/s\/soap-from-jewish-corpses\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/s\/soap-from-jewish-corpses\/index.html",
+      "oF" : 0
+    },
+    "\/s\/sonderkommando\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/s\/sonderkommando\/index.html",
+      "oF" : 0
+    },
+    "\/s\/source-criticism\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/s\/source-criticism\/index.html",
+      "oF" : 0
+    },
+    "\/s\/special-treatment\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/s\/special-treatment\/index.html",
+      "oF" : 0
+    },
+    "\/s\/stahlecker-reports\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/s\/stahlecker-reports\/index.html",
+      "oF" : 0
+    },
+    "\/s\/standing-upright-dead-gassing-victims\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/s\/standing-upright-dead-gassing-victims\/index.html",
+      "oF" : 0
+    },
+    "\/s\/survivors\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/s\/survivors\/index.html",
+      "oF" : 0
+    },
+    "\/s\/szlamek-report\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/s\/szlamek-report\/index.html",
       "oF" : 0
     },
     "\/search\/index.html" : {
@@ -3835,6 +3771,54 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/t\/index.html",
+      "oF" : 0
+    },
+    "\/t\/tools-of-mass-murder\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/t\/tools-of-mass-murder\/index.html",
+      "oF" : 0
+    },
+    "\/t\/torture\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/t\/torture\/index.html",
+      "oF" : 0
+    },
+    "\/t\/towels-soap-toothbrushes-inside-gas-chambers\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/t\/towels-soap-toothbrushes-inside-gas-chambers\/index.html",
+      "oF" : 0
+    },
+    "\/t\/trawniki\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/t\/trawniki\/index.html",
+      "oF" : 0
+    },
+    "\/t\/treblinka\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/t\/treblinka\/index.html",
+      "oF" : 0
+    },
+    "\/t\/typhus\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/t\/typhus\/index.html",
       "oF" : 0
     },
     "\/technologies\/bone-mill\/index.html" : {
@@ -4064,6 +4048,38 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/w\/index.html",
+      "oF" : 0
+    },
+    "\/w\/wannsee-conference\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/w\/wannsee-conference\/index.html",
+      "oF" : 0
+    },
+    "\/w\/wannsee-protocol\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/w\/wannsee-protocol\/index.html",
+      "oF" : 0
+    },
+    "\/w\/war-refugee-board-report\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/w\/war-refugee-board-report\/index.html",
+      "oF" : 0
+    },
+    "\/w\/warsaw-ghetto\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/w\/warsaw-ghetto\/index.html",
       "oF" : 0
     },
     "\/w\/wolzek\/index.html" : {
@@ -4298,14 +4314,6 @@
       "oAP" : "\/witnesses\/perpetrator\/dejaco-walter\/index.html",
       "oF" : 0
     },
-    "\/witnesses\/perpetrator\/eichmann-adolf\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/witnesses\/perpetrator\/eichmann-adolf\/index.html",
-      "oF" : 0
-    },
     "\/witnesses\/perpetrator\/erber-josef\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -4400,14 +4408,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/witnesses\/perpetrator\/hofmann-ernst\/index.html",
-      "oF" : 0
-    },
-    "\/witnesses\/perpetrator\/hoss-rudolf\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/witnesses\/perpetrator\/hoss-rudolf\/index.html",
       "oF" : 0
     },
     "\/witnesses\/perpetrator\/hottl-wilhelm\/index.html" : {
