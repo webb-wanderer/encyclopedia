@@ -19,13 +19,6 @@ https://encyclopedia.historiography-project.com/a/austria/index.html
 https://encyclopedia.historiography-project.com/a/avey-denis/index.html
 https://encyclopedia.historiography-project.com/a/index.html
 https://encyclopedia.historiography-project.com/about-us/index.html
-https://encyclopedia.historiography-project.com/absurdities/self-immolating-bodies/index.html
-https://encyclopedia.historiography-project.com/absurdities/showers/index.html
-https://encyclopedia.historiography-project.com/absurdities/shrunken-heads-myth-of/index.html
-https://encyclopedia.historiography-project.com/absurdities/soap-from-jewish-corpses/index.html
-https://encyclopedia.historiography-project.com/absurdities/standing-upright-dead-gassing-victims/index.html
-https://encyclopedia.historiography-project.com/absurdities/towels-soap-toothbrushes-inside-gas-chambers/index.html
-https://encyclopedia.historiography-project.com/absurdities/trawniki/index.html
 https://encyclopedia.historiography-project.com/b/belzec/index.html
 https://encyclopedia.historiography-project.com/b/buchenwald/index.html
 https://encyclopedia.historiography-project.com/b/index.html
@@ -353,6 +346,13 @@ https://encyclopedia.historiography-project.com/s/index.html
 https://encyclopedia.historiography-project.com/search/index.html
 https://encyclopedia.historiography-project.com/sitemap/index.html
 https://encyclopedia.historiography-project.com/t/index.html
+https://encyclopedia.historiography-project.com/t/self-immolating-bodies/index.html
+https://encyclopedia.historiography-project.com/t/showers/index.html
+https://encyclopedia.historiography-project.com/t/shrunken-heads-myth-of/index.html
+https://encyclopedia.historiography-project.com/t/soap-from-jewish-corpses/index.html
+https://encyclopedia.historiography-project.com/t/standing-upright-dead-gassing-victims/index.html
+https://encyclopedia.historiography-project.com/t/towels-soap-toothbrushes-inside-gas-chambers/index.html
+https://encyclopedia.historiography-project.com/t/trawniki/index.html
 https://encyclopedia.historiography-project.com/t/treblinka/index.html
 https://encyclopedia.historiography-project.com/technologies/bone-mill/index.html
 https://encyclopedia.historiography-project.com/technologies/fumigation-gas-chamber/index.html
