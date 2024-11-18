@@ -1957,6 +1957,14 @@
       "oAP" : "\/h\/himmler-visits\/index.html",
       "oF" : 0
     },
+    "\/h\/hitler-adolf\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/h\/hitler-adolf\/index.html",
+      "oF" : 0
+    },
     "\/h\/hitler-order-final-solution\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3115,14 +3123,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/persons\/himmler-heinrich\/index.html",
-      "oF" : 0
-    },
-    "\/persons\/hitler-adolf\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/persons\/hitler-adolf\/index.html",
       "oF" : 0
     },
     "\/persons\/hossler-franz\/index.html" : {
