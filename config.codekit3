@@ -925,12 +925,28 @@
       "oAP" : "\/about-us\/index.html",
       "oF" : 0
     },
+    "\/b\/babi-yar\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/b\/babi-yar\/index.html",
+      "oF" : 0
+    },
     "\/b\/belzec\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/b\/belzec\/index.html",
+      "oF" : 0
+    },
+    "\/b\/birkenau\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/b\/birkenau\/index.html",
       "oF" : 0
     },
     "\/b\/british-radio-intercepts\/index.html" : {
@@ -2069,14 +2085,6 @@
       "oAP" : "\/index.html",
       "oF" : 0
     },
-    "\/instruments\/camp\/mixed-purpose-camp\/birkenau\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/instruments\/camp\/mixed-purpose-camp\/birkenau\/index.html",
-      "oF" : 0
-    },
     "\/instruments\/camp\/mixed-purpose-camp\/dachau\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -2699,14 +2707,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/locations\/museum-memorial\/majdanek-museum\/index.html",
-      "oF" : 0
-    },
-    "\/locations\/other-crime-scene\/babi-yar\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/locations\/other-crime-scene\/babi-yar\/index.html",
       "oF" : 0
     },
     "\/locations\/other-crime-scene\/bad-nenndorf\/index.html" : {

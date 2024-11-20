@@ -20,6 +20,7 @@ https://encyclopedia.historiography-project.com/a/avey-denis/index.html
 https://encyclopedia.historiography-project.com/a/index.html
 https://encyclopedia.historiography-project.com/about-us/index.html
 https://encyclopedia.historiography-project.com/b/belzec/index.html
+https://encyclopedia.historiography-project.com/b/birkenau/index.html
 https://encyclopedia.historiography-project.com/b/british-radio-intercepts/index.html
 https://encyclopedia.historiography-project.com/b/buchenwald/index.html
 https://encyclopedia.historiography-project.com/b/bunkers/index.html
@@ -147,6 +148,7 @@ https://encyclopedia.historiography-project.com/g/index.html
 https://encyclopedia.historiography-project.com/h/healthcare/index.html
 https://encyclopedia.historiography-project.com/h/himmler-speeches/index.html
 https://encyclopedia.historiography-project.com/h/himmler-visits/index.html
+https://encyclopedia.historiography-project.com/h/hitler-adolf/index.html
 https://encyclopedia.historiography-project.com/h/hitler-order-final-solution/index.html
 https://encyclopedia.historiography-project.com/h/hofle-hans/index.html
 https://encyclopedia.historiography-project.com/h/holocaust-indoctrination/index.html
@@ -159,7 +161,6 @@ https://encyclopedia.historiography-project.com/h/index.html
 https://encyclopedia.historiography-project.com/i/index.html
 https://encyclopedia.historiography-project.com/i/instruments-of-extermination/index.html
 https://encyclopedia.historiography-project.com/index.html
-https://encyclopedia.historiography-project.com/instruments/camp/mixed-purpose-camp/birkenau/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/mixed-purpose-camp/dachau/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/mixed-purpose-camp/family-camp-at-auschwitz/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/mixed-purpose-camp/jasenovac/index.html
@@ -237,7 +238,7 @@ https://encyclopedia.historiography-project.com/locations/country/soviet-union/i
 https://encyclopedia.historiography-project.com/locations/ghettos/theresienstadt/index.html
 https://encyclopedia.historiography-project.com/locations/museum-memorial/dachau-museum/index.html
 https://encyclopedia.historiography-project.com/locations/museum-memorial/majdanek-museum/index.html
-https://encyclopedia.historiography-project.com/locations/other-crime-scene/babi-yar/index.html
+https://encyclopedia.historiography-project.com/b/babi-yar/index.html
 https://encyclopedia.historiography-project.com/locations/other-crime-scene/bad-nenndorf/index.html
 https://encyclopedia.historiography-project.com/locations/other-crime-scene/bialystok/index.html
 https://encyclopedia.historiography-project.com/locations/other-crime-scene/bikernieki-rumbula/index.html
@@ -290,7 +291,6 @@ https://encyclopedia.historiography-project.com/persons/goth-amon/index.html
 https://encyclopedia.historiography-project.com/persons/grossman-vasily/index.html
 https://encyclopedia.historiography-project.com/persons/heydrich-reinhardt/index.html
 https://encyclopedia.historiography-project.com/persons/himmler-heinrich/index.html
-https://encyclopedia.historiography-project.com/h/hitler-adolf/index.html
 https://encyclopedia.historiography-project.com/persons/hossler-franz/index.html
 https://encyclopedia.historiography-project.com/persons/kaltenbrunner-ernst/index.html
 https://encyclopedia.historiography-project.com/persons/koch-ilse/index.html
