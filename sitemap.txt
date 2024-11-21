@@ -19,6 +19,7 @@ https://encyclopedia.historiography-project.com/a/austria/index.html
 https://encyclopedia.historiography-project.com/a/avey-denis/index.html
 https://encyclopedia.historiography-project.com/a/index.html
 https://encyclopedia.historiography-project.com/about-us/index.html
+https://encyclopedia.historiography-project.com/b/babi-yar/index.html
 https://encyclopedia.historiography-project.com/b/belzec/index.html
 https://encyclopedia.historiography-project.com/b/birkenau/index.html
 https://encyclopedia.historiography-project.com/b/british-radio-intercepts/index.html
@@ -195,7 +196,6 @@ https://encyclopedia.historiography-project.com/legal/institution/office-of-spec
 https://encyclopedia.historiography-project.com/legal/institution/red-cross/index.html
 https://encyclopedia.historiography-project.com/legal/institution/reichssicherheitshauptamt/index.html
 https://encyclopedia.historiography-project.com/legal/institution/wirtschafts-und-verwaltungs-hauptamt/index.html
-https://encyclopedia.historiography-project.com/legal/institution/zentrale-stelle/index.html
 https://encyclopedia.historiography-project.com/legal/trial/belzec-trial/index.html
 https://encyclopedia.historiography-project.com/legal/trial/bergen-belsen-trial/index.html
 https://encyclopedia.historiography-project.com/legal/trial/dachau-trials/index.html
@@ -208,7 +208,6 @@ https://encyclopedia.historiography-project.com/legal/trial/majdanek-trials/inde
 https://encyclopedia.historiography-project.com/legal/trial/nuremberg-military-tribunals/index.html
 https://encyclopedia.historiography-project.com/legal/trial/show-trials/index.html
 https://encyclopedia.historiography-project.com/legal/trial/witch-trials/index.html
-https://encyclopedia.historiography-project.com/legal/trial/zundel-trials/index.html
 https://encyclopedia.historiography-project.com/list-of-entries/index.html
 https://encyclopedia.historiography-project.com/list-of-pages/index.html
 https://encyclopedia.historiography-project.com/locations/camps/ohrdruf/index.html
@@ -238,7 +237,6 @@ https://encyclopedia.historiography-project.com/locations/country/soviet-union/i
 https://encyclopedia.historiography-project.com/locations/ghettos/theresienstadt/index.html
 https://encyclopedia.historiography-project.com/locations/museum-memorial/dachau-museum/index.html
 https://encyclopedia.historiography-project.com/locations/museum-memorial/majdanek-museum/index.html
-https://encyclopedia.historiography-project.com/b/babi-yar/index.html
 https://encyclopedia.historiography-project.com/locations/other-crime-scene/bad-nenndorf/index.html
 https://encyclopedia.historiography-project.com/locations/other-crime-scene/bialystok/index.html
 https://encyclopedia.historiography-project.com/locations/other-crime-scene/bikernieki-rumbula/index.html
@@ -253,7 +251,6 @@ https://encyclopedia.historiography-project.com/locations/other-locations/birobi
 https://encyclopedia.historiography-project.com/locations/other-locations/london-cage/index.html
 https://encyclopedia.historiography-project.com/locations/other-locations/madagascar/index.html
 https://encyclopedia.historiography-project.com/locations/other-locations/shanghai/index.html
-https://encyclopedia.historiography-project.com/locations/other-locations/zentralsauna-auschwitz-birkenau/index.html
 https://encyclopedia.historiography-project.com/m/index.html
 https://encyclopedia.historiography-project.com/m/majdanek/index.html
 https://encyclopedia.historiography-project.com/m/maly-trostenets/index.html
@@ -327,7 +324,6 @@ https://encyclopedia.historiography-project.com/persons/politician/veil-simone/i
 https://encyclopedia.historiography-project.com/persons/politician/voss-peter/index.html
 https://encyclopedia.historiography-project.com/persons/politician/weise-gottfried/index.html
 https://encyclopedia.historiography-project.com/persons/politician/wirth-christian/index.html
-https://encyclopedia.historiography-project.com/persons/politician/ziereis-franz/index.html
 https://encyclopedia.historiography-project.com/persons/propagandist/czech-danuta/index.html
 https://encyclopedia.historiography-project.com/persons/propagandist/karski-jan/index.html
 https://encyclopedia.historiography-project.com/persons/propagandist/langbein-hermann/index.html
@@ -385,13 +381,11 @@ https://encyclopedia.historiography-project.com/technologies/microwave-delousing
 https://encyclopedia.historiography-project.com/technologies/producer-gas/index.html
 https://encyclopedia.historiography-project.com/technologies/saunas/index.html
 https://encyclopedia.historiography-project.com/technologies/ventilation/index.html
-https://encyclopedia.historiography-project.com/technologies/zyklon-b-introduction-devices/index.html
 https://encyclopedia.historiography-project.com/terms-conditions-of-use/index.html
 https://encyclopedia.historiography-project.com/toxins-chemicals/ddt/index.html
 https://encyclopedia.historiography-project.com/toxins-chemicals/hydrogen-cyanide/index.html
 https://encyclopedia.historiography-project.com/toxins-chemicals/iron-blue/index.html
 https://encyclopedia.historiography-project.com/toxins-chemicals/phenol/index.html
-https://encyclopedia.historiography-project.com/toxins-chemicals/zyklon-b/index.html
 https://encyclopedia.historiography-project.com/u/index.html
 https://encyclopedia.historiography-project.com/u/uhlenbrock-kurt/index.html
 https://encyclopedia.historiography-project.com/u/ukraine/index.html
@@ -679,12 +673,18 @@ https://encyclopedia.historiography-project.com/witnesses/victim/willenberg-samu
 https://encyclopedia.historiography-project.com/witnesses/victim/witnesses-against-mass-murder/index.html
 https://encyclopedia.historiography-project.com/witnesses/victim/wohlfahrt-wilhelm/index.html
 https://encyclopedia.historiography-project.com/witnesses/victim/wolken-otto/index.html
-https://encyclopedia.historiography-project.com/witnesses/victim/zabecki-franciszek/index.html
-https://encyclopedia.historiography-project.com/witnesses/victim/zaydel-matvey/index.html
-https://encyclopedia.historiography-project.com/witnesses/victim/zlobnicki-adam/index.html
-https://encyclopedia.historiography-project.com/witnesses/victim/zurawski-mieczyslaw/index.html
 https://encyclopedia.historiography-project.com/witnesses/witnesses/index.html
 https://encyclopedia.historiography-project.com/y/index.html
 https://encyclopedia.historiography-project.com/y/yad-vashem/index.html
 https://encyclopedia.historiography-project.com/y/yugoslavia/index.html
 https://encyclopedia.historiography-project.com/z/index.html
+https://encyclopedia.historiography-project.com/z/zabecki-franciszek/index.html
+https://encyclopedia.historiography-project.com/z/zaydel-matvey/index.html
+https://encyclopedia.historiography-project.com/z/zentrale-stelle/index.html
+https://encyclopedia.historiography-project.com/z/zentralsauna-auschwitz-birkenau/index.html
+https://encyclopedia.historiography-project.com/z/ziereis-franz/index.html
+https://encyclopedia.historiography-project.com/z/zlobnicki-adam/index.html
+https://encyclopedia.historiography-project.com/z/zundel-trials/index.html
+https://encyclopedia.historiography-project.com/z/zurawski-mieczyslaw/index.html
+https://encyclopedia.historiography-project.com/z/zyklon-b-introduction-devices/index.html
+https://encyclopedia.historiography-project.com/z/zyklon-b/index.html
