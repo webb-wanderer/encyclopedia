@@ -113,7 +113,7 @@ https://encyclopedia.historiography-project.com/change-log/index.html
 https://encyclopedia.historiography-project.com/d/demography-jewish/index.html
 https://encyclopedia.historiography-project.com/d/diesel-exhaust/index.html
 https://encyclopedia.historiography-project.com/d/index.html
-https://encyclopedia.historiography-project.com/download-our-encyclopedia-free-of-charge/index.html
+https://encyclopedia.historiography-project.com/free-download/index.html
 https://encyclopedia.historiography-project.com/e/eichmann-adolf/index.html
 https://encyclopedia.historiography-project.com/e/einsatzgruppen/index.html
 https://encyclopedia.historiography-project.com/e/escapes-from-gas-chamber/index.html
@@ -338,8 +338,8 @@ https://encyclopedia.historiography-project.com/persons/propagandist/weissmandel
 https://encyclopedia.historiography-project.com/persons/propagandist/wiesenthal-simon/index.html
 https://encyclopedia.historiography-project.com/persons/spanner-rudolf/index.html
 https://encyclopedia.historiography-project.com/persons/tesch-bruno/index.html
-https://encyclopedia.historiography-project.com/plans-orders/emigration/index.html
-https://encyclopedia.historiography-project.com/plans-orders/intentionality/index.html
+https://encyclopedia.historiography-project.com/e/emigration/index.html
+https://encyclopedia.historiography-project.com/i/intentionality/index.html
 https://encyclopedia.historiography-project.com/plans-orders/nisko-plan/index.html
 https://encyclopedia.historiography-project.com/plans-orders/plan-to-exterminate-the-jews/index.html
 https://encyclopedia.historiography-project.com/plans-orders/resettlement/index.html
