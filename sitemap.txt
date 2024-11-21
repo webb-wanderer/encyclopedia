@@ -51,7 +51,6 @@ https://encyclopedia.historiography-project.com/categories/index.html
 https://encyclopedia.historiography-project.com/categories/instruments/camp/index.html
 https://encyclopedia.historiography-project.com/categories/instruments/camp/mixed-purpose-camp/index.html
 https://encyclopedia.historiography-project.com/categories/instruments/camp/other-camp/index.html
-https://encyclopedia.historiography-project.com/categories/instruments/camp/page/2/index.html
 https://encyclopedia.historiography-project.com/categories/instruments/camp/phantom-camp/index.html
 https://encyclopedia.historiography-project.com/categories/instruments/camp/pure-extermination-camp/index.html
 https://encyclopedia.historiography-project.com/categories/instruments/einsatzgruppen/index.html
@@ -173,8 +172,8 @@ https://encyclopedia.historiography-project.com/instruments/camp/other-camp/berg
 https://encyclopedia.historiography-project.com/instruments/camp/other-camp/gusen/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/other-camp/janowska-camp/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/other-camp/klooga/index.html
-https://encyclopedia.historiography-project.com/instruments/camp/phantom-camp/gross-rosen/index.html
-https://encyclopedia.historiography-project.com/instruments/camp/phantom-camp/nordhausen/index.html
+https://encyclopedia.historiography-project.com/g/gross-rosen/index.html
+https://encyclopedia.historiography-project.com/n/nordhausen/index.html
 https://encyclopedia.historiography-project.com/introduction/index.html
 https://encyclopedia.historiography-project.com/j/index.html
 https://encyclopedia.historiography-project.com/j/jager-report/index.html
@@ -416,7 +415,7 @@ https://encyclopedia.historiography-project.com/witnesses/false-witness/kosinski
 https://encyclopedia.historiography-project.com/witnesses/false-witness/marco-enric/index.html
 https://encyclopedia.historiography-project.com/witnesses/false-witness/wael-monique-de/index.html
 https://encyclopedia.historiography-project.com/witnesses/false-witness/watt-donald/index.html
-https://encyclopedia.historiography-project.com/witnesses/perpetrator/bach-zelewski-erich-von-dem/index.html
+https://encyclopedia.historiography-project.com/b/bach-zelewski-erich-von-dem/index.html
 https://encyclopedia.historiography-project.com/witnesses/perpetrator/becher-kurt/index.html
 https://encyclopedia.historiography-project.com/witnesses/perpetrator/becker-august/index.html
 https://encyclopedia.historiography-project.com/witnesses/perpetrator/blobel-paul/index.html
@@ -497,7 +496,7 @@ https://encyclopedia.historiography-project.com/witnesses/victim/chasan-shaul/in
 https://encyclopedia.historiography-project.com/witnesses/victim/chomka-wladyslaw/index.html
 https://encyclopedia.historiography-project.com/witnesses/victim/chybinski-stanislaw/index.html
 https://encyclopedia.historiography-project.com/witnesses/victim/cohen-leon/index.html
-https://encyclopedia.historiography-project.com/witnesses/victim/cykert-abraham/index.html
+https://encyclopedia.historiography-project.com/c/cykert-abraham/index.html
 https://encyclopedia.historiography-project.com/witnesses/victim/cyrankiewicz-jozef/index.html
 https://encyclopedia.historiography-project.com/witnesses/victim/czechowicz-aron/index.html
 https://encyclopedia.historiography-project.com/witnesses/victim/damjanovic-momcilo/index.html
