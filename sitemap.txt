@@ -113,9 +113,9 @@ https://encyclopedia.historiography-project.com/change-log/index.html
 https://encyclopedia.historiography-project.com/d/demography-jewish/index.html
 https://encyclopedia.historiography-project.com/d/diesel-exhaust/index.html
 https://encyclopedia.historiography-project.com/d/index.html
-https://encyclopedia.historiography-project.com/free-download/index.html
 https://encyclopedia.historiography-project.com/e/eichmann-adolf/index.html
 https://encyclopedia.historiography-project.com/e/einsatzgruppen/index.html
+https://encyclopedia.historiography-project.com/e/emigration/index.html
 https://encyclopedia.historiography-project.com/e/escapes-from-gas-chamber/index.html
 https://encyclopedia.historiography-project.com/e/euthanasia/index.html
 https://encyclopedia.historiography-project.com/e/evacuations-from-german-camps/index.html
@@ -137,6 +137,7 @@ https://encyclopedia.historiography-project.com/f/flames-out-of-crematory-chimne
 https://encyclopedia.historiography-project.com/f/flossenburg/index.html
 https://encyclopedia.historiography-project.com/f/fort-ix/index.html
 https://encyclopedia.historiography-project.com/f/index.html
+https://encyclopedia.historiography-project.com/free-download/index.html
 https://encyclopedia.historiography-project.com/g/gas-chamber/index.html
 https://encyclopedia.historiography-project.com/g/gas-vans/index.html
 https://encyclopedia.historiography-project.com/g/generalplan-ost/index.html
@@ -161,6 +162,7 @@ https://encyclopedia.historiography-project.com/h/hoss-rudolf/index.html
 https://encyclopedia.historiography-project.com/h/index.html
 https://encyclopedia.historiography-project.com/i/index.html
 https://encyclopedia.historiography-project.com/i/instruments-of-extermination/index.html
+https://encyclopedia.historiography-project.com/i/intentionality/index.html
 https://encyclopedia.historiography-project.com/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/mixed-purpose-camp/dachau/index.html
 https://encyclopedia.historiography-project.com/instruments/camp/mixed-purpose-camp/family-camp-at-auschwitz/index.html
@@ -263,6 +265,7 @@ https://encyclopedia.historiography-project.com/manipulation/propaganda/index.ht
 https://encyclopedia.historiography-project.com/n/index.html
 https://encyclopedia.historiography-project.com/n/natzweiler/index.html
 https://encyclopedia.historiography-project.com/n/neuengamme/index.html
+https://encyclopedia.historiography-project.com/n/nisko-plan/index.html
 https://encyclopedia.historiography-project.com/o/index.html
 https://encyclopedia.historiography-project.com/o/open-air-incinerations/index.html
 https://encyclopedia.historiography-project.com/o/operation-harvest-festival/index.html
@@ -277,6 +280,7 @@ https://encyclopedia.historiography-project.com/p/index.html
 https://encyclopedia.historiography-project.com/p/packing-density-inside-gas-chamber/index.html
 https://encyclopedia.historiography-project.com/p/phantom-extermination-camps/index.html
 https://encyclopedia.historiography-project.com/p/pinsk/index.html
+https://encyclopedia.historiography-project.com/p/plan-to-exterminate-the-jews/index.html
 https://encyclopedia.historiography-project.com/p/polish-underground-reports/index.html
 https://encyclopedia.historiography-project.com/p/ponary/index.html
 https://encyclopedia.historiography-project.com/persons/berg-isai-davidovich/index.html
@@ -338,16 +342,12 @@ https://encyclopedia.historiography-project.com/persons/propagandist/weissmandel
 https://encyclopedia.historiography-project.com/persons/propagandist/wiesenthal-simon/index.html
 https://encyclopedia.historiography-project.com/persons/spanner-rudolf/index.html
 https://encyclopedia.historiography-project.com/persons/tesch-bruno/index.html
-https://encyclopedia.historiography-project.com/e/emigration/index.html
-https://encyclopedia.historiography-project.com/i/intentionality/index.html
-https://encyclopedia.historiography-project.com/plans-orders/nisko-plan/index.html
-https://encyclopedia.historiography-project.com/plans-orders/plan-to-exterminate-the-jews/index.html
-https://encyclopedia.historiography-project.com/plans-orders/resettlement/index.html
 https://encyclopedia.historiography-project.com/q/index.html
 https://encyclopedia.historiography-project.com/q/quakernack-walter/index.html
 https://encyclopedia.historiography-project.com/r/index.html
 https://encyclopedia.historiography-project.com/r/refeeding-syndrome/index.html
 https://encyclopedia.historiography-project.com/r/religion-holocaust-as/index.html
+https://encyclopedia.historiography-project.com/r/resettlement/index.html
 https://encyclopedia.historiography-project.com/s/index.html
 https://encyclopedia.historiography-project.com/s/schindlers-list-movie/index.html
 https://encyclopedia.historiography-project.com/s/selections/index.html

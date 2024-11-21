@@ -3139,6 +3139,22 @@
       "oAP" : "\/n\/neuengamme\/index.html",
       "oF" : 0
     },
+    "\/n\/nisko-plan\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/n\/nisko-plan\/index.html",
+      "oF" : 0
+    },
+    "\/n\/nisko-plan\/NiskoPlan.mp3" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/n\/nisko-plan\/NiskoPlan.mp3",
+      "oF" : 0
+    },
     "\/o\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3249,6 +3265,22 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/p\/pinsk\/index.html",
+      "oF" : 0
+    },
+    "\/p\/plan-to-exterminate-the-jews\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/p\/plan-to-exterminate-the-jews\/index.html",
+      "oF" : 0
+    },
+    "\/p\/plan-to-exterminate-the-jews\/PlanToExterminateTheJews.mp3" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/p\/plan-to-exterminate-the-jews\/PlanToExterminateTheJews.mp3",
       "oF" : 0
     },
     "\/p\/polish-underground-reports\/index.html" : {
@@ -3739,30 +3771,6 @@
       "oAP" : "\/persons\/tesch-bruno\/index.html",
       "oF" : 0
     },
-    "\/plans-orders\/nisko-plan\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/plans-orders\/nisko-plan\/index.html",
-      "oF" : 0
-    },
-    "\/plans-orders\/plan-to-exterminate-the-jews\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/plans-orders\/plan-to-exterminate-the-jews\/index.html",
-      "oF" : 0
-    },
-    "\/plans-orders\/resettlement\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/plans-orders\/resettlement\/index.html",
-      "oF" : 0
-    },
     "\/q\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3801,6 +3809,22 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/r\/religion-holocaust-as\/index.html",
+      "oF" : 0
+    },
+    "\/r\/resettlement\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/r\/resettlement\/index.html",
+      "oF" : 0
+    },
+    "\/r\/resettlement\/Resettlement.mp3" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/r\/resettlement\/Resettlement.mp3",
       "oF" : 0
     },
     "\/robots.txt" : {
@@ -11763,14 +11787,6 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/wp-content\/uploads\/NiskoPlan.mp3" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/NiskoPlan.mp3",
-      "oF" : 0
-    },
     "\/wp-content\/uploads\/Nordhausen.mp3" : {
       "cB" : 0,
       "ft" : 8192,
@@ -12282,14 +12298,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-content\/uploads\/PinterStephen.mp3",
-      "oF" : 0
-    },
-    "\/wp-content\/uploads\/PlanToExterminateTheJews.mp3" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/PlanToExterminateTheJews.mp3",
       "oF" : 0
     },
     "\/wp-content\/uploads\/PlucerRegina.mp3" : {
@@ -12858,14 +12866,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-content\/uploads\/RenardJeanPaul.mp3",
-      "oF" : 0
-    },
-    "\/wp-content\/uploads\/Resettlement.mp3" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/Resettlement.mp3",
       "oF" : 0
     },
     "\/wp-content\/uploads\/RingelblumEmanuel.jpg" : {
