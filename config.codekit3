@@ -1106,6 +1106,157 @@
       "oAP" : "\/c\/corpse-photos\/index.html",
       "oF" : 0
     },
+    "\/c\/crematoria\/AuschwitzCremaI1942.jpg" : {
+      "ft" : 16384,
+      "iS" : 353638,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/crematoria\/AuschwitzCremaI1942.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/c\/crematoria\/AuschwitzCremaIPhoto.jpg" : {
+      "ft" : 16384,
+      "iS" : 273673,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/crematoria\/AuschwitzCremaIPhoto.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/c\/crematoria\/BirkenauCremaIIBasement.jpg" : {
+      "ft" : 16384,
+      "iS" : 106815,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/crematoria\/BirkenauCremaIIBasement.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/c\/crematoria\/BirkenauCremaIIFurnaceRoomPhoto.jpg" : {
+      "ft" : 16384,
+      "iS" : 110999,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/crematoria\/BirkenauCremaIIFurnaceRoomPhoto.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/c\/crematoria\/BirkenauCremaIIGroundfloor.jpg" : {
+      "ft" : 16384,
+      "iS" : 279680,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/crematoria\/BirkenauCremaIIGroundfloor.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/c\/crematoria\/BirkenauCremaIIIPhoto.jpg" : {
+      "ft" : 16384,
+      "iS" : 136169,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/crematoria\/BirkenauCremaIIIPhoto.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/c\/crematoria\/BirkenauCremaIIPhoto.jpg" : {
+      "ft" : 16384,
+      "iS" : 93032,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/crematoria\/BirkenauCremaIIPhoto.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/c\/crematoria\/BirkenauCremaIVPhoto.jpg" : {
+      "ft" : 16384,
+      "iS" : 130266,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/crematoria\/BirkenauCremaIVPhoto.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/c\/crematoria\/BirkenauCremaVPhoto.jpg" : {
+      "ft" : 16384,
+      "iS" : 164362,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/crematoria\/BirkenauCremaVPhoto.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/c\/crematoria\/CremaStatsGermany.png" : {
+      "ft" : 32768,
+      "iS" : 68172,
+      "oA" : 0,
+      "oAP" : "\/c\/crematoria\/CremaStatsGermany.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/c\/crematoria\/Crematoria.mp3" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/crematoria\/Crematoria.mp3",
+      "oF" : 0
+    },
+    "\/c\/crematoria\/CrematoriumIVPlan.jpg" : {
+      "ft" : 16384,
+      "iS" : 228340,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/crematoria\/CrematoriumIVPlan.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/c\/crematoria\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1113,6 +1264,19 @@
       "oA" : 0,
       "oAP" : "\/c\/crematoria\/index.html",
       "oF" : 0
+    },
+    "\/c\/crematoria\/MajdanekCremaHorror.jpg" : {
+      "ft" : 16384,
+      "iS" : 282127,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/crematoria\/MajdanekCremaHorror.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/c\/criminal-traces\/index.html" : {
       "cB" : 0,
@@ -4084,6 +4248,14 @@
       "oAP" : "\/w\/wolzek\/index.html",
       "oF" : 0
     },
+    "\/w\/wolzek\/Wolzek.mp3" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/w\/wolzek\/Wolzek.mp3",
+      "oF" : 0
+    },
     "\/witnesses\/barton-russell\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -6292,32 +6464,6 @@
       "oAP" : "\/witnesses\/witnesses\/index.html",
       "oF" : 0
     },
-    "\/wp-content\/uploads\/AuschwitzCremaI1942.jpg" : {
-      "ft" : 16384,
-      "iS" : 353638,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/AuschwitzCremaI1942.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/wp-content\/uploads\/AuschwitzCremaIPhoto.jpg" : {
-      "ft" : 16384,
-      "iS" : 273673,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/AuschwitzCremaIPhoto.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/wp-content\/uploads\/AuschwitzFumigationChamberDoorWood.jpg" : {
       "ft" : 16384,
       "iS" : 111092,
@@ -6721,97 +6867,6 @@
       "oA" : 0,
       "oAP" : "\/wp-content\/uploads\/Birkenau.mp3",
       "oF" : 0
-    },
-    "\/wp-content\/uploads\/BirkenauCremaIIBasement.jpg" : {
-      "ft" : 16384,
-      "iS" : 106815,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/BirkenauCremaIIBasement.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/wp-content\/uploads\/BirkenauCremaIIFurnaceRoomPhoto.jpg" : {
-      "ft" : 16384,
-      "iS" : 110999,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/BirkenauCremaIIFurnaceRoomPhoto.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/wp-content\/uploads\/BirkenauCremaIIGroundfloor.jpg" : {
-      "ft" : 16384,
-      "iS" : 279680,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/BirkenauCremaIIGroundfloor.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/wp-content\/uploads\/BirkenauCremaIIIPhoto.jpg" : {
-      "ft" : 16384,
-      "iS" : 136169,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/BirkenauCremaIIIPhoto.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/wp-content\/uploads\/BirkenauCremaIIPhoto.jpg" : {
-      "ft" : 16384,
-      "iS" : 93032,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/BirkenauCremaIIPhoto.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/wp-content\/uploads\/BirkenauCremaIVPhoto.jpg" : {
-      "ft" : 16384,
-      "iS" : 130266,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/BirkenauCremaIVPhoto.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/wp-content\/uploads\/BirkenauCremaVPhoto.jpg" : {
-      "ft" : 16384,
-      "iS" : 164362,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/BirkenauCremaVPhoto.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
     },
     "\/wp-content\/uploads\/BirkenauGoogleSatellite.jpg" : {
       "ft" : 16384,
@@ -7576,19 +7631,6 @@
       "oAP" : "\/wp-content\/uploads\/CorryJoe.mp3",
       "oF" : 0
     },
-    "\/wp-content\/uploads\/CremaStatsGermany.png" : {
-      "ft" : 32768,
-      "iS" : 68172,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/CremaStatsGermany.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
     "\/wp-content\/uploads\/CremationPropaganda.mp3" : {
       "cB" : 0,
       "ft" : 8192,
@@ -7596,27 +7638,6 @@
       "oA" : 0,
       "oAP" : "\/wp-content\/uploads\/CremationPropaganda.mp3",
       "oF" : 0
-    },
-    "\/wp-content\/uploads\/Crematoria.mp3" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/Crematoria.mp3",
-      "oF" : 0
-    },
-    "\/wp-content\/uploads\/CrematoriumIVPlan.jpg" : {
-      "ft" : 16384,
-      "iS" : 228340,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/CrematoriumIVPlan.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
     },
     "\/wp-content\/uploads\/CriminalTraces.mp3" : {
       "cB" : 0,
@@ -11065,19 +11086,6 @@
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
-      "rq" : 75
-    },
-    "\/wp-content\/uploads\/MajdanekCremaHorror.jpg" : {
-      "ft" : 16384,
-      "iS" : 282127,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/MajdanekCremaHorror.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
       "rq" : 75
     },
     "\/wp-content\/uploads\/MajdanekCremaPlan.png" : {
@@ -15056,14 +15064,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/wp-content\/uploads\/WolkenOtto.mp3",
-      "oF" : 0
-    },
-    "\/wp-content\/uploads\/Wolzek.mp3" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/Wolzek.mp3",
       "oF" : 0
     },
     "\/wp-content\/uploads\/xlogo_codoh.png" : {
