@@ -41,4 +41,3 @@ http://encyclohhpedia.netlify.app/* https://encyclopedia.historiography-project.
 /toxin-chemical/* /toxins-chemicals/:splat 301!
 /witness/* /witnesses/:splat 301!
 /how-to-use-this-site/index.html /list-of-pages/index.html 301!
-/redirect/kristallnacht/index.html /c/crystal-night/index.html
