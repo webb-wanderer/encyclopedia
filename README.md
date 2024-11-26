@@ -4,7 +4,7 @@ uncensored and unconstrained
 
 ## Welcome!
 
-If this is the first time you are using this website, or if you would like to get a general orientation about this encyclopedia, and how it relates to other competing encyclopedias, either read our [Introduction](https://encyclopedia.historiography-project.com/introduction/index.html), or watch our 30-minutes introduction movie right here:
+If this is the first time you are using this website, or if you would like to get a general orientation about this encyclopedia, and how it relates to other competing encyclopedias, either read our [Introduction](https://encyclopedia.historiography-project.com/introduction/index.html), or watch our 30-minutes introduction movie on the main page.
 
 If you are looking for a general introduction into [The Holocaust](https://encyclopedia.historiography-project.com/h/holocaust-the/index.html), read our [entry about this over-arching topic](https://encyclopedia.historiography-project.com/h/holocaust-the/index.html), which will guide you through this historical labyrinth. It is also available as an audio and a video presentation.
 
