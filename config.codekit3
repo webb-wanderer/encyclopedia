@@ -3152,12 +3152,12 @@
       "oAP" : "\/h\/hitler-adolf\/index.html",
       "oF" : 0
     },
-    "\/h\/hitler-order-final-solution\/index.html" : {
+    "\/h\/hitler-order\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/h\/hitler-order-final-solution\/index.html",
+      "oAP" : "\/h\/hitler-order\/index.html",
       "oF" : 0
     },
     "\/h\/hofer-fritz\/index.html" : {
@@ -5011,6 +5011,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/r\/rumbula\/index.html",
+      "oF" : 0
+    },
+    "\/README.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/README.html",
       "oF" : 0
     },
     "\/README.md" : {
@@ -9365,14 +9373,6 @@
       "ou" : "lpckwebp-none",
       "q" : 90,
       "rq" : 75
-    },
-    "\/wp-content\/uploads\/HolocaustEncyclopedia-UncensoredAndUnconstrained-ARMREG.pdf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/wp-content\/uploads\/HolocaustEncyclopedia-UncensoredAndUnconstrained-ARMREG.pdf",
-      "oF" : 0
     },
     "\/wp-content\/uploads\/HolocaustEncyclopediaAll-single.jpg" : {
       "ft" : 16384,
