@@ -10581,6 +10581,14 @@
       "oAP" : "\/c\/construction-office\/index.html",
       "oF" : 0
     },
+    "\/c\/convergence-of-evidence\/index-PreviewTemp-2580EA2D-E450-4382-884A-A3DE0F99541A.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/c\/convergence-of-evidence\/index-PreviewTemp-2580EA2D-E450-4382-884A-A3DE0F99541A.html",
+      "oF" : 0
+    },
     "\/c\/convergence-of-evidence\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -10720,6 +10728,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/cross-references\/concepts-terms.html",
+      "oF" : 0
+    },
+    "\/cross-references\/convergence-of-evidence.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/cross-references\/convergence-of-evidence.html",
       "oF" : 0
     },
     "\/cross-references\/documents.html" : {
