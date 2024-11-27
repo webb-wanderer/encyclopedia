@@ -4974,17 +4974,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/AuschwitzDeathBooks.png" : {
-      "ft" : 32768,
-      "iS" : 179586,
+    "\/_assets\/img\/AuschwitzDeathBooks.jpg" : {
+      "ft" : 16384,
+      "iS" : 274775,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/AuschwitzDeathBooks.png",
+      "oAP" : "\/_assets\/img\/AuschwitzDeathBooks.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/AuschwitzFumigationChamberDoorWood.jpg" : {
@@ -5026,30 +5026,30 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/AuschwitzKI-1944.png" : {
-      "ft" : 32768,
-      "iS" : 177756,
+    "\/_assets\/img\/AuschwitzKI-1944.jpg" : {
+      "ft" : 16384,
+      "iS" : 162289,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/AuschwitzKI-1944.png",
+      "oAP" : "\/_assets\/img\/AuschwitzKI-1944.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/AuschwitzKI-1947.png" : {
-      "ft" : 32768,
-      "iS" : 33993,
+    "\/_assets\/img\/AuschwitzKI-1947.jpg" : {
+      "ft" : 16384,
+      "iS" : 105592,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/AuschwitzKI-1947.png",
+      "oAP" : "\/_assets\/img\/AuschwitzKI-1947.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/AuschwitzKI-ThinWalls.jpg" : {
@@ -5065,17 +5065,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/AuschwitzMainCamp.png" : {
-      "ft" : 32768,
-      "iS" : 17099,
+    "\/_assets\/img\/AuschwitzMainCamp.jpg" : {
+      "ft" : 16384,
+      "iS" : 57482,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/AuschwitzMainCamp.png",
+      "oAP" : "\/_assets\/img\/AuschwitzMainCamp.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/AuschwitzMainCampAir.jpg" : {
@@ -5260,17 +5260,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/BelzecMap.png" : {
-      "ft" : 32768,
-      "iS" : 67554,
+    "\/_assets\/img\/BelzecMap.jpg" : {
+      "ft" : 16384,
+      "iS" : 207949,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/BelzecMap.png",
+      "oAP" : "\/_assets\/img\/BelzecMap.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/BendelCharles.jpg" : {
@@ -5429,43 +5429,43 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/BirkenauMap1944.png" : {
-      "ft" : 32768,
-      "iS" : 106238,
+    "\/_assets\/img\/BirkenauMap1944.jpg" : {
+      "ft" : 16384,
+      "iS" : 498232,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/BirkenauMap1944.png",
+      "oAP" : "\/_assets\/img\/BirkenauMap1944.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/BirkenauMapMay1942.png" : {
-      "ft" : 32768,
-      "iS" : 110917,
+    "\/_assets\/img\/BirkenauMapMay1942.jpg" : {
+      "ft" : 16384,
+      "iS" : 266891,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/BirkenauMapMay1942.png",
+      "oAP" : "\/_assets\/img\/BirkenauMapMay1942.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/BirkenauMapSept1942.png" : {
-      "ft" : 32768,
-      "iS" : 131324,
+    "\/_assets\/img\/BirkenauMapSept1942.jpg" : {
+      "ft" : 16384,
+      "iS" : 314353,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/BirkenauMapSept1942.png",
+      "oAP" : "\/_assets\/img\/BirkenauMapSept1942.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/BirkenauOutdoorFirePhoto1.jpg" : {
@@ -5533,69 +5533,69 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/Boeck1.png" : {
-      "ft" : 32768,
-      "iS" : 8558,
+    "\/_assets\/img\/Boeck1.jpg" : {
+      "ft" : 16384,
+      "iS" : 32451,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/Boeck1.png",
+      "oAP" : "\/_assets\/img\/Boeck1.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/Boeck2.png" : {
-      "ft" : 32768,
-      "iS" : 5404,
+    "\/_assets\/img\/Boeck2.jpg" : {
+      "ft" : 16384,
+      "iS" : 21563,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/Boeck2.png",
+      "oAP" : "\/_assets\/img\/Boeck2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/Boeck3.png" : {
-      "ft" : 32768,
-      "iS" : 5882,
+    "\/_assets\/img\/Boeck3.jpg" : {
+      "ft" : 16384,
+      "iS" : 24370,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/Boeck3.png",
+      "oAP" : "\/_assets\/img\/Boeck3.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/Boeck4.png" : {
-      "ft" : 32768,
-      "iS" : 8839,
+    "\/_assets\/img\/Boeck4.jpg" : {
+      "ft" : 16384,
+      "iS" : 28576,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/Boeck4.png",
+      "oAP" : "\/_assets\/img\/Boeck4.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/Boeck5.png" : {
-      "ft" : 32768,
-      "iS" : 10213,
+    "\/_assets\/img\/Boeck5.jpg" : {
+      "ft" : 16384,
+      "iS" : 34414,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/Boeck5.png",
+      "oAP" : "\/_assets\/img\/Boeck5.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/BogerWilhelm.jpg" : {
@@ -5728,17 +5728,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/CensorshipTypeWriterExecution.png" : {
-      "ft" : 32768,
-      "iS" : 19218,
+    "\/_assets\/img\/CensorshipTypeWriterExecution.jpg" : {
+      "ft" : 16384,
+      "iS" : 31444,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/CensorshipTypeWriterExecution.png",
+      "oAP" : "\/_assets\/img\/CensorshipTypeWriterExecution.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/ChasanShaul.jpg" : {
@@ -5767,17 +5767,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/CHP-trans.png" : {
-      "ft" : 32768,
-      "iS" : 16172,
+    "\/_assets\/img\/CHP-trans.jpg" : {
+      "ft" : 16384,
+      "iS" : 7872,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/CHP-trans.png",
+      "oAP" : "\/_assets\/img\/CHP-trans.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/ChristophersenThies.jpg" : {
@@ -5819,17 +5819,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/CremaStatsGermany.png" : {
-      "ft" : 32768,
-      "iS" : 68172,
+    "\/_assets\/img\/CremaStatsGermany.jpg" : {
+      "ft" : 16384,
+      "iS" : 486583,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/CremaStatsGermany.png",
+      "oAP" : "\/_assets\/img\/CremaStatsGermany.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/CrematoriumIVPlan.jpg" : {
@@ -5845,17 +5845,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/cropped-ShopTitle.png" : {
-      "ft" : 32768,
-      "iS" : 746,
+    "\/_assets\/img\/cropped-ShopTitle.jpg" : {
+      "ft" : 16384,
+      "iS" : 27389,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/cropped-ShopTitle.png",
+      "oAP" : "\/_assets\/img\/cropped-ShopTitle.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/CyanideVictim.jpg" : {
@@ -6014,43 +6014,43 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/DeathRateFrenchDeportees.png" : {
-      "ft" : 32768,
-      "iS" : 125857,
+    "\/_assets\/img\/DeathRateFrenchDeportees.jpg" : {
+      "ft" : 16384,
+      "iS" : 691490,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/DeathRateFrenchDeportees.png",
+      "oAP" : "\/_assets\/img\/DeathRateFrenchDeportees.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/DegeschAd.png" : {
-      "ft" : 32768,
-      "iS" : 28993,
+    "\/_assets\/img\/DegeschAd.jpg" : {
+      "ft" : 16384,
+      "iS" : 129287,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/DegeschAd.png",
+      "oAP" : "\/_assets\/img\/DegeschAd.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/DegeschChamber.png" : {
-      "ft" : 32768,
-      "iS" : 390882,
+    "\/_assets\/img\/DegeschChamber.jpg" : {
+      "ft" : 16384,
+      "iS" : 376735,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/DegeschChamber.png",
+      "oAP" : "\/_assets\/img\/DegeschChamber.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/DejacoWalter_ErtlFritz.jpg" : {
@@ -6092,15 +6092,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/DoessekkerBruno.webp" : {
-      "ft" : 8388608,
-      "iS" : 30476,
+    "\/_assets\/img\/DoessekkerBruno.jpg" : {
+      "ft" : 16384,
+      "iS" : 48607,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/DoessekkerBruno.webp",
+      "oAP" : "\/_assets\/img\/DoessekkerBruno.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "ou" : "lpckwebp-default",
+      "ou" : "lpckwebp-none",
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/download.jpg" : {
@@ -6480,15 +6482,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/GrossmanVasily.webp" : {
-      "ft" : 8388608,
-      "iS" : 96644,
+    "\/_assets\/img\/GrossmanVasily.jpg" : {
+      "ft" : 16384,
+      "iS" : 240254,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/GrossmanVasily.webp",
+      "oAP" : "\/_assets\/img\/GrossmanVasily.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "ou" : "lpckwebp-default",
+      "ou" : "lpckwebp-none",
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/GroundwaterLevelBirkenau.jpg" : {
@@ -6751,17 +6755,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/HolocaustChart.png" : {
-      "ft" : 32768,
-      "iS" : 358968,
+    "\/_assets\/img\/HolocaustChart.jpg" : {
+      "ft" : 16384,
+      "iS" : 3363089,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/HolocaustChart.png",
+      "oAP" : "\/_assets\/img\/HolocaustChart.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/HolocaustEncyclopediaAll-single.jpg" : {
@@ -6842,43 +6846,43 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/HolocaustEvidence.png" : {
-      "ft" : 32768,
+    "\/_assets\/img\/HolocaustEvidence.jpg" : {
+      "ft" : 16384,
       "iS" : 58573,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/HolocaustEvidence.png",
+      "oAP" : "\/_assets\/img\/HolocaustEvidence.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/HolocaustFilmStats.png" : {
-      "ft" : 32768,
-      "iS" : 38559,
+    "\/_assets\/img\/HolocaustFilmStats.jpg" : {
+      "ft" : 16384,
+      "iS" : 14455,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/HolocaustFilmStats.png",
+      "oAP" : "\/_assets\/img\/HolocaustFilmStats.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/ICE-CO-Contents.png" : {
-      "ft" : 32768,
+    "\/_assets\/img\/ICE-CO-Contents.jpg" : {
+      "ft" : 16384,
       "iS" : 22225,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/ICE-CO-Contents.png",
+      "oAP" : "\/_assets\/img\/ICE-CO-Contents.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/IronBlue-BirkenauBW5a.jpg" : {
@@ -7401,17 +7405,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/MajdanekCampMap.png" : {
-      "ft" : 32768,
+    "\/_assets\/img\/MajdanekCampMap.jpg" : {
+      "ft" : 16384,
       "iS" : 51919,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/MajdanekCampMap.png",
+      "oAP" : "\/_assets\/img\/MajdanekCampMap.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/MajdanekCremaHorror.jpg" : {
@@ -7427,17 +7431,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/MajdanekCremaPlan.png" : {
-      "ft" : 32768,
-      "iS" : 33865,
+    "\/_assets\/img\/MajdanekCremaPlan.jpg" : {
+      "ft" : 16384,
+      "iS" : 33862,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/MajdanekCremaPlan.png",
+      "oAP" : "\/_assets\/img\/MajdanekCremaPlan.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/MajdanekCrematoriumMorgue.jpg" : {
@@ -7466,17 +7470,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/MajdanekDeathTollChart2023.png" : {
-      "ft" : 32768,
+    "\/_assets\/img\/MajdanekDeathTollChart2023.jpg" : {
+      "ft" : 16384,
       "iS" : 245535,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/MajdanekDeathTollChart2023.png",
+      "oAP" : "\/_assets\/img\/MajdanekDeathTollChart2023.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/MajdanekMissingBottles.jpg" : {
@@ -7973,17 +7977,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/PackingDensityGraphic.png" : {
-      "ft" : 32768,
+    "\/_assets\/img\/PackingDensityGraphic.jpg" : {
+      "ft" : 16384,
       "iS" : 3880,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/PackingDensityGraphic.png",
+      "oAP" : "\/_assets\/img\/PackingDensityGraphic.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/PaisikovicDov.jpg" : {
@@ -8077,14 +8081,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/PilunovPyreSketch.gif" : {
-      "ft" : 4194304,
-      "iS" : 145865,
+    "\/_assets\/img\/PilunovPyreSketch.jpg" : {
+      "ft" : 16384,
+      "iS" : 60012,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/PilunovPyreSketch.gif",
+      "oAP" : "\/_assets\/img\/PilunovPyreSketch.jpg",
       "oF" : 0,
+      "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-none",
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/PodchlebnikMichal.jpg" : {
@@ -8295,17 +8302,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/RajchmanChil.png" : {
-      "ft" : 32768,
+    "\/_assets\/img\/RajchmanChil.jpg" : {
+      "ft" : 16384,
       "iS" : 367570,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/RajchmanChil.png",
+      "oAP" : "\/_assets\/img\/RajchmanChil.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/RajzmanSamuel.jpg" : {
@@ -8360,17 +8367,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/Ravensbruck.png" : {
-      "ft" : 32768,
+    "\/_assets\/img\/Ravensbruck.jpg" : {
+      "ft" : 16384,
       "iS" : 26761,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/Ravensbruck.png",
+      "oAP" : "\/_assets\/img\/Ravensbruck.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/RederRudolf.jpg" : {
@@ -8386,17 +8393,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/redpill.png" : {
-      "ft" : 32768,
-      "iS" : 3477,
+    "\/_assets\/img\/redpill.jpg" : {
+      "ft" : 16384,
+      "iS" : 3470,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/redpill.png",
+      "oAP" : "\/_assets\/img\/redpill.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/RingelblumEmanuel.jpg" : {
@@ -8503,17 +8510,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/SachsenhausenDelousing.png" : {
-      "ft" : 32768,
+    "\/_assets\/img\/SachsenhausenDelousing.jpg" : {
+      "ft" : 16384,
       "iS" : 53570,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/SachsenhausenDelousing.png",
+      "oAP" : "\/_assets\/img\/SachsenhausenDelousing.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/SachsenhausenFumigationChamberGarageNumbered.jpg" : {
@@ -8711,17 +8718,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/SixMillion.png" : {
-      "ft" : 32768,
+    "\/_assets\/img\/SixMillion.jpg" : {
+      "ft" : 16384,
       "iS" : 10145,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/SixMillion.png",
+      "oAP" : "\/_assets\/img\/SixMillion.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/SoapIMT.jpg" : {
@@ -8789,17 +8796,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/SpecialTreatmentZentralsauna.png" : {
-      "ft" : 32768,
+    "\/_assets\/img\/SpecialTreatmentZentralsauna.jpg" : {
+      "ft" : 16384,
       "iS" : 67146,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/SpecialTreatmentZentralsauna.png",
+      "oAP" : "\/_assets\/img\/SpecialTreatmentZentralsauna.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/SpeerAlbert.jpg" : {
@@ -9075,30 +9082,30 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/TurnerFakeRuneSS.png" : {
-      "ft" : 32768,
-      "iS" : 1073,
+    "\/_assets\/img\/TurnerFakeRuneSS.jpg" : {
+      "ft" : 16384,
+      "iS" : 1037,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/TurnerFakeRuneSS.png",
+      "oAP" : "\/_assets\/img\/TurnerFakeRuneSS.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/TyphusCases.png" : {
-      "ft" : 32768,
+    "\/_assets\/img\/TyphusCases.jpg" : {
+      "ft" : 16384,
       "iS" : 7635,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/TyphusCases.png",
+      "oAP" : "\/_assets\/img\/TyphusCases.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/TyphusLouse.jpg" : {
@@ -9114,17 +9121,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/TyphusRetaliation.png" : {
-      "ft" : 32768,
-      "iS" : 42774,
+    "\/_assets\/img\/TyphusRetaliation.jpg" : {
+      "ft" : 16384,
+      "iS" : 42696,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/TyphusRetaliation.png",
+      "oAP" : "\/_assets\/img\/TyphusRetaliation.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/UthgenanntOtto.jpg" : {
@@ -9270,17 +9277,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/VrbaCrematoriumSketch.png" : {
-      "ft" : 32768,
+    "\/_assets\/img\/VrbaCrematoriumSketch.jpg" : {
+      "ft" : 16384,
       "iS" : 69785,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/VrbaCrematoriumSketch.png",
+      "oAP" : "\/_assets\/img\/VrbaCrematoriumSketch.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/VrbaRudolf.jpg" : {
@@ -9296,28 +9303,30 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/WaelMoniqueDe.webp" : {
-      "ft" : 8388608,
-      "iS" : 14416,
+    "\/_assets\/img\/WaelMoniqueDe.jpg" : {
+      "ft" : 16384,
+      "iS" : 27428,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/WaelMoniqueDe.webp",
+      "oAP" : "\/_assets\/img\/WaelMoniqueDe.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "ou" : "lpckwebp-default",
+      "ou" : "lpckwebp-none",
+      "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/WannseeProtocolRuneSS.png" : {
-      "ft" : 32768,
+    "\/_assets\/img\/WannseeProtocolRuneSS.jpg" : {
+      "ft" : 16384,
       "iS" : 881,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/WannseeProtocolRuneSS.png",
+      "oAP" : "\/_assets\/img\/WannseeProtocolRuneSS.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/WannseeProtocolVersionA.jpg" : {
@@ -9344,32 +9353,6 @@
       "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
-      "rq" : 75
-    },
-    "\/_assets\/img\/web-app-manifest-192x192.png" : {
-      "ft" : 32768,
-      "iS" : 8946,
-      "oA" : 0,
-      "oAP" : "\/_assets\/img\/web-app-manifest-192x192.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/_assets\/img\/web-app-manifest-512x512.png" : {
-      "ft" : 32768,
-      "iS" : 35832,
-      "oA" : 0,
-      "oAP" : "\/_assets\/img\/web-app-manifest-512x512.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
       "rq" : 75
     },
     "\/_assets\/img\/WeddingRingsPipeClippings.jpg" : {
@@ -9580,17 +9563,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/xlogo_codoh.png" : {
-      "ft" : 32768,
+    "\/_assets\/img\/xlogo_codoh.jpg" : {
+      "ft" : 16384,
       "iS" : 8010,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/xlogo_codoh.png",
+      "oAP" : "\/_assets\/img\/xlogo_codoh.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 90,
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/Zentralsauna.jpg" : {
@@ -9645,14 +9628,17 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/img\/ZyklonBEvaporation.gif" : {
-      "ft" : 4194304,
-      "iS" : 21036,
+    "\/_assets\/img\/ZyklonBEvaporation.jpg" : {
+      "ft" : 16384,
+      "iS" : 47183,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/img\/ZyklonBEvaporation.gif",
+      "oAP" : "\/_assets\/img\/ZyklonBEvaporation.jpg",
       "oF" : 0,
+      "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-none",
+      "q" : 100,
       "rq" : 75
     },
     "\/_assets\/img\/ZyklonBIntroductionDevicePostwarRoofHole.jpg" : {
