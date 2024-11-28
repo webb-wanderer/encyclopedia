@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+	<link rel="stylesheet" href="/_assets/css/encyclopedia.css" media="screen">
+	<link href="https://encyclopedia.historiography-project.com/u/index.html" rel="canonical">
+	<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous">
+</script>
+	<title>U Toss me | Holocaust Encyclopedia</title>
+</head>
+<body>
+<header class="header">
+	<a href="https://www.historiography-project.com/index.php" title="The Holocaust Historiography Project"><img src="/_assets/graphix/hhlogo2.png" alt="The Holocaust Historiography Project"></a>
+</header>
+<main class="container-fluid">
+	<div class="row">
+		<article class="col-md-9">
+			<h1>
+				Holocaust Encyclopedia
+			</h1>
+			<p class="lead">
+				uncensored and unconstrained
+			</p>
+			<nav id="nav-he">
+				<p class="text-center well">
+					<a class="btn btn-default" href="/a/index.html" id="a">A</a> <a class="btn btn-default" href="/b/index.html" id="b">B</a> <a class="btn btn-default" href="/c/index.html" id="c">C</a> <a class="btn btn-default" href="/d/index.html" id="d">D</a> <a class="btn btn-default" href="/e/index.html" id="e">E</a> <a class="btn btn-default" href="/f/index.html" id="f">F</a> <a class="btn btn-default" href="/g/index.html" id="g">G</a> <a class="btn btn-default" href="/h/index.html" id="h">H</a> <a class="btn btn-default" href="/i/index.html" id="i">I</a> <a class="btn btn-default" href="/j/index.html" id="j">J</a> <a class="btn btn-default" href="/k/index.html" id="k">K</a> <a class="btn btn-default" href="/l/index.html" id="l">L</a> <a class="btn btn-default" href="/m/index.html" id="m">M</a><br>
+					<a class="btn btn-default" href="/n/index.html" id="n">N</a> <a class="btn btn-default" href="/o/index.html" id="o">O</a> <a class="btn btn-default" href="/p/index.html" id="p">P</a> <a class="btn btn-default" href="/q/index.html" id="q">Q</a> <a class="btn btn-default" href="/r/index.html" id="r">R</a> <a class="btn btn-default" href="/s/index.html" id="s">S</a> <a class="btn btn-default" href="/t/index.html" id="t">T</a> <a class="btn btn-default" href="/u/index.html" id="u">U</a> <a class="btn btn-default" href="/v/index.html" id="v">V</a> <a class="btn btn-default" href="/w/index.html" id="w">W</a> <a class="btn btn-default" href="/y/index.html" id="y">Y</a> <a class="btn btn-default" href="/z/index.html" id="z">Z</a> <a class="btn btn-default" href="/list-of-entries/index.html" id="entries"><span class="glyphicon glyphicon-list"></span></a>
+				</p>
+			</nav>
+			<nav id="breadcrumbs">
+			</nav>
+			<script src="/_assets/js/nav-hhp-min.js">
+</script>
+<!-- end bbinclude -->
+			<h2>
+				U Toss me
+			</h2>
+			<div id="toc">
+				<ul class="columns">
+					<li><a href="/u/uhlenbrock-kurt/index.html">Uhlenbrock, Kurt</a></li>
+					<li><a href="/u/ukraine/index.html">Ukraine</a></li>
+					<li><a href="/m/microwave-delousing/index.html">ultra-shortwave delousing</a></li>
+					<li><a href="/u/uthgenannt-otto/index.html">Uthgenannt, Otto</a></li>
+				</ul>
+			</div>
+		</article>
+		<div class="col-md-3">
+			<nav class="navigation" id="nav-hhp">
+			</nav>
+			<hr>
+			<aside id="aside">
+			</aside>
+		</div>
+	</div>
+</main>
+<footer class="footer" id="footer">
+	<p class="text-center">
+		Copyright &copy; 2022-2024 Academic Research Group
+	</p>
+</footer>
+<script>
+	document.addEventListener('DOMContentLoaded', () => {
+	  // Function to get the current top folder
+	  function getCurrentTopFolder() {
+	    return window.location.pathname
+	      .replace(/^\/|\/$/g, '')
+	      .split('/')[0];
+	  }
+
+	  // Get the current top folder
+	  const currentTopFolder = getCurrentTopFolder();
+
+	  // Select all links in the navigation
+	  const navLinks = document.querySelectorAll('nav a');
+
+	  // Iterate through navigation links
+	  navLinks.forEach(link => {
+	    // Check if the link's href contains the current top folder
+	if (link.getAttribute('href').startsWith(`/${currentTopFolder}/`)) {
+	      link.classList.add('active');
+	    } else {
+	      link.classList.remove('active');
+	    }
+	  });
+	});
+</script>
+</body>
+</html>
