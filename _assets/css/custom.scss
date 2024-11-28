@@ -55,7 +55,7 @@ sup, .footnote { bottom: 0.33em; }
 sub { bottom: -0.25em; }
 .active { font-weight: bold; }
 .breadcrumb { margin-top: 1em; }
-.columns { margin-bottom: 1em; }
+.columns { column-gap: 1em; margin-bottom: 1em; }
 .embed-responsive { margin-bottom: 1em; }
 
 .footer
