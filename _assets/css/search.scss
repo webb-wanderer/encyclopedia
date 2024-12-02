@@ -31,3 +31,12 @@ button
 }
 
 button:hover { background-color: #357abd; }
+
+/* Search button fix */
+/* wrap the search function in a div with this class */
+.reset-box-sizing, .reset-box-sizing *
+{
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+}

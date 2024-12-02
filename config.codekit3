@@ -4765,7 +4765,7 @@
       "pg" : 1,
       "sct" : 0
     },
-    "\/_assets\/css\/search-min.css" : {
+    "\/_assets\/css\/search.css" : {
       "aP" : 1,
       "bl" : 0,
       "ci" : 0,
@@ -4773,7 +4773,7 @@
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/css\/search-min-min.css",
+      "oAP" : "\/_assets\/css\/search-min.css",
       "oF" : 0,
       "pg" : 0
     },
