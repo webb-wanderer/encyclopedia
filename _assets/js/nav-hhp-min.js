@@ -1,1 +1,0 @@
-$(document).ready((function(){$("#nav-hhp").load("/_assets/includes/nav.htm")}));

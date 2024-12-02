@@ -4732,9 +4732,9 @@
     },
     "\/_assets\/css\/encyclopedia.css" : {
       "aP" : 1,
-      "bl" : 0,
+      "bl" : 1,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -4767,9 +4767,9 @@
     },
     "\/_assets\/css\/search.css" : {
       "aP" : 1,
-      "bl" : 0,
+      "bl" : 1,
       "ci" : 0,
-      "co" : 0,
+      "co" : 1,
       "ft" : 16,
       "ma" : 0,
       "oA" : 0,
@@ -4778,17 +4778,17 @@
       "pg" : 0
     },
     "\/_assets\/css\/search.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
+      "aP" : 1,
+      "bl" : 1,
+      "co" : 1,
       "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/_assets\/css\/search.css",
-      "oF" : 0,
-      "oS" : 0,
+      "oF" : 1,
+      "oS" : 3,
       "pg" : 0,
       "sct" : 0
     },
@@ -9654,12 +9654,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/includes\/aside.htm" : {
+    "\/_assets\/includes\/footer.htm" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/includes\/aside.htm",
+      "oAP" : "\/_assets\/includes\/footer.htm",
       "oF" : 0
     },
     "\/_assets\/includes\/masthead.htm" : {
@@ -9670,32 +9670,32 @@
       "oAP" : "\/_assets\/includes\/masthead.htm",
       "oF" : 0
     },
-    "\/_assets\/includes\/nav.htm" : {
+    "\/_assets\/includes\/nav-hhp.htm" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/_assets\/includes\/nav.htm",
+      "oAP" : "\/_assets\/includes\/nav-hhp.htm",
       "oF" : 0
     },
-    "\/_assets\/js\/aside-min.js" : {
+    "\/_assets\/js\/footer-js-min.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/_assets\/js\/aside-min-min.js",
+      "oAP" : "\/_assets\/js\/footer-js-min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
-    "\/_assets\/js\/aside.js" : {
+    "\/_assets\/js\/footer-js.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/_assets\/js\/aside-min.js",
+      "oAP" : "\/_assets\/js\/footer-js-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
@@ -9740,28 +9740,6 @@
       "mi" : 1,
       "oA" : 0,
       "oAP" : "\/_assets\/js\/masthead-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
-    },
-    "\/_assets\/js\/nav-hhp-min.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/_assets\/js\/nav-hhp-min-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
-    },
-    "\/_assets\/js\/nav-hhp.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/_assets\/js\/nav-hhp-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
@@ -14485,6 +14463,14 @@
       "oAP" : "\/terms-conditions-of-use\/index.html",
       "oF" : 0
     },
+    "\/toc.htm" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/toc.htm",
+      "oF" : 0
+    },
     "\/u\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -16298,10 +16284,10 @@
       "autoOutputPathReplace2" : "",
       "autoOutputPathStyle" : 0,
       "combineImports" : 0,
-      "cssoStyle" : 0,
+      "cssoStyle" : 1,
       "purgeCSSStyle" : 0,
       "shouldRunAutoprefixer" : 1,
-      "shouldRunBless" : 0,
+      "shouldRunBless" : 1,
       "sourceMapStyle" : 0
     },
     "languageDefaultsGIF" : {
