@@ -14303,6 +14303,14 @@
       "oAP" : "\/sitemap\/index.html",
       "oF" : 0
     },
+    "\/support-revisionism.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/support-revisionism.html",
+      "oF" : 0
+    },
     "\/t\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -14477,14 +14485,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/u\/index.html",
-      "oF" : 0
-    },
-    "\/u\/tossme.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/u\/tossme.html",
       "oF" : 0
     },
     "\/u\/uhlenbrock-kurt\/index.html" : {
