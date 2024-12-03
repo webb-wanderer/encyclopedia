@@ -9654,14 +9654,6 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/_assets\/includes\/footer.htm" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/_assets\/includes\/footer.htm",
-      "oF" : 0
-    },
     "\/_assets\/includes\/masthead.htm" : {
       "cB" : 0,
       "ft" : 8192,
@@ -9700,28 +9692,6 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/_assets\/js\/highlighting-min.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/_assets\/js\/highlighting-min-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
-    },
-    "\/_assets\/js\/highlighting.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/_assets\/js\/highlighting-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
-    },
     "\/_assets\/js\/masthead-min.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -9740,6 +9710,28 @@
       "mi" : 1,
       "oA" : 0,
       "oAP" : "\/_assets\/js\/masthead-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/_assets\/js\/thumbIndex-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/_assets\/js\/thumbIndex-min-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/_assets\/js\/thumbIndex.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/_assets\/js\/thumbIndex-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
@@ -13132,6 +13124,14 @@
       "oAP" : "\/n\/nyiszli-miklos\/index.html",
       "oF" : 0
     },
+    "\/navbar.htm" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/navbar.htm",
+      "oF" : 0
+    },
     "\/o\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -14469,14 +14469,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/terms-conditions-of-use\/index.html",
-      "oF" : 0
-    },
-    "\/toc.htm" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/toc.htm",
       "oF" : 0
     },
     "\/u\/index.html" : {

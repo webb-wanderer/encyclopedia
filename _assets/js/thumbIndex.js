@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const currentTopFolder = getCurrentTopFolder();
 
   // Select all links in the navigation
-  const navLinks = document.querySelectorAll("nav#nav-he > p > a");
+  const navLinks = document.querySelectorAll("nav#thumbIndex > p > a");
 
   // Iterate through navigation links
   navLinks.forEach((link) => {
