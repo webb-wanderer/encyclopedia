@@ -1,1 +1,2 @@
 Sitemap: https://encyclopedia.historiography-project.com/sitemap.txt
+Sitemap: https://encyclopedia.historiography-project.com/sitemap.xml
