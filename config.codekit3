@@ -14279,6 +14279,14 @@
       "oAP" : "\/s\/szperling-henike\/index.html",
       "oF" : 0
     },
+    "\/search\/algolia.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/search\/algolia.html",
+      "oF" : 0
+    },
     "\/search\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
