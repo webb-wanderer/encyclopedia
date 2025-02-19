@@ -13511,22 +13511,6 @@
       "oAP" : "\/p\/putzker-fritz\/index.html",
       "oF" : 0
     },
-    "\/package-lock.json" : {
-      "ft" : 524288,
-      "oA" : 1,
-      "oAP" : "\/package-lock-min.json",
-      "oF" : 0,
-      "oO" : 1,
-      "oS" : 1
-    },
-    "\/package.json" : {
-      "ft" : 524288,
-      "oA" : 1,
-      "oAP" : "\/package-min.json",
-      "oF" : 0,
-      "oO" : 1,
-      "oS" : 1
-    },
     "\/pagefind\/fragment\/en-us_0c0cfb0.pf_fragment" : {
       "cB" : 0,
       "ft" : 8192,
