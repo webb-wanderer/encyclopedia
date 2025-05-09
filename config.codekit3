@@ -15,7 +15,7 @@
       "uuidString" : "0700D010-845D-431A-AB09-990C269B8B93"
     }
   ],
-  "creatorBuild" : "34627",
+  "creatorBuild" : "34689",
   "files" : {
     "\/_assets\/audio\/AbsurdClaims.mp3" : {
       "cB" : 0,
@@ -20836,8 +20836,6 @@
     "buildFolderActive" : 0,
     "buildFolderName" : "build",
     "cleanBuild" : 1,
-    "cssoForceMediaMerge" : 0,
-    "cssoRestructure" : 1,
     "environmentVariableEntries" : [
       "NODE_ENV:::production"
     ],
