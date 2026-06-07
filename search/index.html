@@ -7,7 +7,8 @@
 <!-- end bbinclude -->
 	<title>Search the Holocaust Encyclopedia</title>
 <!-- #bbinclude "pagefind-meta.incl" -->
-<link href="/pagefind/pagefind-ui.css" rel="stylesheet"><script src="/pagefind/pagefind-ui.js"></script>
+<link href="/pagefind/pagefind-component-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-component-ui.js" type="module"></script>
 <!-- end bbinclude -->
 </head>
 <body id="top">
@@ -24,13 +25,7 @@
 				Search the Holocaust Encyclopedia
 			</h2>
 <!-- #bbinclude "pagefind-search.incl" -->
-<div id="search"></div>
-<script>
-    window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({ element: "#search", showSubResults: true });
-    });
-</script>
-<p class="small text-right">Courtesy of <a href="https://pagefind.app">Pagefind</a>.</p>
+<div class="sidebar-search"><pagefind-input><search class="pf-input-wrapper" role="search" aria-label="Search this site"><label for="pfmod-input-eae-dba" data-pf-sr-hidden="true">Search this site</label><input id="pfmod-input-eae-dba" class="pf-input" type="search" autocomplete="off" autocapitalize="none" enterkeyhint="search" placeholder="Search" aria-describedby="pf-input-hint-dbe-dbf"><span id="pf-input-hint-dbe-dbf" data-pf-sr-hidden="true">Results will appear as you type</span><button class="pf-input-clear" type="button" data-pf-suppressed="true">Clear</button></search></pagefind-input><pagefind-summary><div class="pf-summary"></div></pagefind-summary><pagefind-results><ul class="pf-results" aria-label="Search results" aria-busy="false"></ul></pagefind-results></div><p class="small text-right">Courtesy of <a href="https://pagefind.app">Pagefind</a>.</p>
 <!-- end bbinclude -->
 			<p>
 				You can also use your browser to search the titles of <a href="/sitemap/index.html">the files on this website</a>.
@@ -42,7 +37,7 @@
 <!-- SiteSearch Google -->
 			</div>
 			<script async src="https://cse.google.com/cse.js?cx=016318631730602016031:y_bdobvehsy">
-</script>
+			</script>
 			<div class="gcse-search">
 			</div>
 <!-- /SiteSearch Google -->
