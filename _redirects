@@ -9,6 +9,7 @@ http://encyclohhpedia.netlify.app/* https://encyclopedia.historiography-project.
 /document/* /documents/:splat 301!
 /event/* /events/:splat 301!
 /historical-person/* /persons/:splat 301!
+/k/klooga/index.html /change-log/index.html#Klooga 301!
 /location/* /locations/:splat 301!
 /object/* /objects/:splat 301!
 /plan-order/* /plans-orders/:splat 301!
