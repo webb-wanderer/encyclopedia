@@ -1,1 +1,0 @@
-document.addEventListener("DOMContentLoaded",(()=>{const t=window.location.pathname.replace(/^\/|\/$/g,"").split("/")[0];document.querySelectorAll("nav#thumbIndex > p > a").forEach((e=>{e.getAttribute("href").startsWith(`/${t}/`)?e.classList.add("active"):e.classList.remove("active")}))}));
