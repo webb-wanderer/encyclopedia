@@ -1,6 +1,13 @@
 # domain-level
 https://encyclohhpedia.netlify.app/* https://encyclopedia.historiography-project.com/:splat 301!
-http://encyclohhpedia.netlify.app/* https://encyclopedia.historiography-project.com/:splat 301!
+http://encyclohhpedia.netlify.app/*  https://encyclopedia.historiography-project.com/:splat 301!
+
+# siteicons
+favicon-96x96.png     /_assets/siteicons/favicon-96x96.png 301!
+favicon.svg           /_assets/siteicons/favicon.svg 301!
+favicon.ico           /_assets/siteicons/favicon.ico 301!
+apple-touch-icon.png  /_assets/siteicons/apple-touch-icon.png 301!
+site.webmanifest      /_assets/siteicons/site.webmanifest 301!
 
 # relocations
 /absurdities/absurd-claims/* /a/absurd-claims/:splat 301!
@@ -38,7 +45,7 @@ http://encyclohhpedia.netlify.app/* https://encyclopedia.historiography-project.
 /tag/w/* /w/:splat 301!
 /tag/y/* /y/:splat 301!
 /tag/z/* /z/:splat 301!
-/technology/* /technologies/:splat 301!
-/toxin-chemical/* /toxins-chemicals/:splat 301!
-/witness/* /witnesses/:splat 301!
-/how-to-use-this-site/index.html /list-of-pages/index.html 301!
+/technology/*                     /technologies/:splat      301!
+/toxin-chemical/*                 /toxins-chemicals/:splat   301!
+/witness/*                        /witnesses/:splat          301!
+/how-to-use-this-site/index.html  /list-of-pages/index.html  301!
