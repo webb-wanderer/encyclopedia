@@ -7,7 +7,7 @@
 <!-- end bbinclude -->
 	<title>Janowska Camp | Holocaust Encyclopedia</title>
 </head>
-<body>
+<body id="top">
 <!-- #bbinclude "page-header-small.incl" -->
 <header class="header"><a href="https://www.historiography-project.com/index.php" title="The Holocaust Historiography Project"><img src="/_assets/graphix/hhlogo2.png" alt="The Holocaust Historiography Project"></a></header><main class="container-fluid"><div class="row"><article class="col-md-10"><div id="nav-he"><p class="well" style="height: 53px;"></p></div><p class="h1">Holocaust Encyclopedia</p><p class="lead">uncensored and unconstrained</p>
 <!-- end bbinclude -->
@@ -48,6 +48,20 @@
 
 <script src="/_assets/bootstrap3_player/bootstrap3_player.js"></script>
 <script src="/_assets/js/footer-js.js"></script>
+<span id="top-link-block" class="hidden"> <a href="#top" id="backToTopBtn" class="well well-sm"> <i class="glyphicon glyphicon-chevron up"></i> Back to Top </a> </span>
+<script>
+	if (($(window).height() + 100) < $(document).height()) {
+	    $("#top-link-block").removeClass("hidden").affix({
+	        offset: {top: 100}
+	    });
+	}
+	$("#backToTopBtn").click(function () {
+	    $("html,body").animate({scrollTop: 0}, "slow");
+	    return false;
+	});
+</script>
+<!-- thanks: https://stackoverflow.com/questions/22413203/bootstrap-affix-back-to-top-link -->
+
 <!-- end bbinclude -->
 </body>
 </html>

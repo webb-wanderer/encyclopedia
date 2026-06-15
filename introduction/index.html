@@ -7,7 +7,7 @@
 <!-- end bbinclude -->
 	<title>Introduction | Holocaust Encyclopedia</title>
 </head>
-<body>
+<body id="top">
 <!-- #bbinclude "page-header-small.incl" -->
 <header class="header"><a href="https://www.historiography-project.com/index.php" title="The Holocaust Historiography Project"><img src="/_assets/graphix/hhlogo2.png" alt="The Holocaust Historiography Project"></a></header><main class="container-fluid"><div class="row"><article class="col-md-10"><div id="nav-he"><p class="well" style="height: 53px;"></p></div><p class="h1">Holocaust Encyclopedia</p><p class="lead">uncensored and unconstrained</p>
 <!-- end bbinclude -->
@@ -17,7 +17,7 @@
 			<h2 data-pagefind-weight="7">
 				Introduction
 			</h2>
-			<audio controls src="/_assets/audio/Introduction.mp3">
+			<audio controls src="Introduction.mp3">
 			</audio>
 			<h3>
 				Why the Holocaust Matters
@@ -26,7 +26,7 @@
 				The Holocaust is a topic that everyone knows something about. It&rsquo;s a topic that none of us can avoid, like it or not. The reason for this is the fact that it is the single most-influential historical topic of the modern world. For sure, other modern-day genocides happened, and most people can probably name a few. But unless your country or ethnic group has been either a victim or a perpetrator of that genocide, these other, foreign genocides basically never play a role in domestic daily politics or social interactions. Most of them will never make it beyond a brief mention on a school&rsquo;s syllabus, if at all, and hardly any of them have dedicated museums and memorials. No one cares if we remember, forget, ignore or even deny these foreign events, or whether we pay tribute to their victims or disrespect them.
 			</p>
 			<div class="embed-responsive embed-responsive-16by9">
-				<iframe class="embed-responsive-item" src="https://holocaustencyclopedia.com/wp-content/uploads/HolocaustEncyclopedia-AnIntroduction-hb27.mp4"></iframe>
+				<iframe class="embed-responsive-item" src="Introduction.mp4"></iframe>
 			</div>
 			<p>
 				Watch our 30-minute introduction to this fine tome.
@@ -363,6 +363,20 @@
 
 <script src="/_assets/bootstrap3_player/bootstrap3_player.js"></script>
 <script src="/_assets/js/footer-js.js"></script>
+<span id="top-link-block" class="hidden"> <a href="#top" id="backToTopBtn" class="well well-sm"> <i class="glyphicon glyphicon-chevron up"></i> Back to Top </a> </span>
+<script>
+	if (($(window).height() + 100) < $(document).height()) {
+	    $("#top-link-block").removeClass("hidden").affix({
+	        offset: {top: 100}
+	    });
+	}
+	$("#backToTopBtn").click(function () {
+	    $("html,body").animate({scrollTop: 0}, "slow");
+	    return false;
+	});
+</script>
+<!-- thanks: https://stackoverflow.com/questions/22413203/bootstrap-affix-back-to-top-link -->
+
 <!-- end bbinclude -->
 </body>
 </html>
