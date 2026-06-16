@@ -10,18 +10,18 @@
     var SCROLL_TOP = 0;
 
     function initBackToTop() {
-        var windowHeight = $(window).height();
-        var documentHeight = $(document).height();
-        var topLinkBlock = $("#top-link-block");
-        var backToTopBtn = $("#backToTopBtn");
+        var WINDOW_HEIGHT = $(window).height();
+        var DOCUMENT_HEIGHT = $(document).height();
+        var TOP_LINK_BLOCK = $("#top-link-block");
+        var BACK_TO_TOP_BTN = $("#backToTopBtn");
 
-        if ((windowHeight + SCROLL_THRESHOLD) < documentHeight) {
-            topLinkBlock.removeClass("hidden").affix({
+        if ((WINDOW_HEIGHT + SCROLL_THRESHOLD) < DOCUMENT_HEIGHT) {
+            TOP_LINK_BLOCK.removeClass("hidden").affix({
                 offset: AFFIX_OFFSET
             });
         }
 
-        backToTopBtn.on("click", function () {
+        BACK_TO_TOP_BTN.on("click", function () {
             $("html, body").animate({scrollTop: SCROLL_TOP}, ANIMATION_SPEED);
             return false;
         });
@@ -30,4 +30,6 @@
     $(document).ready(initBackToTop);
 
 }(jQuery));
-/*https://stackoverflow.com/questions/22413203/bootstrap-affix-back-to-top-link */
+/*
+https://stackoverflow.com/questions/22413203/bootstrap-affix-back-to-top-link
+*/
