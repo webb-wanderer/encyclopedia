@@ -30,4 +30,4 @@
     $(document).ready(initBackToTop);
 
 }(jQuery));
-/*thanks: https://stackoverflow.com/questions/22413203/bootstrap-affix-back-to-top-link */
+/*https://stackoverflow.com/questions/22413203/bootstrap-affix-back-to-top-link */
